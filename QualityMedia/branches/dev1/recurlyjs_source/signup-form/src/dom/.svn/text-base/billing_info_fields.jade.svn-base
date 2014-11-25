@@ -1,0 +1,50 @@
+h4 Billing Information
+
+.address
+  p.sel.field.country
+    select
+      include countries.jade
+
+  p.txt.field.address1
+    input(type="text", placeholder="Address")
+
+  p.txt.field.city
+    input(type="text", placeholder="City")
+
+  .state_zip
+    p.txt.field.state
+      input(type="text", placeholder="State/Province")
+
+    p.txt.field.zip
+      input.numeric(type="text", placeholder="Zip/Postal Code")
+
+    p.txt.field.phone
+      input(type="text", placeholder="Phone Number")
+
+.line
+
+h4 Payment Information
+  span.exc.right
+    em Please enter your billing information as shown on your credit card statement.
+
+.credit_card
+  .field.first_name
+    input(type="text", placeholder="First Name")
+
+  .field.last_name
+    input(type="text", placeholder="Last Name")
+
+  .card_cvv
+    p.txt.field.card_number
+      img.cc(src="http://qm-static.s3-website-us-west-2.amazonaws.com/images/img-cc2.png")
+      input.numeric(type="text", placeholder="Credit Card Number")
+
+    p.txt.field.cvv
+      input.numeric(type="text", placeholder="Security Code", maxlength="4")
+
+  .field.expires
+    span.label Expiration Date
+    p.txt.month
+      input.numeric(type="text", placeholder="MM", maxlength="2")
+    p.txt.day.year
+      input.numeric(type="text", placeholder="YYYY", maxlength="4")

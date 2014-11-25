@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/collections
+END
+CTypedMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/collections/CTypedMap.php
+END
+CQueue.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/collections/CQueue.php
+END
+CListIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/collections/CListIterator.php
+END
+CStack.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/collections/CStack.php
+END
+CConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/collections/CConfiguration.php
+END
+CMapIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/collections/CMapIterator.php
+END
+CList.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/collections/CList.php
+END
+CMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/collections/CMap.php
+END
+CQueueIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/collections/CQueueIterator.php
+END
+CAttributeCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/collections/CAttributeCollection.php
+END
+CStackIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/collections/CStackIterator.php
+END
+CTypedList.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/collections/CTypedList.php
+END

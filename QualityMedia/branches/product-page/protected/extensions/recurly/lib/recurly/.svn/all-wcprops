@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly
+END
+coupon.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/coupon.php
+END
+redemption.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/redemption.php
+END
+base.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/base.php
+END
+errors.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/errors.php
+END
+stub.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/stub.php
+END
+client.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/client.php
+END
+recurly_js.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/recurly_js.php
+END
+error_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/error_list.php
+END
+transaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/transaction.php
+END
+plan_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/plan_list.php
+END
+addon.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/addon.php
+END
+currency_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/currency_list.php
+END
+invoice_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/invoice_list.php
+END
+resource.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/resource.php
+END
+account_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/account_list.php
+END
+subscription_addon.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/subscription_addon.php
+END
+plan.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/plan.php
+END
+currency.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/currency.php
+END
+billing_info.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/billing_info.php
+END
+account.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/account.php
+END
+invoice.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/invoice.php
+END
+coupon_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/coupon_list.php
+END
+transaction_error.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/transaction_error.php
+END
+response.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/response.php
+END
+adjustment_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/adjustment_list.php
+END
+adjustment.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/adjustment.php
+END
+subscription_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/subscription_list.php
+END
+addon_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/addon_list.php
+END
+transaction_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/transaction_list.php
+END
+subscription.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/subscription.php
+END
+push_notification.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/push_notification.php
+END
+link.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/link.php
+END
+pager.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/recurly/lib/recurly/pager.php
+END

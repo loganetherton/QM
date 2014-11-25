@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qualitymedia1/!svn/ver/1543/branches/junior-am/base/protected/modules/api/models
+END
+YelpAnalyticsReceiver.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/api/models/YelpAnalyticsReceiver.php
+END
+YelpPhotoReceiver.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/api/models/YelpPhotoReceiver.php
+END
+YelpInfoReceiver.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/api/models/YelpInfoReceiver.php
+END
+YelpReviewReceiver.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/api/models/YelpReviewReceiver.php
+END
+YelpBusinessesReceiver.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/api/models/YelpBusinessesReceiver.php
+END
+YelpMessageReceiver.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/api/models/YelpMessageReceiver.php
+END
+YelpTotalReviewReceiver.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/qualitymedia1/!svn/ver/1543/branches/junior-am/base/protected/modules/api/models/YelpTotalReviewReceiver.php
+END

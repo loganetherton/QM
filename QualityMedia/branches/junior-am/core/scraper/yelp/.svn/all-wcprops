@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/yelp
+END
+run.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/yelp/run.php
+END
+HttpQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/yelp/HttpQuery.php
+END
+SearchParameters.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/yelp/SearchParameters.php
+END
+Yelp.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/yelp/Yelp.php
+END
+send.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/yelp/send.php
+END
+ips.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/yelp/ips.php
+END
+Review.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/yelp/Review.php
+END
+ganon.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/yelp/ganon.php
+END
+receive.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/yelp/receive.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/tests
+END
+WebTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/tests/WebTestCase.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/tests/bootstrap.php
+END
+phpunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/tests/phpunit.xml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/api/model
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/api/model/Makefile
+END
+qmdb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/api/model/qmdb.sql
+END
+model.mwb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/api/model/model.mwb
+END
+ScraperInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/api/model/ScraperInterface.php
+END
+qualitymedia.adl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/api/model/qualitymedia.adl
+END
+model.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/api/model/model.pdf
+END

@@ -1,0 +1,1 @@
+<input type="button" name="Review[action][seniorAmNote]" rel="#seniorAmNote-<?php echo $data->id; ?>" class="btn btn-warning btn-seniorAmNote pull-right" value="<?php echo empty($data->seniorAmNote) ? 'Add' : 'Edit'?> Note to Jr" />&nbsp;

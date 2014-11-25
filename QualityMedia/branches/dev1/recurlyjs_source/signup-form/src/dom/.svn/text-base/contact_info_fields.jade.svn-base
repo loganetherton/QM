@@ -1,0 +1,15 @@
+h4 Account Information
+
+p.txt.field.company_name
+  input(type="text", placeholder="Business Name")
+
+.full_name
+  p.txt.field.first_name
+    input(type="text", placeholder="First Name")
+
+
+  p.txt.field.last_name
+    input(type="text", placeholder="Last Name")
+
+p.txt.field.email
+  input(type="text", placeholder="Email")

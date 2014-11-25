@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/logging
+END
+CEmailLogRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/logging/CEmailLogRoute.php
+END
+CWebLogRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/logging/CWebLogRoute.php
+END
+CLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/logging/CLogger.php
+END
+CFileLogRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/logging/CFileLogRoute.php
+END
+CLogRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/logging/CLogRoute.php
+END
+CProfileLogRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/logging/CProfileLogRoute.php
+END
+CLogRouter.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/logging/CLogRouter.php
+END
+CChainedLogFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/logging/CChainedLogFilter.php
+END
+CDbLogRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/logging/CDbLogRoute.php
+END
+CLogFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/logging/CLogFilter.php
+END

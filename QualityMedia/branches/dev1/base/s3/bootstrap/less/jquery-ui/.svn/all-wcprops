@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui
+END
+core.less
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui/core.less
+END
+tabs.less
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui/tabs.less
+END
+progressbar.less
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui/progressbar.less
+END
+dialog.less
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui/dialog.less
+END
+accordion.less
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui/accordion.less
+END
+autocomplete.less
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui/autocomplete.less
+END
+toolbar.less
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui/toolbar.less
+END
+ext-ui.daterangepicker.less
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui/ext-ui.daterangepicker.less
+END
+ext-enhanced.less
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui/ext-enhanced.less
+END
+selectable.less
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui/selectable.less
+END
+overlays.less
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui/overlays.less
+END
+menu.less
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui/menu.less
+END
+mixins.less
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui/mixins.less
+END
+variables.less
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui/variables.less
+END
+button.less
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui/button.less
+END
+datepicker.less
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui/datepicker.less
+END
+icons.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui/icons.less
+END
+ext-wijmo-theming.less
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui/ext-wijmo-theming.less
+END
+resizable.less
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui/resizable.less
+END
+slider.less
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/839/branches/dev1/base/s3/bootstrap/less/jquery-ui/slider.less
+END

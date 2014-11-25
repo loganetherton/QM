@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/cli/views/webapp/protected/commands/shell
+END
+hg-hgkeep
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/cli/views/webapp/protected/commands/shell/hg-hgkeep
+END
+git-gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/cli/views/webapp/protected/commands/shell/git-gitkeep
+END

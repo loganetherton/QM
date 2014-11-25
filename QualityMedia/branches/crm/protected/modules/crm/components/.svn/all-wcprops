@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qualitymedia1/!svn/ver/2091/branches/crm/protected/modules/crm/components
+END
+CrmController.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/2050/branches/crm/protected/modules/crm/components/CrmController.php
+END
+UserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qualitymedia1/!svn/ver/2038/branches/crm/protected/modules/crm/components/UserIdentity.php
+END
+WebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/2091/branches/crm/protected/modules/crm/components/WebUser.php
+END

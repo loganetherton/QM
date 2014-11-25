@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/qualitymedia1/!svn/ver/857/branches/reviews-refactoring/protected/models
+END
+Invoice.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/models/Invoice.php
+END
+BillingInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/models/BillingInfo.php
+END
+Profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/models/Profile.php
+END
+Review.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/857/branches/reviews-refactoring/protected/models/Review.php
+END
+Salesman.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/models/Salesman.php
+END
+ReviewUpdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/707/branches/reviews-refactoring/protected/models/ReviewUpdate.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/776/branches/reviews-refactoring/protected/models/User.php
+END
+YelpAnalytics.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/models/YelpAnalytics.php
+END
+YelpPhoto.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/models/YelpPhoto.php
+END
+Subscription.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/models/Subscription.php
+END
+Queue.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/830/branches/reviews-refactoring/protected/models/Queue.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/818/branches/reviews-refactoring/protected/models/Message.php
+END
+YelpInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/776/branches/reviews-refactoring/protected/models/YelpInfo.php
+END
+Transaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/models/Transaction.php
+END
+AccountManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/812/branches/reviews-refactoring/protected/models/AccountManager.php
+END
+Plan.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/models/Plan.php
+END

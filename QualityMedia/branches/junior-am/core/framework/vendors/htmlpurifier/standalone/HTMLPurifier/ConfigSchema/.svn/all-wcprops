@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema
+END
+Validator.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Validator.php
+END
+ValidatorAtom.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/ValidatorAtom.php
+END
+Interchange.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Interchange.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Exception.php
+END
+InterchangeBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/InterchangeBuilder.php
+END
+schema.ser
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/vendors/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema.ser
+END

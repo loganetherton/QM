@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/qualitymedia1/!svn/ver/2062/branches/crm/protected/components
+END
+WebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/components/WebUser.php
+END
+DaemonLaunchBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/components/DaemonLaunchBehavior.php
+END
+GridView.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/components/GridView.php
+END
+UWebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/components/UWebUser.php
+END
+DaemonCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/components/DaemonCommand.php
+END
+BootstrapS3.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/components/BootstrapS3.php
+END
+Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/components/Controller.php
+END
+CustomTbMenu.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/components/CustomTbMenu.php
+END
+ConsoleFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/components/ConsoleFormatter.php
+END
+TbTotalSumColumnCurrency.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/components/TbTotalSumColumnCurrency.php
+END
+UserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/components/UserIdentity.php
+END
+UFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/components/UFormatter.php
+END
+ActiveRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/components/ActiveRecord.php
+END
+AssetManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/components/AssetManager.php
+END

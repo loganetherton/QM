@@ -1,0 +1,226 @@
+
+html, body{height: 100%;}
+body{font-family: 'OpenSansRegular', Arial, sans-serif; font-size:12px; color:#444; background:#fff;}
+
+a{text-decoration: none; color:#32B4E5;}
+a img{border:none;}
+img, .img{line-height: 0; border:none;}
+a img, a:hover img, img { position:relative; -pie-png-fix:true; behavior:url(js/PIE.htc); border:none; }
+input:-ms-input-placeholder{color:#999;}
+input:-moz-placeholder{color:#999;}
+input::-webkit-input-placeholder{color:#999;}
+input.placeholder{color:#999;}
+.clearfix:after{content:"."; display:block; clear:both; visibility:hidden; line-height:0; height:0;}
+.clearfix{display:block; position:relative;}
+html[xmlns] .clearfix{display:block;}
+* html .clearfix{height:1%;}
+
+.space { clear:both; display:block; margin:0px; padding:0px; height:5px; border:none; font:normal 1px arial; }
+.space-1 { clear:both; display:block; margin:0px; padding:0px; height:10px; border:none; font:normal 1px arial; }
+.space-2 { clear:both; display:block; margin:0px; padding:0px; height:20px; border:none; font:normal 1px arial; }
+.space-3 { clear:both; display:block; margin:0px; padding:0px; height:30px; border:none; font:normal 1px arial; }
+.space-4 { clear:both; display:block; margin:0px; padding:0px; height:40px; border:none; font:normal 1px arial; }
+.space-5 { clear:both; display:block; margin:0px; padding:0px; height:50px; border:none; font:normal 1px arial; }
+
+.navtop {background:#f2f2f2;padding:10px 0;}
+.mail{float:right;font-size:12px; color:#524A48; position:relative; padding-left:15px; padding-right:40px; -pie-png-fix:true; behavior:url(js/PIE.htc); position:relative; }
+
+
+
+.headtop {border:0; margin:0;clear:both;display:block;padding:15px 0;position:relative; behavior:url(js/PIE.htc); background:#274a68; background:-webkit-gradient(linear, 0 0, 0 bottom, from(#19354d), to(#274a68)); background:-moz-linear-gradient(#19354d, #274a68); background:linear-gradient(#19354d, #274a68); -pie-background:linear-gradient(#19354d, #274a68);}
+.headtop h2 {font:normal 24px/1.3em "MontserratRegular";color:#fff;}
+.headtop h2 strong {font-weight: normal;color:#EE151B;}
+.headtop .logo{margin:0; padding:0; line-height:0; position:relative; }
+.headtop .call{float:right;font-size:22px; line-height:1em; color:#dbe2ea; position:relative; padding:5px 0 0 18px;  -pie-png-fix:true; behavior:url(js/PIE.htc); position:relative; background:url(http://newclusterb2.s3.amazonaws.com/mintmob/qm2_images/ico-phone.png) no-repeat 0 9px; }
+
+.signwrap {clear:both;display:block;margin:0;padding:0;position:relative; behavior:url(js/PIE.htc); -pie-png-fix: true; 
+background: #f3f2ee; /* Old browsers */
+background: -moz-linear-gradient(top,  #f3f2ee 0%, #fefefe 24%, #ffffff 50%, #fefefe 77%, #f3f2ee 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f3f2ee), color-stop(24%,#fefefe), color-stop(50%,#ffffff), color-stop(77%,#fefefe), color-stop(100%,#f3f2ee)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #f3f2ee 0%,#fefefe 24%,#ffffff 50%,#fefefe 77%,#f3f2ee 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #f3f2ee 0%,#fefefe 24%,#ffffff 50%,#fefefe 77%,#f3f2ee 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #f3f2ee 0%,#fefefe 24%,#ffffff 50%,#fefefe 77%,#f3f2ee 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #f3f2ee 0%,#fefefe 24%,#ffffff 50%,#fefefe 77%,#f3f2ee 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3f2ee', endColorstr='#f3f2ee',GradientType=0 ); /* IE6-9 */
+}
+.signwrap .tagline {clear:both;display:block;padding:30px 0;text-align:center;}
+.signwrap .tagline h2 {margin-bottom:15px;font:bold 33px/1.2em "MontserratRegular";color:#231F20;letter-spacing:-2px;}
+.signwrap .tagline h2 strong {color:#EE151B;}
+.signwrap .tagline h4 {font:normal 21px/1.3em "MontserratRegular";color:#666;}
+
+.signwrap .signbox {clear:both;display:block;width:960px;height:379px; margin:0 auto;background:url(http://newclusterb2.s3.amazonaws.com/mintmob/qm2_images/img-signbox.jpg) no-repeat; }
+.signwrap .signbox .business-boxed {float:right;width:495px;height:250px; position:relative;top:40px;right:40px; position:relative; behavior:url(js/PIE.htc);-moz-border-radius:10px;-webkit-border-radius:10px;-ms-border-radius:10px;-o-border-radius:10px;border-radius:10px;border:1px solid #2c5277; background: rgba(37, 67, 93, 0.9);-pie-background: rgba(37, 67, 93, 0.9);behavior:url(js/PIE.htc);}
+.signwrap .signbox .business-form {margin:0 auto;padding:25px 0 0 0;  position:relative; }
+.signwrap .signbox .business-form .dl {clear:both;display:block;height:50px; } 
+.signwrap .signbox .business-form .dl label {float:left;width:170px;padding:10px 15px 0 0;font:normal 15px "MontserratRegular";color:#fff;text-align:right;}
+.signwrap .signbox .business-form .dl .inp {float:left;width:296px;padding:0;position:relative;}
+.signwrap .signbox .business-form .dl .inp .txt {/*float:left;*/ display:block;/*width:294px;*/padding:10px 8px;background:#f2f2f2;position:relative; behavior:url(js/PIE.htc);-moz-border-radius:5px;-webkit-border-radius:5px;-ms-border-radius:5px;-o-border-radius:5px;border-radius:5px;  -pie-png-fix: true;-webkit-box-shadow: #222 3px 4px 5px;-moz-box-shadow: #222 3px 4px 5px;box-shadow: #222 3px 4px 5px;}
+.signwrap .signbox .business-form .dl .inp .txt input {width:100%;padding:0px;font:normal 14px "OpenSansRegular";color:#333;border:none;background:none;}
+.signwrap .signbox .business-form h2.thanks {top:50px;font:normal 23px/1.4em "MontserratRegular";color:#fff; text-align: center; letter-spacing:-1px; border:none; display:block;width:100%;position:relative;}
+.btn-getstarted { width:296px;height:54px;font:normal 19px "MontserratRegular";color:#fff;background:url(http://newclusterb2.s3.amazonaws.com/mintmob/qm2_images/btn-getstarted.png) no-repeat; cursor:pointer;position:relative; -pie-png-fix:true; behavior:url(js/PIE.htc); border:none; }
+
+
+.qwrap {clear:both;display:block;margin:0;padding:0;position:relative; behavior:url(js/PIE.htc); -pie-png-fix: true; 
+background: #e2dedb; /* Old browsers */
+background: -moz-linear-gradient(top,  #e2dedb 0%, #f3e9e7 24%, #f3e9e7 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e2dedb), color-stop(24%,#f3e9e7), color-stop(100%,#f3e9e7)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #e2dedb 0%,#f3e9e7 24%,#f3e9e7 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #e2dedb 0%,#f3e9e7 24%,#f3e9e7 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #e2dedb 0%,#f3e9e7 24%,#f3e9e7 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #e2dedb 0%,#f3e9e7 24%,#f3e9e7 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2dedb', endColorstr='#f3e9e7',GradientType=0 ); /* IE6-9 */
+}
+
+
+.container{width:960px; margin:0 auto;}
+.left{float:left; position:relative;}
+.right{float:right; position:relative;}
+.line{}
+
+
+.serve {clear:both;display:block;margin:0 auto;padding:20px 0;width:960px;}
+.serve .item {float:left;display:inline-block;margin-right:8px;width:314px; font:normal 17px/1.2em MontserratRegular;color:#666666;text-align:center;position:relative;}
+.serve .item.last {float:left;display:inline-block;margin-right:0px !important;}
+.serve .item h2 {clear:both;margin:0;padding:10px 0;font:bold 22px/1em MontserratRegular;color:#C41200;}
+.serve .item .img { display:block; padding:10px 0;text-align:center;}
+.serve .item .img img { text-align:center;}
+.serve .item .desc {display:block;padding:10px 20px;font:normal 17px/1.2em MontserratRegular;color:#666666;}
+.serve .item .desc .blue {color:#274F73;}
+
+.gray{color:#B3B3B3;}
+
+.quote-cnt{padding:30px 0;}
+.quote-cnt .col3{float: left; width: 33%; text-align: center;}
+.quote-cnt .col3 .col-ct{padding:8px;}
+.quote-cnt .quote{height:110px;background:url(http://newclusterb2.s3.amazonaws.com/mintmob/qm2_images/quote-start.png) no-repeat left top; padding:1px; -pie-png-fix:true; behavior:url(js/PIE.htc);}
+.quote-cnt .quote p{background:url(http://newclusterb2.s3.amazonaws.com/mintmob/qm2_images/quote-end.png) no-repeat right bottom; padding-top:10px; padding-bottom:15px; font-style: italic; line-height:1.4em; color:#555; -pie-png-fix:true; behavior:url(js/PIE.htc);}
+.quote-cnt .sender{width:270px; margin:0 auto; }
+.quote-cnt .sender p{font-size:14px; color:#333333; text-align:left; margin:0; padding-top: 18px;padding-left: 75px;}
+.quote-cnt .sender p span{font-size:9px; color:#666666; display:block;}
+
+.gray{color:#B3B3B3;}
+
+#footer {clear:both;display:block;margin:0;padding:0;font-size:13px;background:#f2f2f2 url(http://newclusterb2.s3.amazonaws.com/mintmob/qm2_images/bg-footer.png) repeat-x top;position:relative; -pie-png-fix:true; behavior:url(js/PIE.htc); }
+#footer .left {float:left; }
+#footer .right {float:right;width:700px; }
+#footer .mail {float:right;padding:25px 10px 10px 10px; }
+#footer .number {float:right;padding:25px 10px 10px 10px; }
+#footer .connect{float:right;padding:16px 0 10px 10px;width:200px;font-size:12px; }
+#footer .connect span{display:inline-block; width:50px; vertical-align:middle; text-align:right;}
+#footer .connect a{display:inline-block; line-height:0; vertical-align:middle; margin:0 0 0 8px; }
+#footer .copy{padding:25px 20px 10px 20px;color:#666666; font-size:13px; }
+
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('fonts/OpenSans-Regular-webfont.eot');
+    src: url('fonts/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/OpenSans-Regular-webfont.woff') format('woff'),
+         url('fonts/OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('fonts/OpenSans-Regular-webfont.svg#OpenSansRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OpenSansBold';
+    src: url('fonts/OpenSans-Bold-webfont.eot');
+    src: url('fonts/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/OpenSans-Bold-webfont.woff') format('woff'),
+         url('fonts/OpenSans-Bold-webfont.ttf') format('truetype'),
+         url('fonts/OpenSans-Bold-webfont.svg#OpenSansBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+	font-family: 'HelveticaNeueLTStd-Roman';
+	src: url('fonts/HelveticaNeueLTStd-Roman.eot');
+	src: local('☺'), url('fonts/HelveticaNeueLTStd-Roman.woff') format('woff'), url('fonts/HelveticaNeueLTStd-Roman.ttf') format('truetype'), url('fonts/HelveticaNeueLTStd-Roman.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+    font-family: 'RobotoRegular';
+    src: url('fonts/Roboto-Regular-webfont.eot');
+    src: url('fonts/Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Roboto-Regular-webfont.woff') format('woff'),
+         url('fonts/Roboto-Regular-webfont.ttf') format('truetype'),
+         url('fonts/Roboto-Regular-webfont.svg#RobotoRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+	font-family: 'GothamHTF-Light';
+	src: url('fonts/GothamHTF-Light.eot');
+	src: local('☺'), url('fonts/GothamHTF-Light.woff') format('woff'), url('fonts/GothamHTF-Light.ttf') format('truetype'), url('fonts/GothamHTF-Light.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'NewBaskervilleStd-Italic';
+	src: url('fonts/NewBaskervilleStd-Italic.eot');
+	src: local('☺'), url('fonts/NewBaskervilleStd-Italic.woff') format('woff'), url('fonts/NewBaskervilleStd-Italic.ttf') format('truetype'), url('fonts/NewBaskervilleStd-Italic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+		font-family: 'MontserratRegular';
+		src: url('fonts/montserratregular.eot');
+		src: url('fonts/montserratregular.eot?#iefix') format('embedded-opentype'),
+				 url('fonts/montserratregular.woff') format('woff'),
+				 url('fonts/montserratregular.ttf') format('truetype'),
+				 url('fonts/montserratregular.svg#montserratregular') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+@font-face {
+font-family: 'MontserratRegular';
+src: url('fonts/montserratregular.svg#montserratregular') format('svg');
+}
+}
+
+
+/*
+* New
+*/
+.signwrap .signbox .business-form .dl .inp .txt .frm_placeholder::-webkit-input-placeholder {
+  color:#524A48;
+  font:15px "MontserratRegular";
+  font-weight:bold;
+}
+.signwrap .signbox .business-form .dl .inp .txt .frm_placeholder:-moz-placeholder {
+  color:#524A48;
+  font:15px "MontserratRegular";
+  font-weight:bold;
+}
+.signwrap .signbox .business-form .dl .inp .txt .frm_placeholder::-moz-placeholder {
+  color:#524A48;
+  font:15px "MontserratRegular";
+  font-weight:bold;
+}
+
+.signwrap .signbox .business-form .dl .inp .txt .frm_placeholder:-ms-input-placeholder {
+  color:#524A48;
+  font:15px "MontserratRegular";
+  font-weight:bold;
+}
+
+
+
+
+/*
+* 
+*/
+.headtop{padding:6px 0;}
+.signwrap .tagline {clear:both;display:block;padding:8px 0;text-align:center;}
+.signwrap .signbox{height:316px;}
+.signwrap .signbox .business-boxed{top:36px;}
+.signwrap .signbox{height:316px;}
+.serve .item .img { display:block; padding:3px 0;text-align:center;}
+.signwrap .tagline h2 {margin-bottom:8px;font:bold 30px/1.2em "MontserratRegular";color:#231F20;letter-spacing:-1px;}

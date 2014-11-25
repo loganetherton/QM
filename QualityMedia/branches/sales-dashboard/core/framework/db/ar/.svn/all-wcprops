@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/db/ar
+END
+CActiveFinder.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/db/ar/CActiveFinder.php
+END
+CActiveRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/db/ar/CActiveRecord.php
+END
+CActiveRecordBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/db/ar/CActiveRecordBehavior.php
+END

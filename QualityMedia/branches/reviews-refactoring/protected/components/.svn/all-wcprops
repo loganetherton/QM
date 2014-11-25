@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/776/branches/reviews-refactoring/protected/components
+END
+GridView.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/776/branches/reviews-refactoring/protected/components/GridView.php
+END
+UWebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/components/UWebUser.php
+END
+DaemonCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/components/DaemonCommand.php
+END
+BootstrapS3.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/components/BootstrapS3.php
+END
+Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/components/Controller.php
+END
+CustomTbMenu.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/components/CustomTbMenu.php
+END
+TbTotalSumColumnCurrency.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/components/TbTotalSumColumnCurrency.php
+END
+UFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/components/UFormatter.php
+END
+UserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/components/UserIdentity.php
+END
+ActiveRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/components/ActiveRecord.php
+END
+AssetManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/components/AssetManager.php
+END
+WebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/components/WebUser.php
+END

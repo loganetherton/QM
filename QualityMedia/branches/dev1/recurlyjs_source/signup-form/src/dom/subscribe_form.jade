@@ -1,0 +1,89 @@
+form.recurly.subscribe
+  //if lt IE 7
+    div.iefail
+      div.chromeframe
+        p.blast Your browser is not supported by Recurly.js.
+        p
+          a(href="http://browsehappy.com/") Upgrade to a different browser
+        p or
+        p
+          a(href="http://www.google.com/chromeframe/?redirect=true") install Google Chrome Frame
+        p to use this site.
+
+  .bill-form.left
+    h3 Create Your Quality Media Account
+
+    .contact_info
+
+    .line
+
+    .billing_info
+
+    .line
+
+    p.accept_tos.chk
+
+    .server_errors.none
+
+    p.btn
+      input.submit(type='submit', value="Continue")
+
+
+  .bill-detail.right
+
+    .bill-detail-ct.subscription
+      h3 You’ve Selected:
+      .line
+
+      .plan
+        p.sel
+          select
+           option.name
+        ul
+
+          li.recurring_cost
+           span.cost
+           /mo
+
+          li.free_trial
+
+          li.setup_fee
+           span.cost
+           &nbsp;one-time setup fee
+
+      .line
+
+      h3 Add-Ons
+
+      .add_ons
+
+    .bill-detail-ct.summary
+
+      h3 Order Summary
+
+      p.plan
+        span.label Price Plan:
+        span.field.recurring_cost
+          span.cost
+          /mo
+
+      p.plan
+        span.label &nbsp;
+        span.field.setup_fee
+          span.cost
+          &nbsp;one-time fee
+
+      .add_ons_summary
+        p
+          span.label Add-Ons:
+          span.field
+
+      p.vat
+        span.label Tax:
+        span.field $0.00
+
+      p.due_now
+        span.label.title
+          strong Grand Total:
+        span.field
+          strong.cost

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/yelp/Adapters
+END
+FileAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/yelp/Adapters/FileAdapter.php
+END
+AdapterInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/yelp/Adapters/AdapterInterface.php
+END

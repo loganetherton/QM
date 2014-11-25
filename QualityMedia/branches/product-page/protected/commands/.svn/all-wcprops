@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/qualitymedia1/!svn/ver/862/branches/product-page/protected/commands
+END
+PhantomJsCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/862/branches/product-page/protected/commands/PhantomJsCommand.php
+END
+SalesmanCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/commands/SalesmanCommand.php
+END
+AccountManagerCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/commands/AccountManagerCommand.php
+END
+AdminCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/commands/AdminCommand.php
+END
+QueueDaemonCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/commands/QueueDaemonCommand.php
+END
+ReviewsDaemonCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/commands/ReviewsDaemonCommand.php
+END
+MessagesDaemonCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/commands/MessagesDaemonCommand.php
+END

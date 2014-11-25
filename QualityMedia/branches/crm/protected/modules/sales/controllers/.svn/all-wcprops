@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/sales/controllers
+END
+PlanController.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/sales/controllers/PlanController.php
+END
+UserController.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/sales/controllers/UserController.php
+END
+SessionController.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/sales/controllers/SessionController.php
+END
+SubscriptionController.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/sales/controllers/SubscriptionController.php
+END
+DashboardController.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/sales/controllers/DashboardController.php
+END

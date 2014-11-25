@@ -1,0 +1,11 @@
+K 13
+svn:mergeinfo
+V 691
+/branches/admin-subscription-addons/base/protected/modules/am/views/juniorAmActivity:1207-1208
+/branches/dev1/base/protected/modules/am/views/juniorAmActivity:61-67,69-73,75,77-102,104,106-111,113,117-126,128,130,132-135,137-180,182-189,191-208,210-219,221-1129,1135-1281,1297,1336-2161
+/branches/frontend-look/base/protected/modules/am/views/juniorAmActivity:1274-1283
+/branches/junior-am/base/protected/modules/am/views/juniorAmActivity:1336-1619
+/branches/multiple-biz-accounts/protected/modules/am/views/juniorAmActivity:1144-1223
+/branches/product-page/protected/modules/am/views/juniorAmActivity:847-867
+/branches/reviews-refactoring/protected/modules/am/views/juniorAmActivity:702-860
+END

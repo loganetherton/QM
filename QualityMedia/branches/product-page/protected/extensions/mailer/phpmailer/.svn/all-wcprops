@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/mailer/phpmailer
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/mailer/phpmailer/class.smtp.php
+END
+class.phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/mailer/phpmailer/class.phpmailer.php
+END
+class.pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/extensions/mailer/phpmailer/class.pop3.php
+END

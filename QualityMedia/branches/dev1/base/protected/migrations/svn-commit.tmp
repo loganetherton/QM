@@ -1,0 +1,4 @@
+Migration for email reports
+--This line, and those below, will be ignored--
+
+AM   m140226_225621_alter_emailreports_table_add_uploads.php

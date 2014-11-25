@@ -1,0 +1,1139 @@
+/* Fonts */
+@font-face { font-family: "entypo"; font-style: normal; font-weight: 400; src: url(../fonts/entypo.eot); src: url("../fonts/entypo.eot?#iefix") format("ie9-skip-eot"), url("../fonts/entypo.woff") format("woff"), url("../fonts/entypo.ttf") format("truetype"); }
+/* Icons */
+[class^="icon2-"] a:before, [class*=" icon2-"] a:before, [class^="icon2-"] a:after, [class*=" icon2-"] a:after, i[class^="icon2-"], i[class*=" icon2-"] { font-family: "entypo"; position: absolute; text-decoration: none; zoom: 1; }
+
+i[class^="icon2-"], i[class*=" icon2-"] { display: inline-block; position: static; min-width: 20px; margin: 0 0px; text-align: center; font-style: normal;}
+
+.icon2-note.icon2-left a:before, .icon2-note.icon2-right a:after { content: "\266a"; height: inherit; }
+
+i.icon2-note:before { content: "\266a"; height: inherit; }
+
+.icon2-note-beamed.icon2-left a:before, .icon2-note-beamed.icon2-right a:after { content: "\266b"; height: inherit; }
+
+i.icon2-note-beamed:before { content: "\266b"; height: inherit; }
+
+.icon2-music.icon2-left a:before, .icon2-music.icon2-right a:after { content: "🎵"; height: inherit; }
+
+i.icon2-music:before { content: "🎵"; height: inherit; }
+
+.icon2-search.icon2-left a:before, .icon2-search.icon2-right a:after { content: "🔍"; height: inherit; }
+
+i.icon2-search:before { content: "🔍"; height: inherit; }
+
+.icon2-flashlight.icon2-left a:before, .icon2-flashlight.icon2-right a:after { content: "🔦"; height: inherit; }
+
+i.icon2-flashlight:before { content: "🔦"; height: inherit; }
+
+.icon2-mail.icon2-left a:before, .icon2-mail.icon2-right a:after { content: "\2709"; height: inherit; }
+
+i.icon2-mail:before { content: "\2709"; height: inherit; }
+
+.icon2-heart.icon2-left a:before, .icon2-heart.icon2-right a:after { content: "\2665"; height: inherit; }
+
+i.icon2-heart:before { content: "\2665"; height: inherit; }
+
+.icon2-heart-empty.icon2-left a:before, .icon2-heart-empty.icon2-right a:after { content: "\2661"; height: inherit; }
+
+i.icon2-heart-empty:before { content: "\2661"; height: inherit; }
+
+.icon2-star.icon2-left a:before, .icon2-star.icon2-right a:after { content: "\2605"; height: inherit; }
+
+i.icon2-star:before { content: "\2605"; height: inherit; }
+
+.icon2-star-empty.icon2-left a:before, .icon2-star-empty.icon2-right a:after { content: "\2606"; height: inherit; }
+
+i.icon2-star-empty:before { content: "\2606"; height: inherit; }
+
+.icon2-user.icon2-left a:before, .icon2-user.icon2-right a:after { content: "👤"; height: inherit; }
+
+i.icon2-user:before { content: "👤"; height: inherit; }
+
+/*.icon2-users.icon2-left a:before, .icon2-users.icon2-right a:after { content: "👥"; height: inherit; }
+
+i.icon2-users:before { content: "👥"; height: inherit; }*/
+
+.icon2-user-add.icon2-left a:before, .icon2-user-add.icon2-right a:after { content: "\e700"; height: inherit; }
+
+i.icon2-user-add:before { content: "\e700"; height: inherit; }
+
+.icon2-video.icon2-left a:before, .icon2-video.icon2-right a:after { content: "🎬"; height: inherit; }
+
+i.icon2-video:before { content: "🎬"; height: inherit; }
+
+.icon2-picture.icon2-left a:before, .icon2-picture.icon2-right a:after { content: "🌄"; height: inherit; }
+
+i.icon2-picture:before { content: "🌄"; height: inherit; }
+
+.icon2-camera.icon2-left a:before, .icon2-camera.icon2-right a:after { content: "📷"; height: inherit; }
+
+i.icon2-camera:before { content: "📷"; height: inherit; }
+
+.icon2-layout.icon2-left a:before, .icon2-layout.icon2-right a:after { content: "\268f"; height: inherit; }
+
+i.icon2-layout:before { content: "\268f"; height: inherit; }
+
+.icon2-menu.icon2-left a:before, .icon2-menu.icon2-right a:after { content: "\2630"; height: inherit; }
+
+i.icon2-menu:before { content: "\2630"; height: inherit; }
+
+.icon2-check.icon2-left a:before, .icon2-check.icon2-right a:after { content: "\2713"; height: inherit; }
+
+i.icon2-check:before { content: "\2713"; height: inherit; }
+
+.icon2-cancel.icon2-left a:before, .icon2-cancel.icon2-right a:after { content: "\2715"; height: inherit; }
+
+i.icon2-cancel:before { content: "\2715"; height: inherit; }
+
+.icon2-cancel-circled.icon2-left a:before, .icon2-cancel-circled.icon2-right a:after { content: "\2716"; height: inherit; }
+
+i.icon2-cancel-circled:before { content: "\2716"; height: inherit; }
+
+.icon2-cancel-squared.icon2-left a:before, .icon2-cancel-squared.icon2-right a:after { content: "\274e"; height: inherit; }
+
+i.icon2-cancel-squared:before { content: "\274e"; height: inherit; }
+
+.icon2-plus.icon2-left a:before, .icon2-plus.icon2-right a:after { content: "\2b"; height: inherit; }
+
+i.icon2-plus:before { content: "\2b"; height: inherit; }
+
+.icon2-plus-circled.icon2-left a:before, .icon2-plus-circled.icon2-right a:after { content: "\2795"; height: inherit; }
+
+i.icon2-plus-circled:before { content: "\2795"; height: inherit; }
+
+.icon2-plus-squared.icon2-left a:before, .icon2-plus-squared.icon2-right a:after { content: "\229e"; height: inherit; }
+
+i.icon2-plus-squared:before { content: "\229e"; height: inherit; }
+
+.icon2-minus.icon2-left a:before, .icon2-minus.icon2-right a:after { content: "\2d"; height: inherit; }
+
+i.icon2-minus:before { content: "\2d"; height: inherit; }
+
+.icon2-minus-circled.icon2-left a:before, .icon2-minus-circled.icon2-right a:after { content: "\2796"; height: inherit; }
+
+i.icon2-minus-circled:before { content: "\2796"; height: inherit; }
+
+.icon2-minus-squared.icon2-left a:before, .icon2-minus-squared.icon2-right a:after { content: "\229f"; height: inherit; }
+
+i.icon2-minus-squared:before { content: "\229f"; height: inherit; }
+
+.icon2-help.icon2-left a:before, .icon2-help.icon2-right a:after { content: "\2753"; height: inherit; }
+
+i.icon2-help:before { content: "\2753"; height: inherit; }
+
+.icon2-help-circled.icon2-left a:before, .icon2-help-circled.icon2-right a:after { content: "\e704"; height: inherit; }
+
+i.icon2-help-circled:before { content: "\e704"; height: inherit; }
+
+.icon2-info.icon2-left a:before, .icon2-info.icon2-right a:after { content: "\2139"; height: inherit; }
+
+i.icon2-info:before { content: "\2139"; height: inherit; }
+
+.icon2-info-circled.icon2-left a:before, .icon2-info-circled.icon2-right a:after { content: "\e705"; height: inherit; }
+
+i.icon2-info-circled:before { content: "\e705"; height: inherit; }
+
+.icon2-back.icon2-left a:before, .icon2-back.icon2-right a:after { content: "🔙"; height: inherit; }
+
+i.icon2-back:before { content: "🔙"; height: inherit; }
+
+.icon2-home.icon2-left a:before, .icon2-home.icon2-right a:after { content: "\2302"; height: inherit; }
+
+i.icon2-home:before { content: "\2302"; height: inherit; }
+
+.icon2-link.icon2-left a:before, .icon2-link.icon2-right a:after { content: "🔗"; height: inherit; }
+
+i.icon2-link:before { content: "🔗"; height: inherit; }
+
+.icon2-attach.icon2-left a:before, .icon2-attach.icon2-right a:after { content: "📎"; height: inherit; }
+
+i.icon2-attach:before { content: "📎"; height: inherit; }
+
+.icon2-lock.icon2-left a:before, .icon2-lock.icon2-right a:after { content: "🔒"; height: inherit; }
+
+i.icon2-lock:before { content: "🔒"; height: inherit; }
+
+.icon2-lock-open.icon2-left a:before, .icon2-lock-open.icon2-right a:after { content: "🔓"; height: inherit; }
+
+i.icon2-lock-open:before { content: "🔓"; height: inherit; }
+
+.icon2-eye.icon2-left a:before, .icon2-eye.icon2-right a:after { content: "\e70a"; height: inherit; }
+
+i.icon2-eye:before { content: "\e70a"; height: inherit; }
+
+.icon2-tag.icon2-left a:before, .icon2-tag.icon2-right a:after { content: "\e70c"; height: inherit; }
+
+i.icon2-tag:before { content: "\e70c"; height: inherit; }
+
+.icon2-bookmark.icon2-left a:before, .icon2-bookmark.icon2-right a:after { content: "🔖"; height: inherit; }
+
+i.icon2-bookmark:before { content: "🔖"; height: inherit; }
+
+.icon2-bookmarks.icon2-left a:before, .icon2-bookmarks.icon2-right a:after { content: "📑"; height: inherit; }
+
+i.icon2-bookmarks:before { content: "📑"; height: inherit; }
+
+.icon2-flag.icon2-left a:before, .icon2-flag.icon2-right a:after { content: "\2691"; height: inherit; }
+
+i.icon2-flag:before { content: "\2691"; height: inherit; }
+
+.icon2-thumbs-up.icon2-left a:before, .icon2-thumbs-up.icon2-right a:after { content: "👍"; height: inherit; }
+
+i.icon2-thumbs-up:before { content: "👍"; height: inherit; }
+
+.icon2-thumbs-down.icon2-left a:before, .icon2-thumbs-down.icon2-right a:after { content: "👎"; height: inherit; }
+
+i.icon2-thumbs-down:before { content: "👎"; height: inherit; }
+
+.icon2-download.icon2-left a:before, .icon2-download.icon2-right a:after { content: "📥"; height: inherit; }
+
+i.icon2-download:before { content: "📥"; height: inherit; }
+
+.icon2-upload.icon2-left a:before, .icon2-upload.icon2-right a:after { content: "📤"; height: inherit; }
+
+i.icon2-upload:before { content: "📤"; height: inherit; }
+
+.icon2-upload-cloud.icon2-left a:before, .icon2-upload-cloud.icon2-right a:after { content: "\e711"; height: inherit; }
+
+i.icon2-upload-cloud:before { content: "\e711"; height: inherit; }
+
+.icon2-reply.icon2-left a:before, .icon2-reply.icon2-right a:after { content: "\e712"; height: inherit; }
+
+i.icon2-reply:before { content: "\e712"; height: inherit; }
+
+.icon2-reply-all.icon2-left a:before, .icon2-reply-all.icon2-right a:after { content: "\e713"; height: inherit; }
+
+i.icon2-reply-all:before { content: "\e713"; height: inherit; }
+
+.icon2-forward.icon2-left a:before, .icon2-forward.icon2-right a:after { content: "\27a6"; height: inherit; }
+
+i.icon2-forward:before { content: "\27a6"; height: inherit; }
+
+.icon2-quote.icon2-left a:before, .icon2-quote.icon2-right a:after { content: "\275e"; height: inherit; }
+
+i.icon2-quote:before { content: "\275e"; height: inherit; }
+
+.icon2-code.icon2-left a:before, .icon2-code.icon2-right a:after { content: "\e714"; height: inherit; }
+
+i.icon2-code:before { content: "\e714"; height: inherit; }
+
+.icon2-export.icon2-left a:before, .icon2-export.icon2-right a:after { content: "\e715"; height: inherit; }
+
+i.icon2-export:before { content: "\e715"; height: inherit; }
+
+.icon2-pencil.icon2-left a:before, .icon2-pencil.icon2-right a:after { content: "\270e"; height: inherit; }
+
+i.icon2-pencil:before { content: "\270e"; height: inherit; }
+
+.icon2-feather.icon2-left a:before, .icon2-feather.icon2-right a:after { content: "\2712"; height: inherit; }
+
+i.icon2-feather:before { content: "\2712"; height: inherit; }
+
+.icon2-print.icon2-left a:before, .icon2-print.icon2-right a:after { content: "\e716"; height: inherit; }
+
+i.icon2-print:before { content: "\e716"; height: inherit; }
+
+.icon2-retweet.icon2-left a:before, .icon2-retweet.icon2-right a:after { content: "\e717"; height: inherit; }
+
+i.icon2-retweet:before { content: "\e717"; height: inherit; }
+
+.icon2-keyboard.icon2-left a:before, .icon2-keyboard.icon2-right a:after { content: "\2328"; height: inherit; }
+
+i.icon2-keyboard:before { content: "\2328"; height: inherit; }
+
+.icon2-comment.icon2-left a:before, .icon2-comment.icon2-right a:after { content: "\e718"; height: inherit; }
+
+i.icon2-comment:before { content: "\e718"; height: inherit; }
+
+.icon2-chat.icon2-left a:before, .icon2-chat.icon2-right a:after { content: "\e720"; height: inherit; }
+
+i.icon2-chat:before { content: "\e720"; height: inherit; }
+
+.icon2-bell.icon2-left a:before, .icon2-bell.icon2-right a:after { content: "🔔"; height: inherit; }
+
+i.icon2-bell:before { content: "🔔"; height: inherit; }
+
+.icon2-attention.icon2-left a:before, .icon2-attention.icon2-right a:after { content: "\26a0"; height: inherit; }
+
+i.icon2-attention:before { content: "\26a0"; height: inherit; }
+
+.icon2-alert.icon2-left a:before, .icon2-alert.icon2-right a:after { content: "💥"; height: inherit; }
+
+i.icon2-alert:before { content: "💥"; height: inherit; }
+
+.icon2-vcard.icon2-left a:before, .icon2-vcard.icon2-right a:after { content: "\e722"; height: inherit; }
+
+i.icon2-vcard:before { content: "\e722"; height: inherit; }
+
+.icon2-address.icon2-left a:before, .icon2-address.icon2-right a:after { content: "\e723"; height: inherit; }
+
+i.icon2-address:before { content: "\e723"; height: inherit; }
+
+.icon2-location.icon2-left a:before, .icon2-location.icon2-right a:after { content: "\e724"; height: inherit; }
+
+i.icon2-location:before { content: "\e724"; height: inherit; }
+
+.icon2-map.icon2-left a:before, .icon2-map.icon2-right a:after { content: "\e727"; height: inherit; }
+
+i.icon2-map:before { content: "\e727"; height: inherit; }
+
+.icon2-direction.icon2-left a:before, .icon2-direction.icon2-right a:after { content: "\27a2"; height: inherit; }
+
+i.icon2-direction:before { content: "\27a2"; height: inherit; }
+
+.icon2-compass.icon2-left a:before, .icon2-compass.icon2-right a:after { content: "\e728"; height: inherit; }
+
+i.icon2-compass:before { content: "\e728"; height: inherit; }
+
+.icon2-cup.icon2-left a:before, .icon2-cup.icon2-right a:after { content: "\2615"; height: inherit; }
+
+i.icon2-cup:before { content: "\2615"; height: inherit; }
+
+.icon2-trash.icon2-left a:before, .icon2-trash.icon2-right a:after { content: "\e729"; height: inherit; }
+
+i.icon2-trash:before { content: "\e729"; height: inherit; }
+
+.icon2-doc.icon2-left a:before, .icon2-doc.icon2-right a:after { content: "\e730"; height: inherit; }
+
+i.icon2-doc:before { content: "\e730"; height: inherit; }
+
+.icon2-docs.icon2-left a:before, .icon2-docs.icon2-right a:after { content: "\e736"; height: inherit; }
+
+i.icon2-docs:before { content: "\e736"; height: inherit; }
+
+.icon2-doc-landscape.icon2-left a:before, .icon2-doc-landscape.icon2-right a:after { content: "\e737"; height: inherit; }
+
+i.icon2-doc-landscape:before { content: "\e737"; height: inherit; }
+
+.icon2-doc-text.icon2-left a:before, .icon2-doc-text.icon2-right a:after { content: "📄"; height: inherit; }
+
+i.icon2-doc-text:before { content: "📄"; height: inherit; }
+
+.icon2-doc-text-inv.icon2-left a:before, .icon2-doc-text-inv.icon2-right a:after { content: "\e731"; height: inherit; }
+
+i.icon2-doc-text-inv:before { content: "\e731"; height: inherit; }
+
+.icon2-newspaper.icon2-left a:before, .icon2-newspaper.icon2-right a:after { content: "📰"; height: inherit; }
+
+i.icon2-newspaper:before { content: "📰"; height: inherit; }
+
+.icon2-book-open.icon2-left a:before, .icon2-book-open.icon2-right a:after { content: "📖"; height: inherit; }
+
+i.icon2-book-open:before { content: "📖"; height: inherit; }
+
+
+.icon2-folder.icon2-left a:before, .icon2-folder.icon2-right a:after { content: "📁"; height: inherit; }
+
+i.icon2-folder:before { content: "📁"; height: inherit; }
+
+.icon2-archive.icon2-left a:before, .icon2-archive.icon2-right a:after { content: "\e738"; height: inherit; }
+
+i.icon2-archive:before { content: "\e738"; height: inherit; }
+
+.icon2-box.icon2-left a:before, .icon2-box.icon2-right a:after { content: "📦"; height: inherit; }
+
+i.icon2-box:before { content: "📦"; height: inherit; }
+
+.icon2-rss.icon2-left a:before, .icon2-rss.icon2-right a:after { content: "\e73a"; height: inherit; }
+
+i.icon2-rss:before { content: "\e73a"; height: inherit; }
+
+.icon2-phone.icon2-left a:before, .icon2-phone.icon2-right a:after { content: "📞"; height: inherit; }
+
+i.icon2-phone:before { content: "📞"; height: inherit; }
+
+.icon2-cog.icon2-left a:before, .icon2-cog.icon2-right a:after { content: "\2699"; height: inherit; }
+
+i.icon2-cog:before { content: "\2699"; height: inherit; }
+
+.icon2-tools.icon2-left a:before, .icon2-tools.icon2-right a:after { content: "\2692"; height: inherit; }
+
+i.icon2-tools:before { content: "\2692"; height: inherit; }
+
+.icon2-share.icon2-left a:before, .icon2-share.icon2-right a:after { content: "\e73c"; height: inherit; }
+
+i.icon2-share:before { content: "\e73c"; height: inherit; }
+
+.icon2-shareable.icon2-left a:before, .icon2-shareable.icon2-right a:after { content: "\e73e"; height: inherit; }
+
+i.icon2-shareable:before { content: "\e73e"; height: inherit; }
+
+.icon2-basket.icon2-left a:before, .icon2-basket.icon2-right a:after { content: "\e73d"; height: inherit; }
+
+i.icon2-basket:before { content: "\e73d"; height: inherit; }
+
+.icon2-bag.icon2-left a:before, .icon2-bag.icon2-right a:after { content: "👜"; height: inherit; }
+
+i.icon2-bag:before { content: "👜"; height: inherit; }
+
+.icon2-calendar.icon2-left a:before, .icon2-calendar.icon2-right a:after { content: "📅"; height: inherit; }
+
+i.icon2-calendar:before { content: "📅"; height: inherit; }
+
+.icon2-login.icon2-left a:before, .icon2-login.icon2-right a:after { content: "\e740"; height: inherit; }
+
+i.icon2-login:before { content: "\e740"; height: inherit; }
+
+.icon2-logout.icon2-left a:before, .icon2-logout.icon2-right a:after { content: "\e741"; height: inherit; }
+
+i.icon2-logout:before { content: "\e741"; height: inherit; }
+
+.icon2-mic.icon2-left a:before, .icon2-mic.icon2-right a:after { content: "🎤"; height: inherit; }
+
+i.icon2-mic:before { content: "🎤"; height: inherit; }
+
+.icon2-mute.icon2-left a:before, .icon2-mute.icon2-right a:after { content: "🔇"; height: inherit; }
+
+i.icon2-mute:before { content: "🔇"; height: inherit; }
+
+.icon2-sound.icon2-left a:before, .icon2-sound.icon2-right a:after { content: "🔊"; height: inherit; }
+
+i.icon2-sound:before { content: "🔊"; height: inherit; }
+
+.icon2-volume.icon2-left a:before, .icon2-volume.icon2-right a:after { content: "\e742"; height: inherit; }
+
+i.icon2-volume:before { content: "\e742"; height: inherit; }
+
+.icon2-clock.icon2-left a:before, .icon2-clock.icon2-right a:after { content: "🕔"; height: inherit; }
+
+i.icon2-clock:before { content: "🕔"; height: inherit; }
+
+.icon2-hourglass.icon2-left a:before, .icon2-hourglass.icon2-right a:after { content: "\23f3"; height: inherit; }
+
+i.icon2-hourglass:before { content: "\23f3"; height: inherit; }
+
+.icon2-lamp.icon2-left a:before, .icon2-lamp.icon2-right a:after { content: "💡"; height: inherit; }
+
+i.icon2-lamp:before { content: "💡"; height: inherit; }
+
+.icon2-light-down.icon2-left a:before, .icon2-light-down.icon2-right a:after { content: "🔅"; height: inherit; }
+
+i.icon2-light-down:before { content: "🔅"; height: inherit; }
+
+.icon2-light-up.icon2-left a:before, .icon2-light-up.icon2-right a:after { content: "🔆"; height: inherit; }
+
+i.icon2-light-up:before { content: "🔆"; height: inherit; }
+
+.icon2-adjust.icon2-left a:before, .icon2-adjust.icon2-right a:after { content: "\25d1"; height: inherit; }
+
+i.icon2-adjust:before { content: "\25d1"; height: inherit; }
+
+.icon2-block.icon2-left a:before, .icon2-block.icon2-right a:after { content: "🚫"; height: inherit; }
+
+i.icon2-block:before { content: "🚫"; height: inherit; }
+
+.icon2-resize-full.icon2-left a:before, .icon2-resize-full.icon2-right a:after { content: "\e744"; height: inherit; }
+
+i.icon2-resize-full:before { content: "\e744"; height: inherit; }
+
+.icon2-resize-small.icon2-left a:before, .icon2-resize-small.icon2-right a:after { content: "\e746"; height: inherit; }
+
+i.icon2-resize-small:before { content: "\e746"; height: inherit; }
+
+.icon2-popup.icon2-left a:before, .icon2-popup.icon2-right a:after { content: "\e74c"; height: inherit; }
+
+i.icon2-popup:before { content: "\e74c"; height: inherit; }
+
+.icon2-publish.icon2-left a:before, .icon2-publish.icon2-right a:after { content: "\e74d"; height: inherit; }
+
+i.icon2-publish:before { content: "\e74d"; height: inherit; }
+
+.icon2-window.icon2-left a:before, .icon2-window.icon2-right a:after { content: "\e74e"; height: inherit; }
+
+i.icon2-window:before { content: "\e74e"; height: inherit; }
+
+.icon2-arrow-combo.icon2-left a:before, .icon2-arrow-combo.icon2-right a:after { content: "\e74f"; height: inherit; }
+
+i.icon2-arrow-combo:before { content: "\e74f"; height: inherit; }
+
+.icon2-down-circled.icon2-left a:before, .icon2-down-circled.icon2-right a:after { content: "\e758"; height: inherit; }
+
+i.icon2-down-circled:before { content: "\e758"; height: inherit; }
+
+.icon2-left-circled.icon2-left a:before, .icon2-left-circled.icon2-right a:after { content: "\e759"; height: inherit; }
+
+i.icon2-left-circled:before { content: "\e759"; height: inherit; }
+
+.icon2-right-circled.icon2-left a:before, .icon2-right-circled.icon2-right a:after { content: "\e75a"; height: inherit; }
+
+i.icon2-right-circled:before { content: "\e75a"; height: inherit; }
+
+.icon2-up-circled.icon2-left a:before, .icon2-up-circled.icon2-right a:after { content: "\e75b"; height: inherit; }
+
+i.icon2-up-circled:before { content: "\e75b"; height: inherit; }
+
+.icon2-down-open.icon2-left a:before, .icon2-down-open.icon2-right a:after { content: "\e75c"; height: inherit; }
+
+i.icon2-down-open:before { content: "\e75c"; height: inherit; }
+
+.icon2-left-open.icon2-left a:before, .icon2-left-open.icon2-right a:after { content: "\e75d"; height: inherit; }
+
+i.icon2-left-open:before { content: "\e75d"; height: inherit; }
+
+.icon2-right-open.icon2-left a:before, .icon2-right-open.icon2-right a:after { content: "\e75e"; height: inherit; }
+
+i.icon2-right-open:before { content: "\e75e"; height: inherit; }
+
+.icon2-up-open.icon2-left a:before, .icon2-up-open.icon2-right a:after { content: "\e75f"; height: inherit; }
+
+i.icon2-up-open:before { content: "\e75f"; height: inherit; }
+
+.icon2-down-open-mini.icon2-left a:before, .icon2-down-open-mini.icon2-right a:after { content: "\e760"; height: inherit; }
+
+i.icon2-down-open-mini:before { content: "\e760"; height: inherit; }
+
+.icon2-left-open-mini.icon2-left a:before, .icon2-left-open-mini.icon2-right a:after { content: "\e761"; height: inherit; }
+
+i.icon2-left-open-mini:before { content: "\e761"; height: inherit; }
+
+.icon2-right-open-mini.icon2-left a:before, .icon2-right-open-mini.icon2-right a:after { content: "\e762"; height: inherit; }
+
+i.icon2-right-open-mini:before { content: "\e762"; height: inherit; }
+
+.icon2-up-open-mini.icon2-left a:before, .icon2-up-open-mini.icon2-right a:after { content: "\e763"; height: inherit; }
+
+i.icon2-up-open-mini:before { content: "\e763"; height: inherit; }
+
+.icon2-down-open-big.icon2-left a:before, .icon2-down-open-big.icon2-right a:after { content: "\e764"; height: inherit; }
+
+i.icon2-down-open-big:before { content: "\e764"; height: inherit; }
+
+.icon2-left-open-big.icon2-left a:before, .icon2-left-open-big.icon2-right a:after { content: "\e765"; height: inherit; }
+
+i.icon2-left-open-big:before { content: "\e765"; height: inherit; }
+
+.icon2-right-open-big.icon2-left a:before, .icon2-right-open-big.icon2-right a:after { content: "\e766"; height: inherit; }
+
+i.icon2-right-open-big:before { content: "\e766"; height: inherit; }
+
+.icon2-up-open-big.icon2-left a:before, .icon2-up-open-big.icon2-right a:after { content: "\e767"; height: inherit; }
+
+i.icon2-up-open-big:before { content: "\e767"; height: inherit; }
+
+.icon2-down.icon2-left a:before, .icon2-down.icon2-right a:after { content: "\2b07"; height: inherit; }
+
+i.icon2-down:before { content: "\2b07"; height: inherit; }
+
+.icon2-arrow-left.icon2-left a:before, .icon2-arrow-left.icon2-right a:after { content: "\2b05"; height: inherit; }
+
+i.icon2-arrow-left:before { content: "\2b05"; height: inherit; }
+
+.icon2-arrow-right.icon2-left a:before, .icon2-arrow-right.icon2-right a:after { content: "\27a1"; height: inherit; }
+
+i.icon2-arrow-right:before { content: "\27a1"; height: inherit; }
+
+.icon2-up.icon2-left a:before, .icon2-up.icon2-right a:after { content: "\2b06"; height: inherit; }
+
+i.icon2-up:before { content: "\2b06"; height: inherit; }
+
+.icon2-down-dir.icon2-left a:before, .icon2-down-dir.icon2-right a:after { content: "\25be"; height: inherit; }
+
+i.icon2-down-dir:before { content: "\25be"; height: inherit; }
+
+.icon2-left-dir.icon2-left a:before, .icon2-left-dir.icon2-right a:after { content: "\25c2"; height: inherit; }
+
+i.icon2-left-dir:before { content: "\25c2"; height: inherit; }
+
+.icon2-right-dir.icon2-left a:before, .icon2-right-dir.icon2-right a:after { content: "\25b8"; height: inherit; }
+
+i.icon2-right-dir:before { content: "\25b8"; height: inherit; }
+
+.icon2-up-dir.icon2-left a:before, .icon2-up-dir.icon2-right a:after { content: "\25b4"; height: inherit; }
+
+i.icon2-up-dir:before { content: "\25b4"; height: inherit; }
+
+.icon2-down-bold.icon2-left a:before, .icon2-down-bold.icon2-right a:after { content: "\e4b0"; height: inherit; }
+
+i.icon2-down-bold:before { content: "\e4b0"; height: inherit; }
+
+.icon2-left-bold.icon2-left a:before, .icon2-left-bold.icon2-right a:after { content: "\e4ad"; height: inherit; }
+
+i.icon2-left-bold:before { content: "\e4ad"; height: inherit; }
+
+.icon2-right-bold.icon2-left a:before, .icon2-right-bold.icon2-right a:after { content: "\e4ae"; height: inherit; }
+
+i.icon2-right-bold:before { content: "\e4ae"; height: inherit; }
+
+.icon2-up-bold.icon2-left a:before, .icon2-up-bold.icon2-right a:after { content: "\e4af"; height: inherit; }
+
+i.icon2-up-bold:before { content: "\e4af"; height: inherit; }
+
+.icon2-down-thin.icon2-left a:before, .icon2-down-thin.icon2-right a:after { content: "\2193"; height: inherit; }
+
+i.icon2-down-thin:before { content: "\2193"; height: inherit; }
+
+.icon2-left-thin.icon2-left a:before, .icon2-left-thin.icon2-right a:after { content: "\2190"; height: inherit; }
+
+i.icon2-left-thin:before { content: "\2190"; height: inherit; }
+
+.icon2-right-thin.icon2-left a:before, .icon2-right-thin.icon2-right a:after { content: "\2192"; height: inherit; }
+
+i.icon2-right-thin:before { content: "\2192"; height: inherit; }
+
+.icon2-up-thin.icon2-left a:before, .icon2-up-thin.icon2-right a:after { content: "\2191"; height: inherit; }
+
+i.icon2-up-thin:before { content: "\2191"; height: inherit; }
+
+.icon2-ccw.icon2-left a:before, .icon2-ccw.icon2-right a:after { content: "\27f2"; height: inherit; }
+
+i.icon2-ccw:before { content: "\27f2"; height: inherit; }
+
+.icon2-cw.icon2-left a:before, .icon2-cw.icon2-right a:after { content: "\27f3"; height: inherit; }
+
+i.icon2-cw:before { content: "\27f3"; height: inherit; }
+
+.icon2-arrows-ccw.icon2-left a:before, .icon2-arrows-ccw.icon2-right a:after { content: "🔄"; height: inherit; }
+
+i.icon2-arrows-ccw:before { content: "🔄"; height: inherit; }
+
+.icon2-level-down.icon2-left a:before, .icon2-level-down.icon2-right a:after { content: "\21b3"; height: inherit; }
+
+i.icon2-level-down:before { content: "\21b3"; height: inherit; }
+
+.icon2-level-up.icon2-left a:before, .icon2-level-up.icon2-right a:after { content: "\21b0"; height: inherit; }
+
+i.icon2-level-up:before { content: "\21b0"; height: inherit; }
+
+.icon2-shuffle.icon2-left a:before, .icon2-shuffle.icon2-right a:after { content: "🔀"; height: inherit; }
+
+i.icon2-shuffle:before { content: "🔀"; height: inherit; }
+
+.icon2-loop.icon2-left a:before, .icon2-loop.icon2-right a:after { content: "🔁"; height: inherit; }
+
+i.icon2-loop:before { content: "🔁"; height: inherit; }
+
+.icon2-switch.icon2-left a:before, .icon2-switch.icon2-right a:after { content: "\21c6"; height: inherit; }
+
+i.icon2-switch:before { content: "\21c6"; height: inherit; }
+
+.icon2-play.icon2-left a:before, .icon2-play.icon2-right a:after { content: "\25b6"; height: inherit; }
+
+i.icon2-play:before { content: "\25b6"; height: inherit; }
+
+.icon2-stop.icon2-left a:before, .icon2-stop.icon2-right a:after { content: "\25a0"; height: inherit; }
+
+i.icon2-stop:before { content: "\25a0"; height: inherit; }
+
+.icon2-pause.icon2-left a:before, .icon2-pause.icon2-right a:after { content: "\2389"; height: inherit; }
+
+i.icon2-pause:before { content: "\2389"; height: inherit; }
+
+.icon2-record.icon2-left a:before, .icon2-record.icon2-right a:after { content: "\26ab"; height: inherit; }
+
+i.icon2-record:before { content: "\26ab"; height: inherit; }
+
+.icon2-to-end.icon2-left a:before, .icon2-to-end.icon2-right a:after { content: "\23ed"; height: inherit; }
+
+i.icon2-to-end:before { content: "\23ed"; height: inherit; }
+
+.icon2-to-start.icon2-left a:before, .icon2-to-start.icon2-right a:after { content: "\23ee"; height: inherit; }
+
+i.icon2-to-start:before { content: "\23ee"; height: inherit; }
+
+.icon2-fast-forward.icon2-left a:before, .icon2-fast-forward.icon2-right a:after { content: "\23e9"; height: inherit; }
+
+i.icon2-fast-forward:before { content: "\23e9"; height: inherit; }
+
+.icon2-fast-backward.icon2-left a:before, .icon2-fast-backward.icon2-right a:after { content: "\23ea"; height: inherit; }
+
+i.icon2-fast-backward:before { content: "\23ea"; height: inherit; }
+
+.icon2-progress-0.icon2-left a:before, .icon2-progress-0.icon2-right a:after { content: "\e768"; height: inherit; }
+
+i.icon2-progress-0:before { content: "\e768"; height: inherit; }
+
+.icon2-progress-1.icon2-left a:before, .icon2-progress-1.icon2-right a:after { content: "\e769"; height: inherit; }
+
+i.icon2-progress-1:before { content: "\e769"; height: inherit; }
+
+.icon2-progress-2.icon2-left a:before, .icon2-progress-2.icon2-right a:after { content: "\e76a"; height: inherit; }
+
+i.icon2-progress-2:before { content: "\e76a"; height: inherit; }
+
+.icon2-progress-3.icon2-left a:before, .icon2-progress-3.icon2-right a:after { content: "\e76b"; height: inherit; }
+
+i.icon2-progress-3:before { content: "\e76b"; height: inherit; }
+
+.icon2-target.icon2-left a:before, .icon2-target.icon2-right a:after { content: "🎯"; height: inherit; }
+
+i.icon2-target:before { content: "🎯"; height: inherit; }
+
+.icon2-palette.icon2-left a:before, .icon2-palette.icon2-right a:after { content: "🎨"; height: inherit; }
+
+i.icon2-palette:before { content: "🎨"; height: inherit; }
+
+.icon2-list.icon2-left a:before, .icon2-list.icon2-right a:after { content: "\e005"; height: inherit; }
+
+i.icon2-list:before { content: "\e005"; height: inherit; }
+
+.icon2-list-add.icon2-left a:before, .icon2-list-add.icon2-right a:after { content: "\e003"; height: inherit; }
+
+i.icon2-list-add:before { content: "\e003"; height: inherit; }
+
+.icon2-signal.icon2-left a:before, .icon2-signal.icon2-right a:after { content: "📶"; height: inherit; }
+
+i.icon2-signal:before { content: "📶"; height: inherit; }
+
+.icon2-trophy.icon2-left a:before, .icon2-trophy.icon2-right a:after { content: "🏆"; height: inherit; }
+
+i.icon2-trophy:before { content: "🏆"; height: inherit; }
+
+.icon2-battery.icon2-left a:before, .icon2-battery.icon2-right a:after { content: "🔋"; height: inherit; }
+
+i.icon2-battery:before { content: "🔋"; height: inherit; }
+
+.icon2-back-in-time.icon2-left a:before, .icon2-back-in-time.icon2-right a:after { content: "\e771"; height: inherit; }
+
+i.icon2-back-in-time:before { content: "\e771"; height: inherit; }
+
+.icon2-monitor.icon2-left a:before, .icon2-monitor.icon2-right a:after { content: "💻"; height: inherit; }
+
+i.icon2-monitor:before { content: "💻"; height: inherit; }
+
+.icon2-mobile.icon2-left a:before, .icon2-mobile.icon2-right a:after { content: "📱"; height: inherit; }
+
+i.icon2-mobile:before { content: "📱"; height: inherit; }
+
+.icon2-network.icon2-left a:before, .icon2-network.icon2-right a:after { content: "\e776"; height: inherit; }
+
+i.icon2-network:before { content: "\e776"; height: inherit; }
+
+.icon2-cd.icon2-left a:before, .icon2-cd.icon2-right a:after { content: "💿"; height: inherit; }
+
+i.icon2-cd:before { content: "💿"; height: inherit; }
+
+.icon2-inbox.icon2-left a:before, .icon2-inbox.icon2-right a:after { content: "\e777"; height: inherit; }
+
+i.icon2-inbox:before { content: "\e777"; height: inherit; }
+
+.icon2-install.icon2-left a:before, .icon2-install.icon2-right a:after { content: "\e778"; height: inherit; }
+
+i.icon2-install:before { content: "\e778"; height: inherit; }
+
+.icon2-globe.icon2-left a:before, .icon2-globe.icon2-right a:after { content: "🌎"; height: inherit; }
+
+i.icon2-globe:before { content: "🌎"; height: inherit; }
+
+.icon2-cloud.icon2-left a:before, .icon2-cloud.icon2-right a:after { content: "\2601"; height: inherit; }
+
+i.icon2-cloud:before { content: "\2601"; height: inherit; }
+
+.icon2-cloud-thunder.icon2-left a:before, .icon2-cloud-thunder.icon2-right a:after { content: "\26c8"; height: inherit; }
+
+i.icon2-cloud-thunder:before { content: "\26c8"; height: inherit; }
+
+.icon2-flash.icon2-left a:before, .icon2-flash.icon2-right a:after { content: "\26a1"; height: inherit; }
+
+i.icon2-flash:before { content: "\26a1"; height: inherit; }
+
+.icon2-moon.icon2-left a:before, .icon2-moon.icon2-right a:after { content: "\263d"; height: inherit; }
+
+i.icon2-moon:before { content: "\263d"; height: inherit; }
+
+.icon2-flight.icon2-left a:before, .icon2-flight.icon2-right a:after { content: "\2708"; height: inherit; }
+
+i.icon2-flight:before { content: "\2708"; height: inherit; }
+
+.icon2-paper-plane.icon2-left a:before, .icon2-paper-plane.icon2-right a:after { content: "\e79b"; height: inherit; }
+
+i.icon2-paper-plane:before { content: "\e79b"; height: inherit; }
+
+.icon2-leaf.icon2-left a:before, .icon2-leaf.icon2-right a:after { content: "🍂"; height: inherit; }
+
+i.icon2-leaf:before { content: "🍂"; height: inherit; }
+
+.icon2-lifebuoy.icon2-left a:before, .icon2-lifebuoy.icon2-right a:after { content: "\e788"; height: inherit; }
+
+i.icon2-lifebuoy:before { content: "\e788"; height: inherit; }
+
+.icon2-mouse.icon2-left a:before, .icon2-mouse.icon2-right a:after { content: "\e789"; height: inherit; }
+
+i.icon2-mouse:before { content: "\e789"; height: inherit; }
+
+.icon2-briefcase.icon2-left a:before, .icon2-briefcase.icon2-right a:after { content: "💼"; height: inherit; }
+
+i.icon2-briefcase:before { content: "💼"; height: inherit; }
+
+.icon2-suitcase.icon2-left a:before, .icon2-suitcase.icon2-right a:after { content: "\e78e"; height: inherit; }
+
+i.icon2-suitcase:before { content: "\e78e"; height: inherit; }
+
+.icon2-dot.icon2-left a:before, .icon2-dot.icon2-right a:after { content: "\e78b"; height: inherit; }
+
+i.icon2-dot:before { content: "\e78b"; height: inherit; }
+
+.icon2-dot-2.icon2-left a:before, .icon2-dot-2.icon2-right a:after { content: "\e78c"; height: inherit; }
+
+i.icon2-dot-2:before { content: "\e78c"; height: inherit; }
+
+.icon2-dot-3.icon2-left a:before, .icon2-dot-3.icon2-right a:after { content: "\e78d"; height: inherit; }
+
+i.icon2-dot-3:before { content: "\e78d"; height: inherit; }
+
+.icon2-brush.icon2-left a:before, .icon2-brush.icon2-right a:after { content: "\e79a"; height: inherit; }
+
+i.icon2-brush:before { content: "\e79a"; height: inherit; }
+
+.icon2-magnet.icon2-left a:before, .icon2-magnet.icon2-right a:after { content: "\e7a1"; height: inherit; }
+
+i.icon2-magnet:before { content: "\e7a1"; height: inherit; }
+
+.icon2-infinity.icon2-left a:before, .icon2-infinity.icon2-right a:after { content: "\221e"; height: inherit; }
+
+i.icon2-infinity:before { content: "\221e"; height: inherit; }
+
+.icon2-erase.icon2-left a:before, .icon2-erase.icon2-right a:after { content: "\232b"; height: inherit; }
+
+i.icon2-erase:before { content: "\232b"; height: inherit; }
+
+.icon2-chart-pie.icon2-left a:before, .icon2-chart-pie.icon2-right a:after { content: "\e751"; height: inherit; }
+
+i.icon2-chart-pie:before { content: "\e751"; height: inherit; }
+
+.icon2-chart-line.icon2-left a:before, .icon2-chart-line.icon2-right a:after { content: "📈"; height: inherit; }
+
+i.icon2-chart-line:before { content: "📈"; height: inherit; }
+
+.icon2-chart-bar.icon2-left a:before, .icon2-chart-bar.icon2-right a:after { content: "📊"; height: inherit; }
+
+i.icon2-chart-bar:before { content: "📊"; height: inherit; }
+
+.icon2-chart-area.icon2-left a:before, .icon2-chart-area.icon2-right a:after { content: "🔾"; height: inherit; }
+
+i.icon2-chart-area:before { content: "🔾"; height: inherit; }
+
+.icon2-tape.icon2-left a:before, .icon2-tape.icon2-right a:after { content: "\2707"; height: inherit; }
+
+i.icon2-tape:before { content: "\2707"; height: inherit; }
+
+.icon2-graduation-cap.icon2-left a:before, .icon2-graduation-cap.icon2-right a:after { content: "🎓"; height: inherit; }
+
+i.icon2-graduation-cap:before { content: "🎓"; height: inherit; }
+
+.icon2-language.icon2-left a:before, .icon2-language.icon2-right a:after { content: "\e752"; height: inherit; }
+
+i.icon2-language:before { content: "\e752"; height: inherit; }
+
+.icon2-ticket.icon2-left a:before, .icon2-ticket.icon2-right a:after { content: "🎫"; height: inherit; }
+
+i.icon2-ticket:before { content: "🎫"; height: inherit; }
+
+.icon2-water.icon2-left a:before, .icon2-water.icon2-right a:after { content: "💦"; height: inherit; }
+
+i.icon2-water:before { content: "💦"; height: inherit; }
+
+.icon2-droplet.icon2-left a:before, .icon2-droplet.icon2-right a:after { content: "💧"; height: inherit; }
+
+i.icon2-droplet:before { content: "💧"; height: inherit; }
+
+.icon2-air.icon2-left a:before, .icon2-air.icon2-right a:after { content: "\e753"; height: inherit; }
+
+i.icon2-air:before { content: "\e753"; height: inherit; }
+
+.icon2-credit-card.icon2-left a:before, .icon2-credit-card.icon2-right a:after { content: "💳"; height: inherit; }
+
+i.icon2-credit-card:before { content: "💳"; height: inherit; }
+
+.icon2-floppy.icon2-left a:before, .icon2-floppy.icon2-right a:after { content: "💾"; height: inherit; }
+
+i.icon2-floppy:before { content: "💾"; height: inherit; }
+
+.icon2-clipboard.icon2-left a:before, .icon2-clipboard.icon2-right a:after { content: "📋"; height: inherit; }
+
+i.icon2-clipboard:before { content: "📋"; height: inherit; }
+
+.icon2-megaphone.icon2-left a:before, .icon2-megaphone.icon2-right a:after { content: "📣"; height: inherit; }
+
+i.icon2-megaphone:before { content: "📣"; height: inherit; }
+
+.icon2-database.icon2-left a:before, .icon2-database.icon2-right a:after { content: "\e754"; height: inherit; }
+
+i.icon2-database:before { content: "\e754"; height: inherit; }
+
+.icon2-drive.icon2-left a:before, .icon2-drive.icon2-right a:after { content: "\e755"; height: inherit; }
+
+i.icon2-drive:before { content: "\e755"; height: inherit; }
+
+.icon2-bucket.icon2-left a:before, .icon2-bucket.icon2-right a:after { content: "\e756"; height: inherit; }
+
+i.icon2-bucket:before { content: "\e756"; height: inherit; }
+
+.icon2-thermometer.icon2-left a:before, .icon2-thermometer.icon2-right a:after { content: "\e757"; height: inherit; }
+
+i.icon2-thermometer:before { content: "\e757"; height: inherit; }
+
+.icon2-key.icon2-left a:before, .icon2-key.icon2-right a:after { content: "🔑"; height: inherit; }
+
+i.icon2-key:before { content: "🔑"; height: inherit; }
+
+.icon2-flow-cascade.icon2-left a:before, .icon2-flow-cascade.icon2-right a:after { content: "\e790"; height: inherit; }
+
+i.icon2-flow-cascade:before { content: "\e790"; height: inherit; }
+
+.icon2-flow-branch.icon2-left a:before, .icon2-flow-branch.icon2-right a:after { content: "\e791"; height: inherit; }
+
+i.icon2-flow-branch:before { content: "\e791"; height: inherit; }
+
+.icon2-flow-tree.icon2-left a:before, .icon2-flow-tree.icon2-right a:after { content: "\e792"; height: inherit; }
+
+i.icon2-flow-tree:before { content: "\e792"; height: inherit; }
+
+.icon2-flow-line.icon2-left a:before, .icon2-flow-line.icon2-right a:after { content: "\e793"; height: inherit; }
+
+i.icon2-flow-line:before { content: "\e793"; height: inherit; }
+
+.icon2-flow-parallel.icon2-left a:before, .icon2-flow-parallel.icon2-right a:after { content: "\e794"; height: inherit; }
+
+i.icon2-flow-parallel:before { content: "\e794"; height: inherit; }
+
+.icon2-rocket.icon2-left a:before, .icon2-rocket.icon2-right a:after { content: "🚀"; height: inherit; }
+
+i.icon2-rocket:before { content: "🚀"; height: inherit; }
+
+.icon2-gauge.icon2-left a:before, .icon2-gauge.icon2-right a:after { content: "\e7a2"; height: inherit; }
+
+i.icon2-gauge:before { content: "\e7a2"; height: inherit; }
+
+.icon2-traffic-cone.icon2-left a:before, .icon2-traffic-cone.icon2-right a:after { content: "\e7a3"; height: inherit; }
+
+i.icon2-traffic-cone:before { content: "\e7a3"; height: inherit; }
+
+.icon2-cc.icon2-left a:before, .icon2-cc.icon2-right a:after { content: "\e7a5"; height: inherit; }
+
+i.icon2-cc:before { content: "\e7a5"; height: inherit; }
+
+.icon2-cc-by.icon2-left a:before, .icon2-cc-by.icon2-right a:after { content: "\e7a6"; height: inherit; }
+
+i.icon2-cc-by:before { content: "\e7a6"; height: inherit; }
+
+.icon2-cc-nc.icon2-left a:before, .icon2-cc-nc.icon2-right a:after { content: "\e7a7"; height: inherit; }
+
+i.icon2-cc-nc:before { content: "\e7a7"; height: inherit; }
+
+.icon2-cc-nc-eu.icon2-left a:before, .icon2-cc-nc-eu.icon2-right a:after { content: "\e7a8"; height: inherit; }
+
+i.icon2-cc-nc-eu:before { content: "\e7a8"; height: inherit; }
+
+.icon2-cc-nc-jp.icon2-left a:before, .icon2-cc-nc-jp.icon2-right a:after { content: "\e7a9"; height: inherit; }
+
+i.icon2-cc-nc-jp:before { content: "\e7a9"; height: inherit; }
+
+.icon2-cc-sa.icon2-left a:before, .icon2-cc-sa.icon2-right a:after { content: "\e7aa"; height: inherit; }
+
+i.icon2-cc-sa:before { content: "\e7aa"; height: inherit; }
+
+.icon2-cc-nd.icon2-left a:before, .icon2-cc-nd.icon2-right a:after { content: "\e7ab"; height: inherit; }
+
+i.icon2-cc-nd:before { content: "\e7ab"; height: inherit; }
+
+.icon2-cc-pd.icon2-left a:before, .icon2-cc-pd.icon2-right a:after { content: "\e7ac"; height: inherit; }
+
+i.icon2-cc-pd:before { content: "\e7ac"; height: inherit; }
+
+.icon2-cc-zero.icon2-left a:before, .icon2-cc-zero.icon2-right a:after { content: "\e7ad"; height: inherit; }
+
+i.icon2-cc-zero:before { content: "\e7ad"; height: inherit; }
+
+.icon2-cc-share.icon2-left a:before, .icon2-cc-share.icon2-right a:after { content: "\e7ae"; height: inherit; }
+
+i.icon2-cc-share:before { content: "\e7ae"; height: inherit; }
+
+.icon2-cc-remix.icon2-left a:before, .icon2-cc-remix.icon2-right a:after { content: "\e7af"; height: inherit; }
+
+i.icon2-cc-remix:before { content: "\e7af"; height: inherit; }
+
+.icon2-github.icon2-left a:before, .icon2-github.icon2-right a:after { content: "\f300"; height: inherit; }
+
+i.icon2-github:before { content: "\f300"; height: inherit; }
+
+.icon2-github-circled.icon2-left a:before, .icon2-github-circled.icon2-right a:after { content: "\f301"; height: inherit; }
+
+i.icon2-github-circled:before { content: "\f301"; height: inherit; }
+
+.icon2-flickr.icon2-left a:before, .icon2-flickr.icon2-right a:after { content: "\f303"; height: inherit; }
+
+i.icon2-flickr:before { content: "\f303"; height: inherit; }
+
+.icon2-flickr-circled.icon2-left a:before, .icon2-flickr-circled.icon2-right a:after { content: "\f304"; height: inherit; }
+
+i.icon2-flickr-circled:before { content: "\f304"; height: inherit; }
+
+.icon2-vimeo.icon2-left a:before, .icon2-vimeo.icon2-right a:after { content: "\f306"; height: inherit; }
+
+i.icon2-vimeo:before { content: "\f306"; height: inherit; }
+
+.icon2-vimeo-circled.icon2-left a:before, .icon2-vimeo-circled.icon2-right a:after { content: "\f307"; height: inherit; }
+
+i.icon2-vimeo-circled:before { content: "\f307"; height: inherit; }
+
+.icon2-twitter.icon2-left a:before, .icon2-twitter.icon2-right a:after { content: "\f309"; height: inherit; }
+
+i.icon2-twitter:before { content: "\f309"; height: inherit; }
+
+.icon2-twitter-circled.icon2-left a:before, .icon2-twitter-circled.icon2-right a:after { content: "\f30a"; height: inherit; }
+
+i.icon2-twitter-circled:before { content: "\f30a"; height: inherit; }
+
+.icon2-facebook.icon2-left a:before, .icon2-facebook.icon2-right a:after { content: "\f30c"; height: inherit; }
+
+i.icon2-facebook:before { content: "\f30c"; height: inherit; }
+
+.icon2-facebook-circled.icon2-left a:before, .icon2-facebook-circled.icon2-right a:after { content: "\f30d"; height: inherit; }
+
+i.icon2-facebook-circled:before { content: "\f30d"; height: inherit; }
+
+.icon2-facebook-squared.icon2-left a:before, .icon2-facebook-squared.icon2-right a:after { content: "\f30e"; height: inherit; }
+
+i.icon2-facebook-squared:before { content: "\f30e"; height: inherit; }
+
+.icon2-gplus.icon2-left a:before, .icon2-gplus.icon2-right a:after { content: "\f30f"; height: inherit; }
+
+i.icon2-gplus:before { content: "\f30f"; height: inherit; }
+
+.icon2-gplus-circled.icon2-left a:before, .icon2-gplus-circled.icon2-right a:after { content: "\f310"; height: inherit; }
+
+i.icon2-gplus-circled:before { content: "\f310"; height: inherit; }
+
+.icon2-pinterest.icon2-left a:before, .icon2-pinterest.icon2-right a:after { content: "\f312"; height: inherit; }
+
+i.icon2-pinterest:before { content: "\f312"; height: inherit; }
+
+.icon2-pinterest-circled.icon2-left a:before, .icon2-pinterest-circled.icon2-right a:after { content: "\f313"; height: inherit; }
+
+i.icon2-pinterest-circled:before { content: "\f313"; height: inherit; }
+
+.icon2-tumblr.icon2-left a:before, .icon2-tumblr.icon2-right a:after { content: "\f315"; height: inherit; }
+
+i.icon2-tumblr:before { content: "\f315"; height: inherit; }
+
+.icon2-tumblr-circled.icon2-left a:before, .icon2-tumblr-circled.icon2-right a:after { content: "\f316"; height: inherit; }
+
+i.icon2-tumblr-circled:before { content: "\f316"; height: inherit; }
+
+.icon2-linkedin.icon2-left a:before, .icon2-linkedin.icon2-right a:after { content: "\f318"; height: inherit; }
+
+i.icon2-linkedin:before { content: "\f318"; height: inherit; }
+
+.icon2-linkedin-circled.icon2-left a:before, .icon2-linkedin-circled.icon2-right a:after { content: "\f319"; height: inherit; }
+
+i.icon2-linkedin-circled:before { content: "\f319"; height: inherit; }
+
+.icon2-dribbble.icon2-left a:before, .icon2-dribbble.icon2-right a:after { content: "\f31b"; height: inherit; }
+
+i.icon2-dribbble:before { content: "\f31b"; height: inherit; }
+
+.icon2-dribbble-circled.icon2-left a:before, .icon2-dribbble-circled.icon2-right a:after { content: "\f31c"; height: inherit; }
+
+i.icon2-dribbble-circled:before { content: "\f31c"; height: inherit; }
+
+.icon2-stumbleupon.icon2-left a:before, .icon2-stumbleupon.icon2-right a:after { content: "\f31e"; height: inherit; }
+
+i.icon2-stumbleupon:before { content: "\f31e"; height: inherit; }
+
+.icon2-stumbleupon-circled.icon2-left a:before, .icon2-stumbleupon-circled.icon2-right a:after { content: "\f31f"; height: inherit; }
+
+i.icon2-stumbleupon-circled:before { content: "\f31f"; height: inherit; }
+
+.icon2-lastfm.icon2-left a:before, .icon2-lastfm.icon2-right a:after { content: "\f321"; height: inherit; }
+
+i.icon2-lastfm:before { content: "\f321"; height: inherit; }
+
+.icon2-lastfm-circled.icon2-left a:before, .icon2-lastfm-circled.icon2-right a:after { content: "\f322"; height: inherit; }
+
+i.icon2-lastfm-circled:before { content: "\f322"; height: inherit; }
+
+.icon2-rdio.icon2-left a:before, .icon2-rdio.icon2-right a:after { content: "\f324"; height: inherit; }
+
+i.icon2-rdio:before { content: "\f324"; height: inherit; }
+
+.icon2-rdio-circled.icon2-left a:before, .icon2-rdio-circled.icon2-right a:after { content: "\f325"; height: inherit; }
+
+i.icon2-rdio-circled:before { content: "\f325"; height: inherit; }
+
+.icon2-spotify.icon2-left a:before, .icon2-spotify.icon2-right a:after { content: "\f327"; height: inherit; }
+
+i.icon2-spotify:before { content: "\f327"; height: inherit; }
+
+.icon2-spotify-circled.icon2-left a:before, .icon2-spotify-circled.icon2-right a:after { content: "\f328"; height: inherit; }
+
+i.icon2-spotify-circled:before { content: "\f328"; height: inherit; }
+
+.icon2-qq.icon2-left a:before, .icon2-qq.icon2-right a:after { content: "\f32a"; height: inherit; }
+
+i.icon2-qq:before { content: "\f32a"; height: inherit; }
+
+.icon2-instagram.icon2-left a:before, .icon2-instagram.icon2-right a:after { content: "\f32d"; height: inherit; }
+
+i.icon2-instagram:before { content: "\f32d"; height: inherit; }
+
+.icon2-dropbox.icon2-left a:before, .icon2-dropbox.icon2-right a:after { content: "\f330"; height: inherit; }
+
+i.icon2-dropbox:before { content: "\f330"; height: inherit; }
+
+.icon2-evernote.icon2-left a:before, .icon2-evernote.icon2-right a:after { content: "\f333"; height: inherit; }
+
+i.icon2-evernote:before { content: "\f333"; height: inherit; }
+
+.icon2-flattr.icon2-left a:before, .icon2-flattr.icon2-right a:after { content: "\f336"; height: inherit; }
+
+i.icon2-flattr:before { content: "\f336"; height: inherit; }
+
+.icon2-skype.icon2-left a:before, .icon2-skype.icon2-right a:after { content: "\f339"; height: inherit; }
+
+i.icon2-skype:before { content: "\f339"; height: inherit; }
+
+.icon2-skype-circled.icon2-left a:before, .icon2-skype-circled.icon2-right a:after { content: "\f33a"; height: inherit; }
+
+i.icon2-skype-circled:before { content: "\f33a"; height: inherit; }
+
+.icon2-renren.icon2-left a:before, .icon2-renren.icon2-right a:after { content: "\f33c"; height: inherit; }
+
+i.icon2-renren:before { content: "\f33c"; height: inherit; }
+
+.icon2-sina-weibo.icon2-left a:before, .icon2-sina-weibo.icon2-right a:after { content: "\f33f"; height: inherit; }
+
+i.icon2-sina-weibo:before { content: "\f33f"; height: inherit; }
+
+.icon2-paypal.icon2-left a:before, .icon2-paypal.icon2-right a:after { content: "\f342"; height: inherit; }
+
+i.icon2-paypal:before { content: "\f342"; height: inherit; }
+
+.icon2-picasa.icon2-left a:before, .icon2-picasa.icon2-right a:after { content: "\f345"; height: inherit; }
+
+i.icon2-picasa:before { content: "\f345"; height: inherit; }
+
+.icon2-soundcloud.icon2-left a:before, .icon2-soundcloud.icon2-right a:after { content: "\f348"; height: inherit; }
+
+i.icon2-soundcloud:before { content: "\f348"; height: inherit; }
+
+.icon2-mixi.icon2-left a:before, .icon2-mixi.icon2-right a:after { content: "\f34b"; height: inherit; }
+
+i.icon2-mixi:before { content: "\f34b"; height: inherit; }
+
+.icon2-behance.icon2-left a:before, .icon2-behance.icon2-right a:after { content: "\f34e"; height: inherit; }
+
+i.icon2-behance:before { content: "\f34e"; height: inherit; }
+
+.icon2-google-circles.icon2-left a:before, .icon2-google-circles.icon2-right a:after { content: "\f351"; height: inherit; }
+
+i.icon2-google-circles:before { content: "\f351"; height: inherit; }
+
+.icon2-vkontakte.icon2-left a:before, .icon2-vkontakte.icon2-right a:after { content: "\f354"; height: inherit; }
+
+i.icon2-vkontakte:before { content: "\f354"; height: inherit; }
+
+.icon2-smashing.icon2-left a:before, .icon2-smashing.icon2-right a:after { content: "\f357"; height: inherit; }
+
+i.icon2-smashing:before { content: "\f357"; height: inherit; }
+
+.icon2-sweden.icon2-left a:before, .icon2-sweden.icon2-right a:after { content: "\f601"; height: inherit; }
+
+i.icon2-sweden:before { content: "\f601"; height: inherit; }
+
+.icon2-db-shape.icon2-left a:before, .icon2-db-shape.icon2-right a:after { content: "\f600"; height: inherit; }
+
+i.icon2-db-shape:before { content: "\f600"; height: inherit; }
+
+.icon2-logo-db.icon2-left a:before, .icon2-logo-db.icon2-right a:after { content: "\f603"; height: inherit; }
+
+i.icon2-logo-db:before { content: "\f603"; height: inherit; }

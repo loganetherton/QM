@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qualitymedia1/!svn/ver/2122/branches/dev1/base/protected/modules/admin/views/layouts/_tabs
+END
+client.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/1627/branches/dev1/base/protected/modules/admin/views/layouts/_tabs/client.php
+END
+billing.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/317/branches/dev1/base/protected/modules/admin/views/layouts/_tabs/billing.php
+END
+employees.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qualitymedia1/!svn/ver/2122/branches/dev1/base/protected/modules/admin/views/layouts/_tabs/employees.php
+END
+daemon.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/1838/branches/dev1/base/protected/modules/admin/views/layouts/_tabs/daemon.php
+END
+revenues.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/qualitymedia1/!svn/ver/401/branches/dev1/base/protected/modules/admin/views/layouts/_tabs/revenues.php
+END

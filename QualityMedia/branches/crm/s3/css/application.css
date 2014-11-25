@@ -1,0 +1,11 @@
+body{margin:50px 0px 20px 0px;}
+.acenter{text-align:center;}
+.aleft{text-align:left;}
+.aright{text-align:right;}
+
+div.prepend-top,.prepend-top{margin-top:1.5em;}
+div.append-bottom,.append-bottom{margin-bottom:1.5em;}
+div.prepend-top-small,.prepend-top-small{margin-top:0.5em;}
+div.append-bottom-small,.append-bottom-small{margin-bottom:0.5em;}
+
+.span6.border{border:1px solid #909193;padding:10px 20px;}

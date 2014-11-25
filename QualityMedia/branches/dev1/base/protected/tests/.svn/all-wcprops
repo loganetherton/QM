@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/qualitymedia1/!svn/ver/60/branches/dev1/base/protected/tests
+END
+WebTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/60/branches/dev1/base/protected/tests/WebTestCase.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/60/branches/dev1/base/protected/tests/bootstrap.php
+END
+phpunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/qualitymedia1/!svn/ver/60/branches/dev1/base/protected/tests/phpunit.xml
+END

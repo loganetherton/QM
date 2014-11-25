@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 10
+.htaccess
+
+K 13
+svn:mergeinfo
+V 85
+/branches/dev1/base:846-861
+/branches/reviews-refactoring:702-860
+/trunk/base:221-494
+END

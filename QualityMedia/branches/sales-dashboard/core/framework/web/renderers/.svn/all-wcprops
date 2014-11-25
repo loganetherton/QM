@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/web/renderers
+END
+CViewRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/web/renderers/CViewRenderer.php
+END
+CPradoViewRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/web/renderers/CPradoViewRenderer.php
+END

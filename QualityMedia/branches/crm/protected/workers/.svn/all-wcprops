@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/workers
+END
+PhantomJsReadInfoWorker.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/workers/PhantomJsReadInfoWorker.php
+END
+PhantomJsReadPhotosWorker.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/workers/PhantomJsReadPhotosWorker.php
+END
+PhantomJsFlagReviewWorker.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/workers/PhantomJsFlagReviewWorker.php
+END
+PhantomJsPrivateMessageWorker.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/workers/PhantomJsPrivateMessageWorker.php
+END
+PhantomJsReadBusinessesWorker.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/workers/PhantomJsReadBusinessesWorker.php
+END
+PhantomJsReadReviewsWorker.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/workers/PhantomJsReadReviewsWorker.php
+END
+PhantomJsPublicCommentWorker.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/workers/PhantomJsPublicCommentWorker.php
+END
+PhantomJsReadAnalyticsWorker.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/workers/PhantomJsReadAnalyticsWorker.php
+END

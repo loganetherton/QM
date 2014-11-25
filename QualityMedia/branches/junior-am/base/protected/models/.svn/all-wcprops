@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/qualitymedia1/!svn/ver/1612/branches/junior-am/base/protected/models
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/models/User.php
+END
+YelpAnalytics.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/models/YelpAnalytics.php
+END
+YelpPhoto.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/models/YelpPhoto.php
+END
+Subscription.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/models/Subscription.php
+END
+Queue.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/models/Queue.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qualitymedia1/!svn/ver/1513/branches/junior-am/base/protected/models/Message.php
+END
+Transaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/models/Transaction.php
+END
+YelpBusiness.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/models/YelpBusiness.php
+END
+YelpInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/models/YelpInfo.php
+END
+ProductsForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/models/ProductsForm.php
+END
+AccountManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/1546/branches/junior-am/base/protected/models/AccountManager.php
+END
+Tweet.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/models/Tweet.php
+END
+Plan.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/models/Plan.php
+END
+SystemNotification.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/models/SystemNotification.php
+END
+Invoice.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/models/Invoice.php
+END
+BillingInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/models/BillingInfo.php
+END
+Profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/models/Profile.php
+END
+Review.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qualitymedia1/!svn/ver/1612/branches/junior-am/base/protected/models/Review.php
+END
+Salesman.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/models/Salesman.php
+END
+ReviewUpdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/models/ReviewUpdate.php
+END
+ProfileQueue.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/models/ProfileQueue.php
+END

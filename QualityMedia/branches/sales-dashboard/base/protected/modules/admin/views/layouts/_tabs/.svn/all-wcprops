@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/modules/admin/views/layouts/_tabs
+END
+billing.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/modules/admin/views/layouts/_tabs/billing.php
+END
+employees.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/modules/admin/views/layouts/_tabs/employees.php
+END
+revenues.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/modules/admin/views/layouts/_tabs/revenues.php
+END

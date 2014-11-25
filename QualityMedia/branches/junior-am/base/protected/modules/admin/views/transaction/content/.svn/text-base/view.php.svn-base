@@ -1,0 +1,22 @@
+<?php $this->widget('bootstrap.widgets.TbDetailView', array(
+    'data'=>$model,
+    'attributes'=>array(
+        'id',
+        'uuid',
+        array(
+            'name'=>'amountInCents',
+            'value'=>$model->getAmount(),
+        ),
+        'currency',
+        'action',
+        'source',
+        'status',
+        'cvvResult',
+        'avsResult',
+        'avsResultStreet',
+        'avsResultPostal',
+        'transactionDate:datetime',
+        'createdAt:datetime',
+        'updatedAt:datetime',
+    ),
+));

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/1619/branches/junior-am/base/protected/modules/am/controllers
+END
+ClientsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/am/controllers/ClientsController.php
+END
+ReviewAnswerController.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/qualitymedia1/!svn/ver/1619/branches/junior-am/base/protected/modules/am/controllers/ReviewAnswerController.php
+END
+ReviewController.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qualitymedia1/!svn/ver/1619/branches/junior-am/base/protected/modules/am/controllers/ReviewController.php
+END
+SessionController.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/am/controllers/SessionController.php
+END
+MessageAnswerController.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/qualitymedia1/!svn/ver/1619/branches/junior-am/base/protected/modules/am/controllers/MessageAnswerController.php
+END
+MessageController.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/qualitymedia1/!svn/ver/1619/branches/junior-am/base/protected/modules/am/controllers/MessageController.php
+END
+DashboardController.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/am/controllers/DashboardController.php
+END
+SocialNetworksController.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/am/controllers/SocialNetworksController.php
+END
+ManageController.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/am/controllers/ManageController.php
+END
+NotesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/am/controllers/NotesController.php
+END
+ActivityController.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/am/controllers/ActivityController.php
+END
+PhotosController.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/am/controllers/PhotosController.php
+END
+SettingsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/am/controllers/SettingsController.php
+END

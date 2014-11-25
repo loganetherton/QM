@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/utils
+END
+CVarDumper.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/utils/CVarDumper.php
+END
+CDateTimeParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/utils/CDateTimeParser.php
+END
+mimeTypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/utils/mimeTypes.php
+END
+CFileHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/utils/CFileHelper.php
+END
+CMarkdownParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/utils/CMarkdownParser.php
+END
+CPropertyValue.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/utils/CPropertyValue.php
+END
+CFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/utils/CFormatter.php
+END
+CTimestamp.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/utils/CTimestamp.php
+END

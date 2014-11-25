@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/2092/branches/crm/protected/modules/crm/views/layouts/tabs
+END
+emailReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/qualitymedia1/!svn/ver/2072/branches/crm/protected/modules/crm/views/layouts/tabs/emailReport.php
+END
+emailReportFakeData.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qualitymedia1/!svn/ver/2072/branches/crm/protected/modules/crm/views/layouts/tabs/emailReportFakeData.php
+END
+message.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/2072/branches/crm/protected/modules/crm/views/layouts/tabs/message.php
+END
+clientJr.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/qualitymedia1/!svn/ver/2072/branches/crm/protected/modules/crm/views/layouts/tabs/clientJr.php
+END
+reviewJr.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/qualitymedia1/!svn/ver/2072/branches/crm/protected/modules/crm/views/layouts/tabs/reviewJr.php
+END
+client.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/2072/branches/crm/protected/modules/crm/views/layouts/tabs/client.php
+END
+contractEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/qualitymedia1/!svn/ver/2092/branches/crm/protected/modules/crm/views/layouts/tabs/contractEntry.php
+END
+messageJr.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/2072/branches/crm/protected/modules/crm/views/layouts/tabs/messageJr.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/qualitymedia1/!svn/ver/2072/branches/crm/protected/modules/crm/views/layouts/tabs/settings.php
+END
+review.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/2072/branches/crm/protected/modules/crm/views/layouts/tabs/review.php
+END

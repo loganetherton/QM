@@ -1,0 +1,103 @@
+10
+
+dir
+2287
+https://subversion.assembla.com/svn/qualitymedia1/branches/crm/protected/modules/admin/views
+https://subversion.assembla.com/svn/qualitymedia1
+
+
+
+2014-01-13T21:33:04.345110Z
+1906
+jpospiech.glm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4bbc0771-76ef-4e48-939d-8d483d130da4
+
+accountManager
+dir
+
+accountManagerAssignment
+dir
+
+accountManagerPlan
+dir
+
+adminManagement
+dir
+
+billingOverview
+dir
+
+client
+dir
+
+clientOverview
+dir
+
+clientSubscription
+dir
+
+daemon
+dir
+
+daemonCombinedLog
+dir
+
+dashboard
+dir
+
+employee
+dir
+
+invoice
+dir
+
+layouts
+dir
+
+plan
+dir
+
+revenue
+dir
+
+salesman
+dir
+
+salesmanAssignment
+dir
+
+salesmanPlan
+dir
+
+session
+dir
+
+subscription
+dir
+
+system
+dir
+
+task
+dir
+
+transaction
+dir
+
+user
+dir
+

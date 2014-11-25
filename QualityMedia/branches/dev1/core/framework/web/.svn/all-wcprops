@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web
+END
+CHttpSessionIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CHttpSessionIterator.php
+END
+CThemeManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CThemeManager.php
+END
+CUploadedFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CUploadedFile.php
+END
+CUrlManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CUrlManager.php
+END
+CDataProviderIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CDataProviderIterator.php
+END
+CWebApplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CWebApplication.php
+END
+COutputEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/COutputEvent.php
+END
+CTheme.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CTheme.php
+END
+CClientScript.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CClientScript.php
+END
+CSqlDataProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CSqlDataProvider.php
+END
+CExtController.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CExtController.php
+END
+CCacheHttpSession.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CCacheHttpSession.php
+END
+CHttpCookie.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CHttpCookie.php
+END
+CAssetManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CAssetManager.php
+END
+CWidgetFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CWidgetFactory.php
+END
+CBaseController.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CBaseController.php
+END
+CActiveDataProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CActiveDataProvider.php
+END
+CController.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CController.php
+END
+CArrayDataProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CArrayDataProvider.php
+END
+CWebModule.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CWebModule.php
+END
+CHttpSession.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CHttpSession.php
+END
+CDataProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CDataProvider.php
+END
+CFormModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CFormModel.php
+END
+CSort.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CSort.php
+END
+CHttpRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CHttpRequest.php
+END
+CPagination.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CPagination.php
+END
+CDbHttpSession.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/CDbHttpSession.php
+END

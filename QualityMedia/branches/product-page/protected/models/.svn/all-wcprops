@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/qualitymedia1/!svn/ver/862/branches/product-page/protected/models
+END
+YelpAnalytics.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/models/YelpAnalytics.php
+END
+YelpPhoto.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/models/YelpPhoto.php
+END
+Subscription.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/models/Subscription.php
+END
+Queue.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/qualitymedia1/!svn/ver/862/branches/product-page/protected/models/Queue.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/862/branches/product-page/protected/models/Message.php
+END
+YelpInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/models/YelpInfo.php
+END
+Transaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/models/Transaction.php
+END
+ProductsForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/855/branches/product-page/protected/models/ProductsForm.php
+END
+AccountManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/862/branches/product-page/protected/models/AccountManager.php
+END
+Plan.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/models/Plan.php
+END
+Invoice.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/models/Invoice.php
+END
+BillingInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/models/BillingInfo.php
+END
+Profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/models/Profile.php
+END
+Review.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/862/branches/product-page/protected/models/Review.php
+END
+Salesman.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/models/Salesman.php
+END
+ReviewUpdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/862/branches/product-page/protected/models/ReviewUpdate.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/models/User.php
+END

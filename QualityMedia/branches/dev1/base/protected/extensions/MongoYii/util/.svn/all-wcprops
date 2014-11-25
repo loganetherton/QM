@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/1716/branches/dev1/base/protected/extensions/MongoYii/util
+END
+EMongoCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/qualitymedia1/!svn/ver/1716/branches/dev1/base/protected/extensions/MongoYii/util/EMongoCache.php
+END
+EMongoSession.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/qualitymedia1/!svn/ver/1716/branches/dev1/base/protected/extensions/MongoYii/util/EMongoSession.php
+END
+EMongoMessageSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qualitymedia1/!svn/ver/1716/branches/dev1/base/protected/extensions/MongoYii/util/EMongoMessageSource.php
+END
+EMongoAuthManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/qualitymedia1/!svn/ver/1716/branches/dev1/base/protected/extensions/MongoYii/util/EMongoAuthManager.php
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/extensions/bootstrap/gii/bootstrap/templates/default
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/extensions/bootstrap/gii/bootstrap/templates/default/index.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/extensions/bootstrap/gii/bootstrap/templates/default/admin.php
+END
+_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/extensions/bootstrap/gii/bootstrap/templates/default/_view.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/extensions/bootstrap/gii/bootstrap/templates/default/view.php
+END
+_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/extensions/bootstrap/gii/bootstrap/templates/default/_form.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/extensions/bootstrap/gii/bootstrap/templates/default/update.php
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/extensions/bootstrap/gii/bootstrap/templates/default/controller.php
+END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/extensions/bootstrap/gii/bootstrap/templates/default/create.php
+END
+_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/extensions/bootstrap/gii/bootstrap/templates/default/_search.php
+END

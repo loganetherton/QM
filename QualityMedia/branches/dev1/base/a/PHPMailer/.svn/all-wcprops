@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/qualitymedia1/!svn/ver/481/branches/dev1/base/a/PHPMailer
+END
+class.phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/481/branches/dev1/base/a/PHPMailer/class.phpmailer.php
+END
+class.pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/qualitymedia1/!svn/ver/481/branches/dev1/base/a/PHPMailer/class.pop3.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/qualitymedia1/!svn/ver/481/branches/dev1/base/a/PHPMailer/README
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/qualitymedia1/!svn/ver/481/branches/dev1/base/a/PHPMailer/class.smtp.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/qualitymedia1/!svn/ver/481/branches/dev1/base/a/PHPMailer/LICENSE
+END
+docs.ini
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/qualitymedia1/!svn/ver/481/branches/dev1/base/a/PHPMailer/docs.ini
+END

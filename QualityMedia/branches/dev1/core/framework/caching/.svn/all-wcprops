@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/caching
+END
+CCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/caching/CCache.php
+END
+CFileCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/caching/CFileCache.php
+END
+CApcCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/caching/CApcCache.php
+END
+CDbCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/caching/CDbCache.php
+END
+CXCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/caching/CXCache.php
+END
+CEAcceleratorCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/caching/CEAcceleratorCache.php
+END
+CZendDataCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/caching/CZendDataCache.php
+END
+CDummyCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/caching/CDummyCache.php
+END
+CWinCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/caching/CWinCache.php
+END
+CMemCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/caching/CMemCache.php
+END

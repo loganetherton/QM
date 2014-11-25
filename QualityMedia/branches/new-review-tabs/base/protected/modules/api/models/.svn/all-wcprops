@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/modules/api/models
+END
+YelpInfoReceiver.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/modules/api/models/YelpInfoReceiver.php
+END
+YelpReviewReceiver.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/modules/api/models/YelpReviewReceiver.php
+END
+YelpBusinessesReceiver.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/modules/api/models/YelpBusinessesReceiver.php
+END
+YelpMessageReceiver.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/modules/api/models/YelpMessageReceiver.php
+END
+YelpTotalReviewReceiver.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/modules/api/models/YelpTotalReviewReceiver.php
+END
+YelpAnalyticsReceiver.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/modules/api/models/YelpAnalyticsReceiver.php
+END
+YelpPhotoReceiver.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/modules/api/models/YelpPhotoReceiver.php
+END

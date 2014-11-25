@@ -1,0 +1,91 @@
+10
+
+dir
+2287
+https://subversion.assembla.com/svn/qualitymedia1/branches/product-page/protected/modules/admin/views
+https://subversion.assembla.com/svn/qualitymedia1
+
+
+
+2013-08-12T15:54:39.038886Z
+735
+dawid_qm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4bbc0771-76ef-4e48-939d-8d483d130da4
+
+accountManager
+dir
+
+accountManagerAssignment
+dir
+
+accountManagerPlan
+dir
+
+adminManagement
+dir
+
+billingOverview
+dir
+
+client
+dir
+
+clientOverview
+dir
+
+clientSubscription
+dir
+
+dashboard
+dir
+
+employee
+dir
+
+invoice
+dir
+
+layouts
+dir
+
+plan
+dir
+
+revenue
+dir
+
+salesman
+dir
+
+salesmanAssignment
+dir
+
+salesmanPlan
+dir
+
+session
+dir
+
+subscription
+dir
+
+transaction
+dir
+
+user
+dir
+

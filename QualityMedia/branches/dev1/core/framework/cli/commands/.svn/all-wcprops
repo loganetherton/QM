@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/commands
+END
+MessageCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/commands/MessageCommand.php
+END
+ShellCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/commands/ShellCommand.php
+END
+MigrateCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/commands/MigrateCommand.php
+END
+WebAppCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/commands/WebAppCommand.php
+END

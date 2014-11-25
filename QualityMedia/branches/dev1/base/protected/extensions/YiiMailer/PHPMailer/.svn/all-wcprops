@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/1816/branches/dev1/base/protected/extensions/YiiMailer/PHPMailer
+END
+class.phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/qualitymedia1/!svn/ver/1816/branches/dev1/base/protected/extensions/YiiMailer/PHPMailer/class.phpmailer.php
+END
+class.pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/qualitymedia1/!svn/ver/1816/branches/dev1/base/protected/extensions/YiiMailer/PHPMailer/class.pop3.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/qualitymedia1/!svn/ver/1816/branches/dev1/base/protected/extensions/YiiMailer/PHPMailer/README.md
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/qualitymedia1/!svn/ver/1816/branches/dev1/base/protected/extensions/YiiMailer/PHPMailer/README
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/qualitymedia1/!svn/ver/1816/branches/dev1/base/protected/extensions/YiiMailer/PHPMailer/class.smtp.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/1816/branches/dev1/base/protected/extensions/YiiMailer/PHPMailer/LICENSE
+END

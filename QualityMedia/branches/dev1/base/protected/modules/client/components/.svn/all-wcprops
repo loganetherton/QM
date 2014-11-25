@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/2285/branches/dev1/base/protected/modules/client/components
+END
+ClientController.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/qualitymedia1/!svn/ver/985/branches/dev1/base/protected/modules/client/components/ClientController.php
+END
+UserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/qualitymedia1/!svn/ver/2285/branches/dev1/base/protected/modules/client/components/UserIdentity.php
+END
+WebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/985/branches/dev1/base/protected/modules/client/components/WebUser.php
+END

@@ -1,0 +1,15 @@
+
+------------------------------
+------------------------------
+4/3/2014  17:57:55 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:57:55] : load finished
+[17:57:55] : Success in opening  page
+[17:57:58] : 4/3/2014  17:57:58
+[17:57:58] : Exiting
+------------------------------
+------------------------------
+4/3/2014  18:1:27 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:1:27] : load finished
+[18:1:27] : Success in opening  page
+[18:1:30] : 4/3/2014  18:1:30
+[18:1:30] : Exiting

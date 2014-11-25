@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/extensions/bootstrap/gii/bootstrap/templates/default
+END
+_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/extensions/bootstrap/gii/bootstrap/templates/default/_form.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/extensions/bootstrap/gii/bootstrap/templates/default/update.php
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/extensions/bootstrap/gii/bootstrap/templates/default/controller.php
+END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/extensions/bootstrap/gii/bootstrap/templates/default/create.php
+END
+_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/extensions/bootstrap/gii/bootstrap/templates/default/_search.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/extensions/bootstrap/gii/bootstrap/templates/default/index.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/extensions/bootstrap/gii/bootstrap/templates/default/admin.php
+END
+_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/extensions/bootstrap/gii/bootstrap/templates/default/_view.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/extensions/bootstrap/gii/bootstrap/templates/default/view.php
+END

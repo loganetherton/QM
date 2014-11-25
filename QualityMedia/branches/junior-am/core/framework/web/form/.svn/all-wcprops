@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/web/form
+END
+CFormButtonElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/web/form/CFormButtonElement.php
+END
+CFormElementCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/web/form/CFormElementCollection.php
+END
+CFormElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/web/form/CFormElement.php
+END
+CFormInputElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/web/form/CFormInputElement.php
+END
+CForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/web/form/CForm.php
+END
+CFormStringElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/web/form/CFormStringElement.php
+END

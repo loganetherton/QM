@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/qualitymedia1/!svn/ver/459/branches/dev1/CRM/protected/components
+END
+YelpComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/459/branches/dev1/CRM/protected/components/YelpComponent.php
+END
+YelpDBComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/459/branches/dev1/CRM/protected/components/YelpDBComponent.php
+END
+Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qualitymedia1/!svn/ver/459/branches/dev1/CRM/protected/components/Controller.php
+END
+UserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/459/branches/dev1/CRM/protected/components/UserIdentity.php
+END

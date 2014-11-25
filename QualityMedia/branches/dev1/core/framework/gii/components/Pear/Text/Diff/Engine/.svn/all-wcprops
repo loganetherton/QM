@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/gii/components/Pear/Text/Diff/Engine
+END
+xdiff.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/gii/components/Pear/Text/Diff/Engine/xdiff.php
+END
+native.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/gii/components/Pear/Text/Diff/Engine/native.php
+END
+string.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/gii/components/Pear/Text/Diff/Engine/string.php
+END
+shell.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/gii/components/Pear/Text/Diff/Engine/shell.php
+END

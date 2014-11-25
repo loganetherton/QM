@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/1716/branches/dev1/base/protected/extensions/MongoYii
+END
+EMongoSort.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1716/branches/dev1/base/protected/extensions/MongoYii/EMongoSort.php
+END
+EMongoCursor.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/1716/branches/dev1/base/protected/extensions/MongoYii/EMongoCursor.php
+END
+EMongoClient.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/1716/branches/dev1/base/protected/extensions/MongoYii/EMongoClient.php
+END
+EMongoDocument.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/1716/branches/dev1/base/protected/extensions/MongoYii/EMongoDocument.php
+END
+EMongoFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1716/branches/dev1/base/protected/extensions/MongoYii/EMongoFile.php
+END
+EMongoLogRoute.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/1716/branches/dev1/base/protected/extensions/MongoYii/EMongoLogRoute.php
+END
+EMongoModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/1716/branches/dev1/base/protected/extensions/MongoYii/EMongoModel.php
+END
+readme.md
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/1716/branches/dev1/base/protected/extensions/MongoYii/readme.md
+END
+EMongoCriteria.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/1716/branches/dev1/base/protected/extensions/MongoYii/EMongoCriteria.php
+END
+EMongoDataProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/qualitymedia1/!svn/ver/1716/branches/dev1/base/protected/extensions/MongoYii/EMongoDataProvider.php
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qualitymedia1/!svn/ver/1716/branches/dev1/base/protected/extensions/MongoYii/composer.json
+END

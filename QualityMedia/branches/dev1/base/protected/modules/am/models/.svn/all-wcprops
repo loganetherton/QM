@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/2285/branches/dev1/base/protected/modules/am/models
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/2197/branches/dev1/base/protected/modules/am/models/Client.php
+END
+LoginForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/1108/branches/dev1/base/protected/modules/am/models/LoginForm.php
+END
+PasswordForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qualitymedia1/!svn/ver/467/branches/dev1/base/protected/modules/am/models/PasswordForm.php
+END
+EmailReportFakeData.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/qualitymedia1/!svn/ver/2203/branches/dev1/base/protected/modules/am/models/EmailReportFakeData.php
+END
+EmailReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qualitymedia1/!svn/ver/2288/branches/dev1/base/protected/modules/am/models/EmailReport.php
+END
+BizInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/628/branches/dev1/base/protected/modules/am/models/BizInfo.php
+END
+Photo.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/758/branches/dev1/base/protected/modules/am/models/Photo.php
+END
+Note.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/1943/branches/dev1/base/protected/modules/am/models/Note.php
+END
+AmReview.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/2197/branches/dev1/base/protected/modules/am/models/AmReview.php
+END
+JuniorAmActivity.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/1682/branches/dev1/base/protected/modules/am/models/JuniorAmActivity.php
+END
+MessageAnswer.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/1854/branches/dev1/base/protected/modules/am/models/MessageAnswer.php
+END

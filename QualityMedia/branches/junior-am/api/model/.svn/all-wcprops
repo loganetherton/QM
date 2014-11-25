@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/api/model
+END
+qmdb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/api/model/qmdb.sql
+END
+model.mwb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/api/model/model.mwb
+END
+ScraperInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/api/model/ScraperInterface.php
+END
+qualitymedia.adl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/api/model/qualitymedia.adl
+END
+model.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/api/model/model.pdf
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/api/model/Makefile
+END

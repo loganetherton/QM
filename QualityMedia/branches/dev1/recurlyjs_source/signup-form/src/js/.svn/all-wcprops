@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/987/branches/dev1/recurlyjs_source/signup-form/src/js
+END
+locale.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/987/branches/dev1/recurlyjs_source/signup-form/src/js/locale.js
+END
+utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/987/branches/dev1/recurlyjs_source/signup-form/src/js/utils.js
+END
+states.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/987/branches/dev1/recurlyjs_source/signup-form/src/js/states.js
+END
+subscription.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/987/branches/dev1/recurlyjs_source/signup-form/src/js/subscription.js
+END
+transaction.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/987/branches/dev1/recurlyjs_source/signup-form/src/js/transaction.js
+END
+core.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/987/branches/dev1/recurlyjs_source/signup-form/src/js/core.js
+END
+header.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/987/branches/dev1/recurlyjs_source/signup-form/src/js/header.js
+END
+validators.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qualitymedia1/!svn/ver/987/branches/dev1/recurlyjs_source/signup-form/src/js/validators.js
+END
+plan.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/987/branches/dev1/recurlyjs_source/signup-form/src/js/plan.js
+END
+billing_info.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/987/branches/dev1/recurlyjs_source/signup-form/src/js/billing_info.js
+END
+account.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/987/branches/dev1/recurlyjs_source/signup-form/src/js/account.js
+END
+polyfills.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/987/branches/dev1/recurlyjs_source/signup-form/src/js/polyfills.js
+END
+ui.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/987/branches/dev1/recurlyjs_source/signup-form/src/js/ui.js
+END

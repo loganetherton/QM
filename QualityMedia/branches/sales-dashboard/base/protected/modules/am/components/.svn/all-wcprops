@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/modules/am/components
+END
+ClientDataColumn.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/modules/am/components/ClientDataColumn.php
+END
+ReviewListView.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/modules/am/components/ReviewListView.php
+END
+UserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/modules/am/components/UserIdentity.php
+END
+WebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/modules/am/components/WebUser.php
+END
+ClientGridView.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/modules/am/components/ClientGridView.php
+END
+AmController.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/modules/am/components/AmController.php
+END

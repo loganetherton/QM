@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/1631/branches/sales-dashboard/base/protected/modules/sales/components
+END
+UserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/qualitymedia1/!svn/ver/1631/branches/sales-dashboard/base/protected/modules/sales/components/UserIdentity.php
+END
+SalesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/modules/sales/components/SalesController.php
+END
+WebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qualitymedia1/!svn/ver/1631/branches/sales-dashboard/base/protected/modules/sales/components/WebUser.php
+END

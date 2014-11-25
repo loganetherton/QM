@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/components
+END
+AssetManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/components/AssetManager.php
+END
+ActiveRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/components/ActiveRecord.php
+END
+WebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/components/WebUser.php
+END
+DaemonLaunchBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/components/DaemonLaunchBehavior.php
+END
+GridView.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/components/GridView.php
+END
+Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/components/Controller.php
+END
+BootstrapS3.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/components/BootstrapS3.php
+END
+CustomTbMenu.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/components/CustomTbMenu.php
+END
+ConsoleFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/components/ConsoleFormatter.php
+END
+TbTotalSumColumnCurrency.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/components/TbTotalSumColumnCurrency.php
+END
+UFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/components/UFormatter.php
+END
+UserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/components/UserIdentity.php
+END
+Pagination.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/components/Pagination.php
+END
+UWebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/components/UWebUser.php
+END
+DaemonCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/components/DaemonCommand.php
+END
+AmStatsListView.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/components/AmStatsListView.php
+END

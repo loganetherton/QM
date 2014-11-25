@@ -1,0 +1,16 @@
+
+------------------------------
+------------------------------
+5/2/2014  23:56:43 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[23:56:43] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[23:56:45] -> lacey@thirdbaseaustin.com : load finished
+[23:56:45] -> lacey@thirdbaseaustin.com : Success in opening login page
+[23:56:53] -> lacey@thirdbaseaustin.com : load finished
+[23:56:53] -> lacey@thirdbaseaustin.com : load finished
+[23:56:55] -> lacey@thirdbaseaustin.com : Logged in
+[23:57:4] -> lacey@thirdbaseaustin.com : load finished
+[23:57:5] -> lacey@thirdbaseaustin.com : load finished
+[23:57:14] -> lacey@thirdbaseaustin.com : load finished
+[23:57:26] -> lacey@thirdbaseaustin.com : load finished
+[23:57:38] -> lacey@thirdbaseaustin.com : load finished
+[23:57:49] -> lacey@thirdbaseaustin.com : Exiting

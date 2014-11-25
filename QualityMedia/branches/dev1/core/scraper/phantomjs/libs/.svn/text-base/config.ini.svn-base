@@ -1,0 +1,22 @@
+var config = {
+	base_url : "http://dev1/",
+
+	stepInterval : {
+		start : 2,
+		end : 10
+	},
+
+	envDev : false,
+
+	loadImages : true,
+
+	saveSnapShots : true,
+
+	imagesDir : 'snapshotImages/',
+
+	logFile : "log.txt",
+
+	useHostBlacklist: true,
+	hostBlacklistFile: 'libs/blacklist.txt',
+}
+

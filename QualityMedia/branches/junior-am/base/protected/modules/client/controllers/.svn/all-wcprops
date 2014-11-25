@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/client/controllers
+END
+UserController.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/client/controllers/UserController.php
+END
+SessionController.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/client/controllers/SessionController.php
+END
+DashboardController.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/client/controllers/DashboardController.php
+END

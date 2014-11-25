@@ -1,0 +1,719 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations
+END
+m130619_171603_alter_message_threads_add_status_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130619_171603_alter_message_threads_add_status_field.php
+END
+m130915_121057_alter_yelp_businesses_add_stat_columns.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130915_121057_alter_yelp_businesses_add_stat_columns.php
+END
+m130614_212939_alter_admins_add_name_fields.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130614_212939_alter_admins_add_name_fields.php
+END
+m130423_102015_create_billing_info_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130423_102015_create_billing_info_table.php
+END
+m131212_203513_alter_billing_info_unique_userId.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m131212_203513_alter_billing_info_unique_userId.php
+END
+m130702_111054_alter_subscriptions_add_started_at_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130702_111054_alter_subscriptions_add_started_at_field.php
+END
+m130818_222257_alter_reviews_add_latest_message_date_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130818_222257_alter_reviews_add_latest_message_date_field.php
+END
+m130716_151100_alter_info_primary.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130716_151100_alter_info_primary.php
+END
+m140127_011914_alter_reviews_fix_duplicated_reviews_bug.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m140127_011914_alter_reviews_fix_duplicated_reviews_bug.php
+END
+m130625_114715_alter_yelp_messages_add_user_id_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130625_114715_alter_yelp_messages_add_user_id_field.php
+END
+m130826_155425_notes_subject.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130826_155425_notes_subject.php
+END
+m130529_141800_create_yelp_message_threads_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130529_141800_create_yelp_message_threads_table.php
+END
+m130612_225718_alter_profiles_change_username_and_password_type.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130612_225718_alter_profiles_change_username_and_password_type.php
+END
+m130623_144530_alter_yelp_messages_update_thread_id_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130623_144530_alter_yelp_messages_update_thread_id_field.php
+END
+m140117_144246_alter_reviews_add_posting_status_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m140117_144246_alter_reviews_add_posting_status_field.php
+END
+m130618_162122_alter_yelp_reviews_add_private_comment_hash_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130618_162122_alter_yelp_reviews_add_private_comment_hash_field.php
+END
+m130614_162738_alter_users_add_account_manager_id_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130614_162738_alter_users_add_account_manager_id_field.php
+END
+m131220_202819_alter_yelp_businesses_extends_label_field_length.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m131220_202819_alter_yelp_businesses_extends_label_field_length.php
+END
+m130726_104306_alter_yelp_reviews_add_lastActionAt_column.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130726_104306_alter_yelp_reviews_add_lastActionAt_column.php
+END
+m131121_195906_alter_billing_info_exceed_phone_length.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m131121_195906_alter_billing_info_exceed_phone_length.php
+END
+m130920_080121_alter_yelp_info_add_yelp_business_id_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130920_080121_alter_yelp_info_add_yelp_business_id_field.php
+END
+m140120_225609_create_worker_active_task_history_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m140120_225609_create_worker_active_task_history_table.php
+END
+m130513_100138_create_yelp_reviews_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130513_100138_create_yelp_reviews_table.php
+END
+m140113_094331_alter_email_reports_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m140113_094331_alter_email_reports_table.php
+END
+m130730_161309_create_phantom_queue_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130730_161309_create_phantom_queue_table.php
+END
+m140105_013015_create_daemon_logs_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m140105_013015_create_daemon_logs_table.php
+END
+m131226_110512_alter_am_activities_add_review_id_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m131226_110512_alter_am_activities_add_review_id_field.php
+END
+m140105_013415_create_worker_active_task_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m140105_013415_create_worker_active_task_table.php
+END
+m130818_135411_alter_reviews_add_user_elite_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130818_135411_alter_reviews_add_user_elite_field.php
+END
+m131009_230425_alter_reviews_add_deleted_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m131009_230425_alter_reviews_add_deleted_field.php
+END
+m130910_080501_alter_system_notifications_modify_type_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130910_080501_alter_system_notifications_modify_type_field.php
+END
+m130928_212631_alter_account_managers_add_jr_am_related_fields.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130928_212631_alter_account_managers_add_jr_am_related_fields.php
+END
+m130924_162728_alter_profiles_rename_twitterScreenName_column.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130924_162728_alter_profiles_rename_twitterScreenName_column.php
+END
+m130721_070018_create_review_updates_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130721_070018_create_review_updates_table.php
+END
+m130703_075614_alter_billing_info_add_zipcode_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130703_075614_alter_billing_info_add_zipcode_field.php
+END
+m130729_172619_update_yelp_reviews_lastActionAt_column.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130729_172619_update_yelp_reviews_lastActionAt_column.php
+END
+m130423_100019_create_users_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130423_100019_create_users_table.php
+END
+m130424_051936_create_transaction_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130424_051936_create_transaction_table.php
+END
+m130614_200233_alter_salesmen_add_name_fields.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130614_200233_alter_salesmen_add_name_fields.php
+END
+m130924_113823_create_profile_queues_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130924_113823_create_profile_queues_table.php
+END
+m140119_221749_alter_messages_add_posting_status_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m140119_221749_alter_messages_add_posting_status_field.php
+END
+m130716_152000_alter_notes_fk.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130716_152000_alter_notes_fk.php
+END
+m130619_160207_alter_yelp_message_threads_add_review_id_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130619_160207_alter_yelp_message_threads_add_review_id_field.php
+END
+m130711_133009_create_yelp_photos_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130711_133009_create_yelp_photos_table.php
+END
+m140107_070109_create_email_reports_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m140107_070109_create_email_reports_table.php
+END
+m130625_195813_alter_yelp_reviews_add_sent_column.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130625_195813_alter_yelp_reviews_add_sent_column.php
+END
+m131126_155353_alter_messages_add_account_manager_id_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m131126_155353_alter_messages_add_account_manager_id_field.php
+END
+m130913_063424_add_yelp_businesses_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130913_063424_add_yelp_businesses_table.php
+END
+m131216_194741_alter_reviews_add_precontract.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m131216_194741_alter_reviews_add_precontract.php
+END
+m130426_052031_create_admins_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130426_052031_create_admins_table.php
+END
+m130919_213110_alter_yelp_analytics_add_yelp_business_id_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130919_213110_alter_yelp_analytics_add_yelp_business_id_field.php
+END
+m130429_000723_alter_users_add_last_visit_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130429_000723_alter_users_add_last_visit_field.php
+END
+m130625_144941_alter_yelp_messages_add_sent_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130625_144941_alter_yelp_messages_add_sent_field.php
+END
+m130618_000133_alter_yelp_message_threads_change_field_names.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130618_000133_alter_yelp_message_threads_change_field_names.php
+END
+m130428_204306_alter_transactions_allow_subscription_to_be_null.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130428_204306_alter_transactions_allow_subscription_to_be_null.php
+END
+m130720_203203_create_reviews_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130720_203203_create_reviews_table.php
+END
+m140102_225636_alter_users_add_status_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m140102_225636_alter_users_add_status_field.php
+END
+m130722_162837_reviews_count.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130722_162837_reviews_count.php
+END
+m130724_125627_alter_reviews_add_flagged_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130724_125627_alter_reviews_add_flagged_field.php
+END
+m130716_151513_alter_yelp_photos_foreign.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130716_151513_alter_yelp_photos_foreign.php
+END
+m130622_200206_alter_yelp_messages_add_status_column.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130622_200206_alter_yelp_messages_add_status_column.php
+END
+m130915_121156_alter_reviews_add_yelp_business_id_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130915_121156_alter_reviews_add_yelp_business_id_field.php
+END
+m130624_160519_alter_yelp_messages_add_message_date_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130624_160519_alter_yelp_messages_add_message_date_field.php
+END
+m140120_080341_alter_billing_info_add_contract_date.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m140120_080341_alter_billing_info_add_contract_date.php
+END
+m131104_162911_alter_messages_add_approval_status_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m131104_162911_alter_messages_add_approval_status_field.php
+END
+m131216_080842_create_am_activities_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m131216_080842_create_am_activities_table.php
+END
+m130426_064617_create_invoices_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130426_064617_create_invoices_table.php
+END
+m130617_082520_alter_yelp_reviews_add_answer_fields.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130617_082520_alter_yelp_reviews_add_answer_fields.php
+END
+m130903_001215_alter_phantom_queue_add_error_reason_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130903_001215_alter_phantom_queue_add_error_reason_field.php
+END
+m130920_101618_alter_yelp_photos_add_yelp_business_id_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130920_101618_alter_yelp_photos_add_yelp_business_id_field.php
+END
+m130619_080712_alter_yelp_reviews_add_status_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130619_080712_alter_yelp_reviews_add_status_field.php
+END
+m130924_162899_create_tweets_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130924_162899_create_tweets_table.php
+END
+m130818_103603_alter_reviews_add_last_action_at_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130818_103603_alter_reviews_add_last_action_at_field.php
+END
+m130711_084945_create_notes_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130711_084945_create_notes_table.php
+END
+m130720_214621_create_messages_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130720_214621_create_messages_table.php
+END
+m130501_075756_alter_transactions_update_recurly_validation_results_fields_length.php
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130501_075756_alter_transactions_update_recurly_validation_results_fields_length.php
+END
+m130917_124052_alter_phantom_queue_add_attempts_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130917_124052_alter_phantom_queue_add_attempts_field.php
+END
+m130917_200340_alter_profiles_add_twitter_authentication_columns.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130917_200340_alter_profiles_add_twitter_authentication_columns.php
+END
+m130729_190623_alter_reviews_add_flag_reason_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130729_190623_alter_reviews_add_flag_reason_field.php
+END
+m130423_111529_create_subscriptions_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130423_111529_create_subscriptions_table.php
+END
+m131231_064342_alter_am_activities_add_messageId_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m131231_064342_alter_am_activities_add_messageId_field.php
+END
+m130731_105845_notes_userid_null.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130731_105845_notes_userid_null.php
+END
+m130618_173150_alter_yelp_messages_add_review_id_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130618_173150_alter_yelp_messages_add_review_id_field.php
+END
+m131219_052904_alter_am_activities_change_comment_default_value.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m131219_052904_alter_am_activities_change_comment_default_value.php
+END
+m130614_114349_alter_account_managers_info_table_add_settings_fields.php
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130614_114349_alter_account_managers_info_table_add_settings_fields.php
+END
+m130611_110920_create_profiles_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130611_110920_create_profiles_table.php
+END
+m130802_113235_alter_profiles_table_add_responsesWritten_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130802_113235_alter_profiles_table_add_responsesWritten_field.php
+END
+m130507_230506_create_plans_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130507_230506_create_plans_table.php
+END
+m131128_180752_alter_reviews_add_flag_account_manager_id_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m131128_180752_alter_reviews_add_flag_account_manager_id_field.php
+END
+m131031_232414_alter_reviews_add_approval_status_fields.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m131031_232414_alter_reviews_add_approval_status_fields.php
+END
+m130731_142545_alter_reviews_add_user_elite_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130731_142545_alter_reviews_add_user_elite_field.php
+END
+m130904_230249_create_system_notifications_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130904_230249_create_system_notifications_table.php
+END
+m131127_135409_alter_reviews_add_account_manager_id_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m131127_135409_alter_reviews_add_account_manager_id_field.php
+END
+m130501_082229_alter_billing_info_table_add_business_name_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130501_082229_alter_billing_info_table_add_business_name_field.php
+END
+m130714_200550_create_info_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130714_200550_create_info_table.php
+END
+m130816_145620_alter_reviews_add_flag_columns.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130816_145620_alter_reviews_add_flag_columns.php
+END
+m130923_141304_alter_reviews_add_reply_blocked_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130923_141304_alter_reviews_add_reply_blocked_field.php
+END
+m130904_173143_review_filtered.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130904_173143_review_filtered.php
+END
+m130925_152518_alter_tweets_table_add_relatedTweeterUserId_column.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130925_152518_alter_tweets_table_add_relatedTweeterUserId_column.php
+END
+m140116_205254_update_notes_add_missing_userid_values.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m140116_205254_update_notes_add_missing_userid_values.php
+END
+m130905_175840_review_notes.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130905_175840_review_notes.php
+END
+m130615_122303_alter_users_add_accountCode_attribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130615_122303_alter_users_add_accountCode_attribute.php
+END
+m140124_205652_alter_reviews_add_old_status_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m140124_205652_alter_reviews_add_old_status_field.php
+END
+m130618_011058_redesign_yelp_messages_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130618_011058_redesign_yelp_messages_table.php
+END
+m130620_172417_alter_yelp_message_source_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130620_172417_alter_yelp_message_source_field.php
+END
+m130508_003400_alter_users_add_salesman_id_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130508_003400_alter_users_add_salesman_id_field.php
+END
+m130805_121458_alter_yelp_reviews_add_flagged_at_column.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130805_121458_alter_yelp_reviews_add_flagged_at_column.php
+END
+m130618_000815_alter_yelp_message_threads_rename_fields.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130618_000815_alter_yelp_message_threads_rename_fields.php
+END
+m130818_153149_alter_reviews_add_messages_folder_column.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130818_153149_alter_reviews_add_messages_folder_column.php
+END
+m130903_114043_change_latin1_to_utf8.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130903_114043_change_latin1_to_utf8.php
+END
+m131118_145757_alter_billing_info_add_phone_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m131118_145757_alter_billing_info_add_phone_field.php
+END
+m140125_164624_alter_reviews_add_total_approval_status_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m140125_164624_alter_reviews_add_total_approval_status_field.php
+END
+m130524_140859_create_yelp_messages_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130524_140859_create_yelp_messages_table.php
+END
+m130822_130258_alter_subscriptions_add_addon_fields.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130822_130258_alter_subscriptions_add_addon_fields.php
+END
+m130507_222456_create_salesmen_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130507_222456_create_salesmen_table.php
+END
+m130723_215831_create_yelp_analytics.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130723_215831_create_yelp_analytics.php
+END
+m130507_051843_create_account_managers_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130507_051843_create_account_managers_table.php
+END
+m130828_173420_alter_subscriptions_update_addonsDetails_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m130828_173420_alter_subscriptions_update_addonsDetails_field.php
+END
+m140105_013115_create_daemon_log_events_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/migrations/m140105_013115_create_daemon_log_events_table.php
+END

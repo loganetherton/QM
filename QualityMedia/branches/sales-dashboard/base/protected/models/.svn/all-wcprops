@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models
+END
+Salesman.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/Salesman.php
+END
+ReviewUpdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/ReviewUpdate.php
+END
+ProfileQueue.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/ProfileQueue.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/User.php
+END
+YelpAnalytics.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/YelpAnalytics.php
+END
+YelpPhoto.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/YelpPhoto.php
+END
+Subscription.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/Subscription.php
+END
+Queue.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/Queue.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/Message.php
+END
+Transaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/Transaction.php
+END
+YelpBusiness.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/YelpBusiness.php
+END
+YelpInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/YelpInfo.php
+END
+ProductsForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/ProductsForm.php
+END
+AccountManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/AccountManager.php
+END
+Tweet.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/Tweet.php
+END
+Plan.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/Plan.php
+END
+SystemNotification.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/SystemNotification.php
+END
+Invoice.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/Invoice.php
+END
+BillingInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/BillingInfo.php
+END
+Profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/Profile.php
+END
+Review.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/models/Review.php
+END

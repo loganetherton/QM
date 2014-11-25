@@ -1,0 +1,2246 @@
+
+------------------------------
+------------------------------
+4/2/2014  13:6:15 ,	/home/logan/public/qm/branches/dev1/core/scraper/phantomjs/chart_generator.js ,	Username: null
+[13:6:15] : load finished
+[13:6:15] : Success in opening  page
+[13:6:19] : 4/2/2014  13:6:19
+[13:6:19] : Exiting
+------------------------------
+------------------------------
+6/2/2014  15:13:9 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[15:13:9] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[15:13:10] -> lacey@thirdbaseaustin.com : load finished
+[15:13:10] -> lacey@thirdbaseaustin.com : Success in opening login page
+[15:13:17] -> lacey@thirdbaseaustin.com : load finished
+[15:13:17] -> lacey@thirdbaseaustin.com : Logged in
+[15:13:18] -> lacey@thirdbaseaustin.com : load finished
+[15:13:24] -> lacey@thirdbaseaustin.com : load finished
+[15:13:25] -> lacey@thirdbaseaustin.com : load finished
+[15:13:31] -> lacey@thirdbaseaustin.com : load finished
+[15:13:38] -> lacey@thirdbaseaustin.com : load finished
+[15:13:47] -> lacey@thirdbaseaustin.com : load finished
+[15:13:53] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+8/2/2014  19:15:54 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[19:15:54] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[19:15:57] -> lacey@thirdbaseaustin.com : load finished
+[19:15:57] -> lacey@thirdbaseaustin.com : Success in opening login page
+[19:16:6] -> lacey@thirdbaseaustin.com : load finished
+[19:16:8] -> lacey@thirdbaseaustin.com : load finished
+[19:16:10] -> lacey@thirdbaseaustin.com : Logged in
+[19:16:21] -> lacey@thirdbaseaustin.com : load finished
+[19:16:22] -> lacey@thirdbaseaustin.com : load finished
+[19:16:35] -> lacey@thirdbaseaustin.com : load finished
+[19:16:51] -> lacey@thirdbaseaustin.com : load finished
+[19:17:7] -> lacey@thirdbaseaustin.com : load finished
+[19:17:22] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+8/2/2014  19:18:21 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[19:18:21] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[19:18:23] -> lacey@thirdbaseaustin.com : load finished
+[19:18:23] -> lacey@thirdbaseaustin.com : Success in opening login page
+[19:18:28] -> lacey@thirdbaseaustin.com : load finished
+[19:18:28] -> lacey@thirdbaseaustin.com : load finished
+[19:18:29] -> lacey@thirdbaseaustin.com : Logged in
+[19:18:35] -> lacey@thirdbaseaustin.com : load finished
+[19:18:36] -> lacey@thirdbaseaustin.com : load finished
+[19:18:39] -> lacey@thirdbaseaustin.com : load finished
+[19:18:42] -> lacey@thirdbaseaustin.com : load finished
+[19:18:47] -> lacey@thirdbaseaustin.com : load finished
+[19:18:50] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+11/2/2014  1:27:49 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[1:27:49] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[1:27:51] -> lacey@thirdbaseaustin.com : load finished
+[1:27:51] -> lacey@thirdbaseaustin.com : Success in opening login page
+[1:27:59] -> lacey@thirdbaseaustin.com : load finished
+[1:28:1] -> lacey@thirdbaseaustin.com : Logged in
+[1:28:9] -> lacey@thirdbaseaustin.com : load finished
+[1:28:9] -> lacey@thirdbaseaustin.com : load finished
+[1:28:14] -> lacey@thirdbaseaustin.com : load finished
+[1:28:22] -> lacey@thirdbaseaustin.com : load finished
+[1:28:30] -> lacey@thirdbaseaustin.com : load finished
+[1:28:37] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+11/2/2014  1:28:47 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[1:28:47] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[1:28:48] -> lacey@thirdbaseaustin.com : load finished
+[1:28:48] -> lacey@thirdbaseaustin.com : Success in opening login page
+[1:28:59] -> lacey@thirdbaseaustin.com : load finished
+[1:29:0] -> lacey@thirdbaseaustin.com : load finished
+[1:29:5] -> lacey@thirdbaseaustin.com : Logged in
+[1:29:18] -> lacey@thirdbaseaustin.com : load finished
+[1:29:18] -> lacey@thirdbaseaustin.com : load finished
+[1:29:33] -> lacey@thirdbaseaustin.com : load finished
+[1:29:51] -> lacey@thirdbaseaustin.com : load finished
+[1:30:9] -> lacey@thirdbaseaustin.com : load finished
+[1:30:26] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+11/2/2014  1:30:32 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[1:30:32] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+------------------------------
+------------------------------
+11/2/2014  1:30:33 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[1:30:33] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[1:30:34] -> lacey@thirdbaseaustin.com : load finished
+[1:30:34] -> lacey@thirdbaseaustin.com : Success in opening login page
+[1:30:35] -> lacey@thirdbaseaustin.com : load finished
+[1:30:35] -> lacey@thirdbaseaustin.com : Success in opening login page
+[1:30:42] -> lacey@thirdbaseaustin.com : load finished
+[1:30:43] -> lacey@thirdbaseaustin.com : load finished
+[1:30:44] -> lacey@thirdbaseaustin.com : load finished
+[1:30:44] -> lacey@thirdbaseaustin.com : Logged in
+[1:30:45] -> lacey@thirdbaseaustin.com : load finished
+[1:30:47] -> lacey@thirdbaseaustin.com : Logged in
+[1:30:53] -> lacey@thirdbaseaustin.com : load finished
+[1:30:58] -> lacey@thirdbaseaustin.com : load finished
+[1:30:58] -> lacey@thirdbaseaustin.com : load finished
+[1:31:9] -> lacey@thirdbaseaustin.com : load finished
+[1:31:23] -> lacey@thirdbaseaustin.com : load finished
+[1:31:38] -> lacey@thirdbaseaustin.com : load finished
+[1:31:50] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+11/2/2014  1:31:59 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[1:31:59] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[1:32:0] -> lacey@thirdbaseaustin.com : load finished
+[1:32:0] -> lacey@thirdbaseaustin.com : Success in opening login page
+[1:32:10] -> lacey@thirdbaseaustin.com : load finished
+[1:32:12] -> lacey@thirdbaseaustin.com : load finished
+[1:32:15] -> lacey@thirdbaseaustin.com : Logged in
+[1:32:26] -> lacey@thirdbaseaustin.com : load finished
+[1:32:27] -> lacey@thirdbaseaustin.com : load finished
+[1:32:40] -> lacey@thirdbaseaustin.com : load finished
+[1:32:56] -> lacey@thirdbaseaustin.com : load finished
+[1:33:12] -> lacey@thirdbaseaustin.com : load finished
+[1:33:27] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+13/2/2014  23:21:43 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[23:21:43] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[23:21:45] -> lacey@thirdbaseaustin.com : load finished
+[23:21:45] -> lacey@thirdbaseaustin.com : Success in opening login page
+[23:21:55] -> lacey@thirdbaseaustin.com : load finished
+[23:21:56] -> lacey@thirdbaseaustin.com : load finished
+[23:21:59] -> lacey@thirdbaseaustin.com : Logged in
+[23:22:24] -> lacey@thirdbaseaustin.com : load finished
+[23:22:40] -> lacey@thirdbaseaustin.com : load finished
+[23:22:56] -> lacey@thirdbaseaustin.com : load finished
+[23:23:11] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+14/2/2014  1:11:25 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[1:11:25] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[1:11:27] -> lacey@thirdbaseaustin.com : load finished
+[1:11:27] -> lacey@thirdbaseaustin.com : Success in opening login page
+[1:11:37] -> lacey@thirdbaseaustin.com : load finished
+[1:11:38] -> lacey@thirdbaseaustin.com : load finished
+[1:11:41] -> lacey@thirdbaseaustin.com : Logged in
+[1:12:6] -> lacey@thirdbaseaustin.com : load finished
+[1:12:22] -> lacey@thirdbaseaustin.com : load finished
+[1:12:38] -> lacey@thirdbaseaustin.com : load finished
+[1:12:53] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+14/2/2014  1:16:18 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[1:16:18] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[1:16:19] -> lacey@thirdbaseaustin.com : load finished
+[1:16:19] -> lacey@thirdbaseaustin.com : Success in opening login page
+[1:16:31] -> lacey@thirdbaseaustin.com : load finished
+[1:16:32] -> lacey@thirdbaseaustin.com : load finished
+[1:16:36] -> lacey@thirdbaseaustin.com : Logged in
+[1:17:3] -> lacey@thirdbaseaustin.com : load finished
+[1:17:21] -> lacey@thirdbaseaustin.com : load finished
+[1:17:39] -> lacey@thirdbaseaustin.com : load finished
+[1:17:57] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+14/2/2014  1:52:13 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[1:52:13] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[1:52:16] -> lacey@thirdbaseaustin.com : load finished
+[1:52:16] -> lacey@thirdbaseaustin.com : Success in opening login page
+[1:52:25] -> lacey@thirdbaseaustin.com : load finished
+[1:52:26] -> lacey@thirdbaseaustin.com : load finished
+[1:52:27] -> lacey@thirdbaseaustin.com : Logged in
+[1:52:50] -> lacey@thirdbaseaustin.com : load finished
+[1:53:3] -> lacey@thirdbaseaustin.com : load finished
+[1:53:17] -> lacey@thirdbaseaustin.com : load finished
+[1:53:30] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+14/2/2014  1:54:17 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[1:54:17] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[1:54:19] -> lacey@thirdbaseaustin.com : load finished
+[1:54:19] -> lacey@thirdbaseaustin.com : Success in opening login page
+[1:54:25] -> lacey@thirdbaseaustin.com : load finished
+[1:54:26] -> lacey@thirdbaseaustin.com : load finished
+[1:54:26] -> lacey@thirdbaseaustin.com : Logged in
+[1:54:36] -> lacey@thirdbaseaustin.com : load finished
+[1:54:41] -> lacey@thirdbaseaustin.com : load finished
+[1:54:48] -> lacey@thirdbaseaustin.com : load finished
+[1:54:53] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+14/2/2014  1:56:27 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[1:56:27] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[1:56:29] -> lacey@thirdbaseaustin.com : load finished
+[1:56:29] -> lacey@thirdbaseaustin.com : Success in opening login page
+[1:56:41] -> lacey@thirdbaseaustin.com : load finished
+[1:56:41] -> lacey@thirdbaseaustin.com : load finished
+[1:56:45] -> lacey@thirdbaseaustin.com : Logged in
+[1:57:13] -> lacey@thirdbaseaustin.com : load finished
+[1:57:31] -> lacey@thirdbaseaustin.com : load finished
+[1:57:49] -> lacey@thirdbaseaustin.com : load finished
+[1:58:6] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+19/2/2014  14:15:24 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[14:15:24] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[14:15:26] -> lacey@thirdbaseaustin.com : load finished
+[14:15:26] -> lacey@thirdbaseaustin.com : Success in opening login page
+[14:15:30] -> lacey@thirdbaseaustin.com : load finished
+[14:15:30] -> lacey@thirdbaseaustin.com : Logged in
+[14:15:31] -> lacey@thirdbaseaustin.com : load finished
+[14:15:36] -> lacey@thirdbaseaustin.com : load finished
+[14:15:37] -> lacey@thirdbaseaustin.com : load finished
+[14:15:40] -> lacey@thirdbaseaustin.com : load finished
+[14:15:46] -> lacey@thirdbaseaustin.com : load finished
+[14:15:52] -> lacey@thirdbaseaustin.com : load finished
+[14:15:57] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+19/2/2014  15:32:37 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator.js ,	Username: null
+[15:32:37] : load finished
+[15:32:37] : Success in opening  page
+[15:32:39] : 19/2/2014  15:32:39
+[15:32:39] : Exiting
+------------------------------
+------------------------------
+19/2/2014  15:36:33 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator.js ,	Username: null
+[15:36:33] : load finished
+[15:36:33] : Success in opening  page
+[15:36:36] : 19/2/2014  15:36:36
+[15:36:36] : Exiting
+------------------------------
+------------------------------
+19/2/2014  15:37:9 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator.js ,	Username: null
+[15:37:9] : load finished
+[15:37:9] : Success in opening  page
+[15:37:12] : 19/2/2014  15:37:12
+[15:37:12] : Exiting
+------------------------------
+------------------------------
+19/2/2014  15:45:49 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[15:45:49] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[15:45:51] -> lacey@thirdbaseaustin.com : load finished
+[15:45:51] -> lacey@thirdbaseaustin.com : Success in opening login page
+[15:45:58] -> lacey@thirdbaseaustin.com : load finished
+[15:45:59] -> lacey@thirdbaseaustin.com : load finished
+[15:46:1] -> lacey@thirdbaseaustin.com : Logged in
+[15:46:9] -> lacey@thirdbaseaustin.com : load finished
+[15:46:10] -> lacey@thirdbaseaustin.com : load finished
+[15:46:19] -> lacey@thirdbaseaustin.com : load finished
+[15:46:31] -> lacey@thirdbaseaustin.com : load finished
+[15:46:43] -> lacey@thirdbaseaustin.com : load finished
+[15:46:55] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+19/2/2014  15:47:43 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[15:47:43] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[15:47:45] -> lacey@thirdbaseaustin.com : load finished
+[15:47:45] -> lacey@thirdbaseaustin.com : Success in opening login page
+[15:47:49] -> lacey@thirdbaseaustin.com : load finished
+[15:47:49] -> lacey@thirdbaseaustin.com : Logged in
+[15:47:50] -> lacey@thirdbaseaustin.com : load finished
+[15:47:54] -> lacey@thirdbaseaustin.com : load finished
+[15:47:55] -> lacey@thirdbaseaustin.com : load finished
+[15:47:59] -> lacey@thirdbaseaustin.com : load finished
+[15:48:5] -> lacey@thirdbaseaustin.com : load finished
+[15:48:11] -> lacey@thirdbaseaustin.com : load finished
+[15:48:16] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+19/2/2014  15:49:0 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator.js ,	Username: null
+[15:49:0] : load finished
+[15:49:0] : Success in opening  page
+[15:49:3] : 19/2/2014  15:49:3
+[15:49:3] : Exiting
+------------------------------
+------------------------------
+19/2/2014  15:52:39 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator.js ,	Username: null
+[15:52:39] : load finished
+[15:52:39] : Success in opening  page
+[15:52:43] : 19/2/2014  15:52:43
+[15:52:43] : Exiting
+------------------------------
+------------------------------
+20/2/2014  14:9:45 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator.js ,	Username: null
+[14:9:45] : load finished
+[14:9:45] : Success in opening  page
+[14:9:48] : 20/2/2014  14:9:48
+[14:9:48] : Exiting
+------------------------------
+------------------------------
+23/2/2014  14:46:15 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[14:46:15] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[14:46:17] -> lacey@thirdbaseaustin.com : load finished
+[14:46:17] -> lacey@thirdbaseaustin.com : Success in opening login page
+[14:46:27] -> lacey@thirdbaseaustin.com : load finished
+[14:46:27] -> lacey@thirdbaseaustin.com : load finished
+[14:46:31] -> lacey@thirdbaseaustin.com : Logged in
+[14:46:44] -> lacey@thirdbaseaustin.com : load finished
+[14:46:56] -> lacey@thirdbaseaustin.com : load finished
+[14:47:12] -> lacey@thirdbaseaustin.com : load finished
+[14:47:28] -> lacey@thirdbaseaustin.com : load finished
+[14:47:43] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+23/2/2014  15:27:52 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[15:27:52] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[15:27:54] -> lacey@thirdbaseaustin.com : load finished
+[15:27:54] -> lacey@thirdbaseaustin.com : Success in opening login page
+[15:28:5] -> lacey@thirdbaseaustin.com : load finished
+[15:28:6] -> lacey@thirdbaseaustin.com : load finished
+[15:28:10] -> lacey@thirdbaseaustin.com : Logged in
+[15:28:23] -> lacey@thirdbaseaustin.com : load finished
+[15:28:24] -> lacey@thirdbaseaustin.com : load finished
+[15:28:38] -> lacey@thirdbaseaustin.com : load finished
+[15:28:57] -> lacey@thirdbaseaustin.com : load finished
+[15:29:14] -> lacey@thirdbaseaustin.com : load finished
+[15:29:31] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+24/2/2014  1:57:41 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator.js ,	Username: null
+[1:57:41] : load finished
+[1:57:41] : Success in opening  page
+[1:57:41] : 24/2/2014  1:57:41
+[1:57:41] : Exiting
+------------------------------
+------------------------------
+24/2/2014  1:58:20 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator.js ,	Username: null
+[1:58:20] : load finished
+[1:58:20] : Success in opening  page
+[1:58:21] : 24/2/2014  1:58:21
+[1:58:21] : Exiting
+------------------------------
+------------------------------
+24/2/2014  1:59:3 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator.js ,	Username: null
+[1:59:3] : load finished
+[1:59:3] : Success in opening  page
+[1:59:4] : 24/2/2014  1:59:4
+[1:59:4] : Exiting
+------------------------------
+------------------------------
+24/2/2014  1:59:25 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator.js ,	Username: null
+[1:59:25] : load finished
+[1:59:25] : Success in opening  page
+[1:59:25] : 24/2/2014  1:59:25
+[1:59:25] : Exiting
+------------------------------
+------------------------------
+24/2/2014  2:0:3 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator.js ,	Username: null
+[2:0:3] : load finished
+[2:0:3] : Success in opening  page
+[2:0:4] : 24/2/2014  2:0:4
+[2:0:4] : Exiting
+------------------------------
+------------------------------
+24/2/2014  2:0:13 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator.js ,	Username: null
+[2:0:13] : load finished
+[2:0:13] : Success in opening  page
+[2:0:14] : 24/2/2014  2:0:14
+[2:0:14] : Exiting
+------------------------------
+------------------------------
+24/2/2014  2:1:23 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator.js ,	Username: null
+[2:1:23] : load finished
+[2:1:23] : Success in opening  page
+[2:1:24] : 24/2/2014  2:1:24
+[2:1:24] : Exiting
+------------------------------
+------------------------------
+24/2/2014  2:1:55 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator.js ,	Username: null
+[2:1:55] : load finished
+[2:1:55] : Success in opening  page
+[2:1:56] : 24/2/2014  2:1:56
+[2:1:56] : Exiting
+------------------------------
+------------------------------
+24/2/2014  2:19:27 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator.js ,	Username: null
+[2:19:27] : load finished
+[2:19:27] : Success in opening  page
+[2:19:30] : 24/2/2014  2:19:30
+[2:19:30] : Exiting
+------------------------------
+------------------------------
+24/2/2014  21:46:41 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[21:46:41] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[21:46:44] -> lacey@thirdbaseaustin.com : load finished
+[21:46:44] -> lacey@thirdbaseaustin.com : Success in opening login page
+[21:46:52] -> lacey@thirdbaseaustin.com : load finished
+[21:46:53] -> lacey@thirdbaseaustin.com : load finished
+[21:46:57] -> lacey@thirdbaseaustin.com : Logged in
+[21:47:8] -> lacey@thirdbaseaustin.com : load finished
+[21:47:8] -> lacey@thirdbaseaustin.com : load finished
+[21:47:22] -> lacey@thirdbaseaustin.com : load finished
+[21:47:38] -> lacey@thirdbaseaustin.com : load finished
+[21:47:54] -> lacey@thirdbaseaustin.com : load finished
+[21:48:9] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+24/2/2014  22:30:33 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator.js ,	Username: null
+[22:30:33] : load finished
+[22:30:33] : Success in opening  page
+[22:30:36] : 24/2/2014  22:30:36
+[22:30:36] : Exiting
+------------------------------
+------------------------------
+24/2/2014  22:34:40 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:34:40] : load finished
+[22:34:40] : Success in opening  page
+[22:34:42] : 24/2/2014  22:34:42
+[22:34:42] : Exiting
+------------------------------
+------------------------------
+24/2/2014  22:48:39 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:48:39] : load finished
+[22:48:39] : Success in opening  page
+[22:48:42] : 24/2/2014  22:48:42
+[22:48:42] : Exiting
+------------------------------
+------------------------------
+25/2/2014  14:26:27 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[14:26:27] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[14:26:29] -> lacey@thirdbaseaustin.com : load finished
+[14:26:29] -> lacey@thirdbaseaustin.com : Success in opening login page
+[14:26:40] -> lacey@thirdbaseaustin.com : load finished
+[14:26:42] -> lacey@thirdbaseaustin.com : load finished
+[14:26:47] -> lacey@thirdbaseaustin.com : Logged in
+[14:27:0] -> lacey@thirdbaseaustin.com : load finished
+[14:27:0] -> lacey@thirdbaseaustin.com : load finished
+[14:27:18] -> lacey@thirdbaseaustin.com : load finished
+[14:27:38] -> lacey@thirdbaseaustin.com : load finished
+[14:27:58] -> lacey@thirdbaseaustin.com : load finished
+[14:28:17] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+25/2/2014  14:30:34 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[14:30:34] : load finished
+[14:30:34] : Success in opening  page
+[14:30:36] : 25/2/2014  14:30:36
+[14:30:36] : Exiting
+------------------------------
+------------------------------
+25/2/2014  16:25:17 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[16:25:17] : load finished
+[16:25:17] : Success in opening  page
+[16:25:19] : 25/2/2014  16:25:19
+[16:25:19] : Exiting
+------------------------------
+------------------------------
+25/2/2014  16:36:37 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[16:36:37] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[16:36:38] -> lacey@thirdbaseaustin.com : load finished
+[16:36:38] -> lacey@thirdbaseaustin.com : Success in opening login page
+[16:36:44] -> lacey@thirdbaseaustin.com : load finished
+[16:36:45] -> lacey@thirdbaseaustin.com : Logged in
+[16:36:45] -> lacey@thirdbaseaustin.com : load finished
+[16:36:51] -> lacey@thirdbaseaustin.com : load finished
+[16:36:52] -> lacey@thirdbaseaustin.com : load finished
+[16:36:57] -> lacey@thirdbaseaustin.com : load finished
+[16:37:5] -> lacey@thirdbaseaustin.com : load finished
+[16:37:13] -> lacey@thirdbaseaustin.com : load finished
+[16:37:21] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+25/2/2014  17:2:44 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:2:44] : load finished
+[17:2:44] : Success in opening  page
+[17:2:47] : 25/2/2014  17:2:47
+[17:2:47] : Exiting
+------------------------------
+------------------------------
+25/2/2014  17:7:6 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:7:6] : load finished
+[17:7:6] : Success in opening  page
+[17:7:8] : 25/2/2014  17:7:8
+[17:7:9] : Exiting
+------------------------------
+------------------------------
+25/2/2014  22:52:30 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:52:30] : load finished
+[22:52:30] : Success in opening  page
+[22:52:33] : 25/2/2014  22:52:33
+[22:52:33] : Exiting
+------------------------------
+------------------------------
+25/2/2014  22:56:32 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:56:32] : load finished
+[22:56:32] : Success in opening  page
+[22:56:34] : 25/2/2014  22:56:34
+[22:56:34] : Exiting
+------------------------------
+------------------------------
+25/2/2014  22:59:18 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:59:18] : load finished
+[22:59:18] : Success in opening  page
+[22:59:21] : 25/2/2014  22:59:21
+[22:59:21] : Exiting
+------------------------------
+------------------------------
+25/2/2014  23:1:40 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:1:40] : load finished
+[23:1:40] : Success in opening  page
+[23:1:42] : 25/2/2014  23:1:42
+[23:1:42] : Exiting
+------------------------------
+------------------------------
+25/2/2014  23:2:26 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:2:26] : load finished
+[23:2:26] : Success in opening  page
+[23:2:29] : 25/2/2014  23:2:29
+[23:2:30] : Exiting
+------------------------------
+------------------------------
+25/2/2014  23:2:46 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:2:46] : load finished
+[23:2:46] : Success in opening  page
+------------------------------
+------------------------------
+25/2/2014  23:2:48 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:2:48] : load finished
+[23:2:48] : Success in opening  page
+[23:2:48] : 25/2/2014  23:2:48
+[23:2:48] : Exiting
+[23:2:50] : 25/2/2014  23:2:50
+[23:2:50] : Exiting
+------------------------------
+------------------------------
+25/2/2014  23:3:5 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:3:5] : load finished
+[23:3:5] : Success in opening  page
+------------------------------
+------------------------------
+25/2/2014  23:3:5 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:3:5] : load finished
+[23:3:5] : Success in opening  page
+[23:3:8] : 25/2/2014  23:3:8
+[23:3:8] : Exiting
+[23:3:8] : 25/2/2014  23:3:8
+[23:3:8] : Exiting
+------------------------------
+------------------------------
+26/2/2014  15:30:55 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:30:55] : load finished
+[15:30:55] : Success in opening  page
+[15:30:58] : 26/2/2014  15:30:58
+[15:30:58] : Exiting
+------------------------------
+------------------------------
+26/2/2014  16:21:39 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[16:21:39] : load finished
+[16:21:39] : Success in opening  page
+[16:21:41] : 26/2/2014  16:21:41
+[16:21:41] : Exiting
+------------------------------
+------------------------------
+26/2/2014  16:23:37 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[16:23:37] : load finished
+[16:23:37] : Success in opening  page
+[16:23:40] : 26/2/2014  16:23:40
+[16:23:40] : Exiting
+------------------------------
+------------------------------
+26/2/2014  17:13:33 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:13:33] : load finished
+[17:13:33] : Success in opening  page
+[17:13:36] : 26/2/2014  17:13:36
+[17:13:36] : Exiting
+------------------------------
+------------------------------
+26/2/2014  17:14:26 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:14:26] : load finished
+[17:14:26] : Success in opening  page
+[17:14:29] : 26/2/2014  17:14:29
+[17:14:29] : Exiting
+------------------------------
+------------------------------
+26/2/2014  17:14:45 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:14:45] : load finished
+[17:14:45] : Success in opening  page
+------------------------------
+------------------------------
+26/2/2014  17:14:45 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:14:45] : load finished
+[17:14:45] : Success in opening  page
+[17:14:48] : 26/2/2014  17:14:48
+[17:14:48] : Exiting
+[17:14:48] : 26/2/2014  17:14:48
+[17:14:48] : Exiting
+------------------------------
+------------------------------
+26/2/2014  17:14:52 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:14:52] : load finished
+[17:14:52] : Success in opening  page
+------------------------------
+------------------------------
+26/2/2014  17:14:53 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:14:53] : load finished
+[17:14:53] : Success in opening  page
+[17:14:55] : 26/2/2014  17:14:55
+[17:14:55] : Exiting
+[17:14:55] : 26/2/2014  17:14:55
+[17:14:55] : Exiting
+------------------------------
+------------------------------
+26/2/2014  17:21:0 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:21:0] : load finished
+[17:21:0] : Success in opening  page
+[17:21:3] : 26/2/2014  17:21:3
+[17:21:3] : Exiting
+------------------------------
+------------------------------
+26/2/2014  17:21:19 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:21:19] : load finished
+[17:21:19] : Success in opening  page
+------------------------------
+------------------------------
+26/2/2014  17:21:19 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:21:19] : load finished
+[17:21:19] : Success in opening  page
+[17:21:21] : 26/2/2014  17:21:21
+[17:21:21] : Exiting
+[17:21:21] : 26/2/2014  17:21:21
+[17:21:21] : Exiting
+------------------------------
+------------------------------
+26/2/2014  17:21:36 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:21:36] : load finished
+[17:21:36] : Success in opening  page
+------------------------------
+------------------------------
+26/2/2014  17:21:38 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:21:38] : load finished
+[17:21:38] : Success in opening  page
+[17:21:39] : 26/2/2014  17:21:39
+[17:21:39] : Exiting
+[17:21:41] : 26/2/2014  17:21:41
+[17:21:41] : Exiting
+------------------------------
+------------------------------
+26/2/2014  17:22:48 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:22:48] : load finished
+[17:22:48] : Success in opening  page
+[17:22:50] : 26/2/2014  17:22:50
+[17:22:50] : Exiting
+------------------------------
+------------------------------
+26/2/2014  17:23:2 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:23:2] : load finished
+[17:23:2] : Success in opening  page
+------------------------------
+------------------------------
+26/2/2014  17:23:2 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:23:2] : load finished
+[17:23:2] : Success in opening  page
+[17:23:4] : 26/2/2014  17:23:4
+[17:23:4] : Exiting
+[17:23:4] : 26/2/2014  17:23:4
+[17:23:4] : Exiting
+------------------------------
+------------------------------
+26/2/2014  17:23:15 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:23:15] : load finished
+[17:23:15] : Success in opening  page
+------------------------------
+------------------------------
+26/2/2014  17:23:15 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:23:15] : load finished
+[17:23:15] : Success in opening  page
+[17:23:17] : 26/2/2014  17:23:17
+[17:23:17] : Exiting
+[17:23:18] : 26/2/2014  17:23:18
+[17:23:18] : Exiting
+------------------------------
+------------------------------
+26/2/2014  17:33:6 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:33:6] : load finished
+[17:33:6] : Success in opening  page
+[17:33:9] : 26/2/2014  17:33:9
+[17:33:9] : Exiting
+------------------------------
+------------------------------
+26/2/2014  17:39:56 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:39:56] : load finished
+[17:39:56] : Success in opening  page
+[17:39:59] : 26/2/2014  17:39:59
+[17:39:59] : Exiting
+------------------------------
+------------------------------
+26/2/2014  17:40:11 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:40:11] : load finished
+[17:40:11] : Success in opening  page
+------------------------------
+------------------------------
+26/2/2014  17:40:11 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:40:11] : load finished
+[17:40:11] : Success in opening  page
+[17:40:14] : 26/2/2014  17:40:14
+[17:40:14] : Exiting
+[17:40:14] : 26/2/2014  17:40:14
+[17:40:14] : Exiting
+------------------------------
+------------------------------
+26/2/2014  18:8:34 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:8:34] : load finished
+[18:8:34] : Success in opening  page
+[18:8:36] : 26/2/2014  18:8:36
+[18:8:36] : Exiting
+------------------------------
+------------------------------
+26/2/2014  18:18:38 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:18:38] : load finished
+[18:18:38] : Success in opening  page
+[18:18:40] : 26/2/2014  18:18:40
+[18:18:40] : Exiting
+------------------------------
+------------------------------
+26/2/2014  18:22:6 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:22:6] : load finished
+[18:22:6] : Success in opening  page
+[18:22:8] : 26/2/2014  18:22:8
+[18:22:8] : Exiting
+------------------------------
+------------------------------
+26/2/2014  18:34:47 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:34:47] : load finished
+[18:34:47] : Success in opening  page
+[18:34:49] : 26/2/2014  18:34:49
+[18:34:49] : Exiting
+------------------------------
+------------------------------
+26/2/2014  18:36:5 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:36:5] : load finished
+[18:36:5] : Success in opening  page
+[18:36:8] : 26/2/2014  18:36:8
+[18:36:8] : Exiting
+------------------------------
+------------------------------
+26/2/2014  18:55:59 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:55:59] : load finished
+[18:55:59] : Success in opening  page
+[18:56:1] : 26/2/2014  18:56:1
+[18:56:1] : Exiting
+------------------------------
+------------------------------
+26/2/2014  19:4:47 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[19:4:47] : load finished
+[19:4:47] : Success in opening  page
+[19:4:50] : 26/2/2014  19:4:50
+[19:4:50] : Exiting
+------------------------------
+------------------------------
+26/2/2014  19:5:12 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[19:5:12] : load finished
+[19:5:12] : Success in opening  page
+[19:5:15] : 26/2/2014  19:5:15
+[19:5:15] : Exiting
+------------------------------
+------------------------------
+26/2/2014  19:6:22 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[19:6:22] : load finished
+[19:6:22] : Success in opening  page
+[19:6:24] : 26/2/2014  19:6:24
+[19:6:24] : Exiting
+------------------------------
+------------------------------
+26/2/2014  19:6:48 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[19:6:48] : load finished
+[19:6:48] : Success in opening  page
+[19:6:50] : 26/2/2014  19:6:50
+[19:6:50] : Exiting
+------------------------------
+------------------------------
+26/2/2014  19:7:14 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[19:7:14] : load finished
+[19:7:14] : Success in opening  page
+[19:7:17] : 26/2/2014  19:7:17
+[19:7:17] : Exiting
+------------------------------
+------------------------------
+26/2/2014  19:8:18 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[19:8:18] : load finished
+[19:8:18] : Success in opening  page
+[19:8:21] : 26/2/2014  19:8:21
+[19:8:21] : Exiting
+------------------------------
+------------------------------
+26/2/2014  19:17:20 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[19:17:20] : load finished
+[19:17:20] : Success in opening  page
+[19:17:23] : 26/2/2014  19:17:23
+[19:17:23] : Exiting
+------------------------------
+------------------------------
+26/2/2014  19:18:39 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[19:18:39] : load finished
+[19:18:39] : Success in opening  page
+[19:18:43] : 26/2/2014  19:18:43
+[19:18:43] : Exiting
+------------------------------
+------------------------------
+26/2/2014  21:40:8 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[21:40:8] : load finished
+[21:40:8] : Success in opening  page
+[21:40:11] : 26/2/2014  21:40:11
+[21:40:11] : Exiting
+------------------------------
+------------------------------
+26/2/2014  21:42:10 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[21:42:10] : load finished
+[21:42:10] : Success in opening  page
+[21:42:13] : 26/2/2014  21:42:13
+[21:42:13] : Exiting
+------------------------------
+------------------------------
+26/2/2014  21:42:48 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[21:42:48] : load finished
+[21:42:48] : Success in opening  page
+[21:42:50] : 26/2/2014  21:42:50
+[21:42:50] : Exiting
+------------------------------
+------------------------------
+26/2/2014  21:45:9 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[21:45:9] : load finished
+[21:45:9] : Success in opening  page
+[21:45:12] : 26/2/2014  21:45:12
+[21:45:12] : Exiting
+------------------------------
+------------------------------
+26/2/2014  21:46:23 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[21:46:23] : load finished
+[21:46:23] : Success in opening  page
+[21:46:25] : 26/2/2014  21:46:25
+[21:46:25] : Exiting
+------------------------------
+------------------------------
+26/2/2014  21:47:27 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[21:47:27] : load finished
+[21:47:27] : Success in opening  page
+[21:47:29] : 26/2/2014  21:47:29
+[21:47:29] : Exiting
+------------------------------
+------------------------------
+26/2/2014  21:57:31 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[21:57:31] : load finished
+[21:57:31] : Success in opening  page
+[21:57:34] : 26/2/2014  21:57:34
+[21:57:34] : Exiting
+------------------------------
+------------------------------
+27/2/2014  15:16:32 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:16:32] : load finished
+[15:16:32] : Success in opening  page
+[15:16:36] : 27/2/2014  15:16:36
+[15:16:36] : Exiting
+------------------------------
+------------------------------
+27/2/2014  15:16:54 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:16:54] : load finished
+[15:16:54] : Success in opening  page
+------------------------------
+------------------------------
+27/2/2014  15:16:54 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:16:54] : load finished
+[15:16:54] : Success in opening  page
+[15:16:57] : 27/2/2014  15:16:57
+[15:16:57] : Exiting
+[15:16:57] : 27/2/2014  15:16:57
+[15:16:57] : Exiting
+------------------------------
+------------------------------
+27/2/2014  15:18:45 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:18:45] : load finished
+[15:18:45] : Success in opening  page
+[15:18:48] : 27/2/2014  15:18:48
+[15:18:48] : Exiting
+------------------------------
+------------------------------
+27/2/2014  15:19:3 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:19:3] : load finished
+[15:19:3] : Success in opening  page
+------------------------------
+------------------------------
+27/2/2014  15:19:3 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:19:3] : load finished
+[15:19:3] : Success in opening  page
+[15:19:6] : 27/2/2014  15:19:6
+[15:19:6] : Exiting
+[15:19:7] : 27/2/2014  15:19:7
+[15:19:7] : Exiting
+------------------------------
+------------------------------
+27/2/2014  15:43:55 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:43:55] : load finished
+[15:43:55] : Success in opening  page
+[15:43:58] : 27/2/2014  15:43:58
+[15:43:58] : Exiting
+------------------------------
+------------------------------
+27/2/2014  15:46:22 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:46:22] : load finished
+[15:46:22] : Success in opening  page
+[15:46:25] : 27/2/2014  15:46:25
+[15:46:25] : Exiting
+------------------------------
+------------------------------
+27/2/2014  15:46:39 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:46:39] : load finished
+[15:46:39] : Success in opening  page
+------------------------------
+------------------------------
+27/2/2014  15:46:39 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:46:39] : load finished
+[15:46:39] : Success in opening  page
+[15:46:42] : 27/2/2014  15:46:42
+[15:46:42] : Exiting
+[15:46:42] : 27/2/2014  15:46:42
+[15:46:42] : Exiting
+------------------------------
+------------------------------
+27/2/2014  15:49:7 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:49:7] : load finished
+[15:49:7] : Success in opening  page
+[15:49:10] : 27/2/2014  15:49:10
+[15:49:10] : Exiting
+------------------------------
+------------------------------
+27/2/2014  15:49:37 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:49:37] : load finished
+[15:49:37] : Success in opening  page
+[15:49:39] : 27/2/2014  15:49:39
+[15:49:39] : Exiting
+------------------------------
+------------------------------
+27/2/2014  15:49:51 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:49:51] : load finished
+[15:49:51] : Success in opening  page
+------------------------------
+------------------------------
+27/2/2014  15:49:51 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:49:51] : load finished
+[15:49:51] : Success in opening  page
+[15:49:54] : 27/2/2014  15:49:54
+[15:49:55] : Exiting
+[15:49:55] : 27/2/2014  15:49:55
+[15:49:55] : Exiting
+------------------------------
+------------------------------
+27/2/2014  15:50:1 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:50:1] : load finished
+[15:50:1] : Success in opening  page
+[15:50:5] : 27/2/2014  15:50:5
+[15:50:5] : Exiting
+------------------------------
+------------------------------
+27/2/2014  15:50:6 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:50:6] : load finished
+[15:50:6] : Success in opening  page
+------------------------------
+------------------------------
+27/2/2014  15:50:6 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:50:6] : load finished
+[15:50:6] : Success in opening  page
+[15:50:9] : 27/2/2014  15:50:9
+[15:50:9] : Exiting
+[15:50:9] : 27/2/2014  15:50:9
+[15:50:9] : Exiting
+------------------------------
+------------------------------
+27/2/2014  15:51:50 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:51:50] : load finished
+[15:51:50] : Success in opening  page
+[15:51:52] : 27/2/2014  15:51:52
+[15:51:52] : Exiting
+------------------------------
+------------------------------
+27/2/2014  15:52:3 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:52:3] : load finished
+[15:52:3] : Success in opening  page
+------------------------------
+------------------------------
+27/2/2014  15:52:3 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[15:52:3] : load finished
+[15:52:3] : Success in opening  page
+[15:52:6] : 27/2/2014  15:52:6
+[15:52:6] : Exiting
+[15:52:6] : 27/2/2014  15:52:6
+[15:52:6] : Exiting
+------------------------------
+------------------------------
+27/2/2014  16:10:50 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[16:10:50] : load finished
+[16:10:50] : Success in opening  page
+[16:10:52] : 27/2/2014  16:10:52
+[16:10:52] : Exiting
+------------------------------
+------------------------------
+27/2/2014  16:11:2 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[16:11:2] : load finished
+[16:11:2] : Success in opening  page
+[16:11:4] : 27/2/2014  16:11:4
+[16:11:4] : Exiting
+------------------------------
+------------------------------
+27/2/2014  16:11:35 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[16:11:35] : load finished
+[16:11:35] : Success in opening  page
+[16:11:38] : 27/2/2014  16:11:38
+[16:11:38] : Exiting
+------------------------------
+------------------------------
+27/2/2014  16:13:37 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[16:13:37] : load finished
+[16:13:37] : Success in opening  page
+[16:13:40] : 27/2/2014  16:13:40
+[16:13:40] : Exiting
+------------------------------
+------------------------------
+27/2/2014  16:15:28 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[16:15:28] : load finished
+[16:15:28] : Success in opening  page
+[16:15:31] : 27/2/2014  16:15:31
+[16:15:31] : Exiting
+------------------------------
+------------------------------
+27/2/2014  16:17:22 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[16:17:22] : load finished
+[16:17:22] : Success in opening  page
+[16:17:25] : 27/2/2014  16:17:25
+[16:17:25] : Exiting
+------------------------------
+------------------------------
+27/2/2014  16:24:12 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[16:24:12] : load finished
+[16:24:12] : Success in opening  page
+[16:24:15] : 27/2/2014  16:24:15
+[16:24:15] : Exiting
+------------------------------
+------------------------------
+27/2/2014  16:24:34 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[16:24:34] : load finished
+[16:24:34] : Success in opening  page
+[16:24:36] : 27/2/2014  16:24:36
+[16:24:36] : Exiting
+------------------------------
+------------------------------
+27/2/2014  16:24:48 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[16:24:48] : load finished
+------------------------------
+------------------------------
+27/2/2014  16:24:48 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[16:24:48] : load finished
+[16:24:48] : Success in opening  page
+[16:24:48] : Success in opening  page
+[16:24:50] : 27/2/2014  16:24:50
+[16:24:50] : Exiting
+[16:24:50] : 27/2/2014  16:24:50
+[16:24:50] : Exiting
+------------------------------
+------------------------------
+27/2/2014  16:26:0 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[16:26:0] : load finished
+[16:26:0] : Success in opening  page
+[16:26:3] : 27/2/2014  16:26:3
+[16:26:3] : Exiting
+------------------------------
+------------------------------
+27/2/2014  16:40:44 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[16:40:44] : load finished
+[16:40:44] : Success in opening  page
+[16:40:48] : 27/2/2014  16:40:48
+[16:40:48] : Exiting
+------------------------------
+------------------------------
+27/2/2014  17:56:22 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:56:22] : load finished
+[17:56:22] : Success in opening  page
+[17:56:25] : 27/2/2014  17:56:25
+[17:56:25] : Exiting
+------------------------------
+------------------------------
+27/2/2014  18:8:5 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:8:5] : load finished
+[18:8:5] : Success in opening  page
+[18:8:7] : 27/2/2014  18:8:7
+[18:8:7] : Exiting
+------------------------------
+------------------------------
+27/2/2014  18:8:19 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:8:19] : load finished
+[18:8:19] : Success in opening  page
+------------------------------
+------------------------------
+27/2/2014  18:8:19 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:8:19] : load finished
+[18:8:19] : Success in opening  page
+[18:8:23] : 27/2/2014  18:8:23
+[18:8:23] : Exiting
+[18:8:23] : 27/2/2014  18:8:23
+[18:8:23] : Exiting
+------------------------------
+------------------------------
+27/2/2014  18:8:34 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:8:34] : load finished
+[18:8:34] : Success in opening  page
+------------------------------
+------------------------------
+27/2/2014  18:8:34 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:8:34] : load finished
+[18:8:34] : Success in opening  page
+[18:8:36] : 27/2/2014  18:8:36
+[18:8:36] : Exiting
+[18:8:37] : 27/2/2014  18:8:37
+[18:8:37] : Exiting
+------------------------------
+------------------------------
+27/2/2014  18:8:45 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:8:45] : load finished
+[18:8:45] : Success in opening  page
+[18:8:49] : 27/2/2014  18:8:49
+[18:8:49] : Exiting
+------------------------------
+------------------------------
+28/2/2014  0:20:26 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[0:20:26] : load finished
+[0:20:26] : Success in opening  page
+[0:20:29] : 28/2/2014  0:20:29
+[0:20:29] : Exiting
+------------------------------
+------------------------------
+28/2/2014  0:24:31 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[0:24:31] : load finished
+[0:24:31] : Success in opening  page
+[0:24:34] : 28/2/2014  0:24:34
+[0:24:34] : Exiting
+------------------------------
+------------------------------
+28/2/2014  0:41:33 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[0:41:33] : load finished
+[0:41:33] : Success in opening  page
+[0:41:36] : 28/2/2014  0:41:36
+[0:41:36] : Exiting
+------------------------------
+------------------------------
+28/2/2014  0:47:27 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[0:47:27] : load finished
+[0:47:27] : Success in opening  page
+[0:47:29] : 28/2/2014  0:47:29
+[0:47:29] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:3:10 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:3:10] : load finished
+[1:3:10] : Success in opening  page
+[1:3:13] : 28/2/2014  1:3:13
+[1:3:13] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:3:44 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:3:44] : load finished
+[1:3:44] : Success in opening  page
+[1:3:47] : 28/2/2014  1:3:47
+[1:3:47] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:3:49 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:3:49] : load finished
+[1:3:49] : Success in opening  page
+[1:3:52] : 28/2/2014  1:3:52
+[1:3:52] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:4:25 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:4:25] : load finished
+[1:4:25] : Success in opening  page
+[1:4:28] : 28/2/2014  1:4:28
+[1:4:28] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:5:35 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:5:35] : load finished
+[1:5:35] : Success in opening  page
+[1:5:38] : 28/2/2014  1:5:38
+[1:5:38] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:6:8 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:6:8] : load finished
+[1:6:8] : Success in opening  page
+[1:6:11] : 28/2/2014  1:6:11
+[1:6:11] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:12:58 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:12:58] : load finished
+[1:12:58] : Success in opening  page
+[1:13:1] : 28/2/2014  1:13:1
+[1:13:1] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:14:1 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:14:1] : load finished
+[1:14:1] : Success in opening  page
+[1:14:3] : 28/2/2014  1:14:3
+[1:14:3] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:14:52 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:14:52] : load finished
+[1:14:52] : Success in opening  page
+[1:14:55] : 28/2/2014  1:14:55
+[1:14:55] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:15:7 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:15:7] : load finished
+[1:15:7] : Success in opening  page
+------------------------------
+------------------------------
+28/2/2014  1:15:7 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:15:7] : load finished
+[1:15:7] : Success in opening  page
+[1:15:10] : 28/2/2014  1:15:10
+[1:15:10] : Exiting
+[1:15:11] : 28/2/2014  1:15:11
+[1:15:11] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:15:21 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:15:21] : load finished
+[1:15:21] : Success in opening  page
+------------------------------
+------------------------------
+28/2/2014  1:15:21 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:15:21] : load finished
+[1:15:21] : Success in opening  page
+[1:15:24] : 28/2/2014  1:15:24
+[1:15:24] : Exiting
+[1:15:24] : 28/2/2014  1:15:24
+[1:15:24] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:17:27 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:17:27] : load finished
+[1:17:27] : Success in opening  page
+[1:17:30] : 28/2/2014  1:17:30
+[1:17:30] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:17:42 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:17:42] : load finished
+[1:17:42] : Success in opening  page
+------------------------------
+------------------------------
+28/2/2014  1:17:42 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:17:42] : load finished
+[1:17:42] : Success in opening  page
+[1:17:44] : 28/2/2014  1:17:44
+[1:17:44] : Exiting
+[1:17:45] : 28/2/2014  1:17:45
+[1:17:45] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:17:56 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:17:56] : load finished
+[1:17:56] : Success in opening  page
+------------------------------
+------------------------------
+28/2/2014  1:17:56 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:17:56] : load finished
+[1:17:56] : Success in opening  page
+[1:17:59] : 28/2/2014  1:17:59
+[1:17:59] : Exiting
+[1:17:59] : 28/2/2014  1:17:59
+[1:17:59] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:19:8 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:19:8] : load finished
+[1:19:8] : Success in opening  page
+[1:19:11] : 28/2/2014  1:19:11
+[1:19:11] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:19:23 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:19:23] : load finished
+[1:19:23] : Success in opening  page
+------------------------------
+------------------------------
+28/2/2014  1:19:23 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:19:23] : load finished
+[1:19:23] : Success in opening  page
+[1:19:26] : 28/2/2014  1:19:26
+[1:19:26] : Exiting
+[1:19:26] : 28/2/2014  1:19:26
+[1:19:26] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:19:37 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:19:37] : load finished
+[1:19:37] : Success in opening  page
+------------------------------
+------------------------------
+28/2/2014  1:19:38 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:19:38] : load finished
+[1:19:38] : Success in opening  page
+[1:19:40] : 28/2/2014  1:19:40
+[1:19:40] : Exiting
+[1:19:41] : 28/2/2014  1:19:41
+[1:19:41] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:24:17 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:24:17] : load finished
+[1:24:17] : Success in opening  page
+[1:24:20] : 28/2/2014  1:24:20
+[1:24:20] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:24:31 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:24:31] : load finished
+[1:24:31] : Success in opening  page
+------------------------------
+------------------------------
+28/2/2014  1:24:31 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:24:31] : load finished
+[1:24:31] : Success in opening  page
+[1:24:34] : 28/2/2014  1:24:34
+[1:24:34] : Exiting
+[1:24:34] : 28/2/2014  1:24:34
+[1:24:34] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:24:45 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:24:45] : load finished
+[1:24:45] : Success in opening  page
+------------------------------
+------------------------------
+28/2/2014  1:24:45 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:24:45] : load finished
+[1:24:45] : Success in opening  page
+[1:24:47] : 28/2/2014  1:24:47
+[1:24:47] : Exiting
+[1:24:49] : 28/2/2014  1:24:49
+[1:24:49] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:27:56 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:27:56] : load finished
+[1:27:56] : Success in opening  page
+[1:27:59] : 28/2/2014  1:27:59
+[1:27:59] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:28:11 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:28:11] : load finished
+[1:28:11] : Success in opening  page
+------------------------------
+------------------------------
+28/2/2014  1:28:11 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:28:11] : load finished
+[1:28:11] : Success in opening  page
+[1:28:14] : 28/2/2014  1:28:14
+[1:28:14] : Exiting
+[1:28:14] : 28/2/2014  1:28:14
+[1:28:14] : Exiting
+------------------------------
+------------------------------
+28/2/2014  1:28:25 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:28:25] : load finished
+[1:28:25] : Success in opening  page
+------------------------------
+------------------------------
+28/2/2014  1:28:26 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:28:26] : load finished
+[1:28:26] : Success in opening  page
+[1:28:28] : 28/2/2014  1:28:28
+[1:28:28] : Exiting
+[1:28:29] : 28/2/2014  1:28:29
+[1:28:29] : Exiting
+------------------------------
+------------------------------
+2/3/2014  21:40:42 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[21:40:42] : load finished
+[21:40:42] : Success in opening  page
+[21:40:45] : 2/3/2014  21:40:45
+[21:40:45] : Exiting
+------------------------------
+------------------------------
+2/3/2014  21:41:41 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[21:41:41] : load finished
+[21:41:41] : Success in opening  page
+[21:41:44] : 2/3/2014  21:41:44
+[21:41:44] : Exiting
+------------------------------
+------------------------------
+2/3/2014  21:42:20 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[21:42:20] : load finished
+[21:42:20] : Success in opening  page
+[21:42:23] : 2/3/2014  21:42:23
+[21:42:23] : Exiting
+------------------------------
+------------------------------
+2/3/2014  21:43:24 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[21:43:24] : load finished
+[21:43:24] : Success in opening  page
+[21:43:27] : 2/3/2014  21:43:27
+[21:43:27] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:5:1 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:5:1] : load finished
+[22:5:1] : Success in opening  page
+[22:5:3] : 2/3/2014  22:5:3
+[22:5:3] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:7:6 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:7:6] : load finished
+[22:7:6] : Success in opening  page
+[22:7:8] : 2/3/2014  22:7:8
+[22:7:8] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:7:19 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:7:19] : load finished
+[22:7:19] : Success in opening  page
+[22:7:21] : 2/3/2014  22:7:21
+[22:7:21] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:7:38 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:7:38] : load finished
+[22:7:38] : Success in opening  page
+[22:7:41] : 2/3/2014  22:7:41
+[22:7:41] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:8:18 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:8:18] : load finished
+[22:8:18] : Success in opening  page
+[22:8:22] : 2/3/2014  22:8:22
+[22:8:22] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:9:29 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:9:29] : load finished
+[22:9:29] : Success in opening  page
+[22:9:31] : 2/3/2014  22:9:31
+[22:9:31] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:10:16 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:10:16] : load finished
+[22:10:16] : Success in opening  page
+[22:10:18] : 2/3/2014  22:10:18
+[22:10:18] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:10:45 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:10:45] : load finished
+[22:10:45] : Success in opening  page
+[22:10:48] : 2/3/2014  22:10:48
+[22:10:48] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:11:23 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:11:23] : load finished
+[22:11:23] : Success in opening  page
+[22:11:26] : 2/3/2014  22:11:26
+[22:11:26] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:12:4 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:12:4] : load finished
+[22:12:4] : Success in opening  page
+[22:12:7] : 2/3/2014  22:12:7
+[22:12:7] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:12:41 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:12:41] : load finished
+[22:12:41] : Success in opening  page
+[22:12:44] : 2/3/2014  22:12:44
+[22:12:44] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:12:45 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:12:45] : load finished
+[22:12:45] : Success in opening  page
+[22:12:48] : 2/3/2014  22:12:48
+[22:12:48] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:13:31 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:13:31] : load finished
+[22:13:31] : Success in opening  page
+[22:13:33] : 2/3/2014  22:13:33
+[22:13:33] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:13:48 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:13:48] : load finished
+[22:13:48] : Success in opening  page
+[22:13:51] : 2/3/2014  22:13:51
+[22:13:51] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:14:49 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:14:49] : load finished
+[22:14:49] : Success in opening  page
+[22:14:51] : 2/3/2014  22:14:51
+[22:14:51] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:17:12 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:17:12] : load finished
+[22:17:12] : Success in opening  page
+[22:17:15] : 2/3/2014  22:17:15
+[22:17:15] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:17:48 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:17:48] : load finished
+[22:17:48] : Success in opening  page
+[22:17:52] : 2/3/2014  22:17:52
+[22:17:52] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:19:37 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator.js ,	Username: null
+[22:19:37] : load finished
+[22:19:37] : Success in opening  page
+[22:19:40] : 2/3/2014  22:19:40
+[22:19:40] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:20:20 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:20:20] : load finished
+[22:20:20] : Success in opening  page
+[22:20:23] : 2/3/2014  22:20:23
+[22:20:23] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:23:14 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:23:14] : load finished
+[22:23:14] : Success in opening  page
+[22:23:16] : 2/3/2014  22:23:16
+[22:23:16] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:24:59 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:24:59] : load finished
+[22:24:59] : Success in opening  page
+[22:25:1] : 2/3/2014  22:25:1
+[22:25:1] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:26:32 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:26:32] : load finished
+[22:26:32] : Success in opening  page
+[22:26:34] : 2/3/2014  22:26:34
+[22:26:34] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:27:22 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:27:22] : load finished
+[22:27:22] : Success in opening  page
+[22:27:25] : 2/3/2014  22:27:25
+[22:27:25] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:27:50 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:27:50] : load finished
+[22:27:50] : Success in opening  page
+[22:27:53] : 2/3/2014  22:27:53
+[22:27:53] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:36:54 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:36:54] : load finished
+[22:36:54] : Success in opening  page
+[22:36:57] : 2/3/2014  22:36:57
+[22:36:57] : Exiting
+------------------------------
+------------------------------
+2/3/2014  22:37:50 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[22:37:50] : load finished
+[22:37:50] : Success in opening  page
+[22:37:53] : 2/3/2014  22:37:53
+[22:37:53] : Exiting
+------------------------------
+------------------------------
+2/3/2014  23:5:10 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:5:10] : load finished
+[23:5:10] : Success in opening  page
+[23:5:12] : 2/3/2014  23:5:12
+[23:5:12] : Exiting
+------------------------------
+------------------------------
+2/3/2014  23:42:51 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:42:51] : load finished
+[23:42:51] : Success in opening  page
+[23:42:54] : 2/3/2014  23:42:54
+[23:42:54] : Exiting
+------------------------------
+------------------------------
+2/3/2014  23:44:39 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:44:39] : load finished
+[23:44:39] : Success in opening  page
+[23:44:42] : 2/3/2014  23:44:42
+[23:44:42] : Exiting
+------------------------------
+------------------------------
+2/3/2014  23:45:51 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:45:51] : load finished
+[23:45:51] : Success in opening  page
+[23:45:53] : 2/3/2014  23:45:53
+[23:45:53] : Exiting
+------------------------------
+------------------------------
+2/3/2014  23:48:20 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:48:20] : load finished
+[23:48:20] : Success in opening  page
+[23:48:23] : 2/3/2014  23:48:23
+[23:48:23] : Exiting
+------------------------------
+------------------------------
+2/3/2014  23:50:25 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:50:25] : load finished
+[23:50:25] : Success in opening  page
+[23:50:28] : 2/3/2014  23:50:28
+[23:50:28] : Exiting
+------------------------------
+------------------------------
+2/3/2014  23:50:55 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:50:55] : load finished
+[23:50:55] : Success in opening  page
+[23:50:57] : 2/3/2014  23:50:57
+[23:50:57] : Exiting
+------------------------------
+------------------------------
+2/3/2014  23:52:6 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:52:6] : load finished
+[23:52:6] : Success in opening  page
+[23:52:8] : 2/3/2014  23:52:8
+[23:52:8] : Exiting
+------------------------------
+------------------------------
+2/3/2014  23:53:17 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:53:17] : load finished
+[23:53:17] : Success in opening  page
+[23:53:19] : 2/3/2014  23:53:19
+[23:53:19] : Exiting
+------------------------------
+------------------------------
+2/3/2014  23:53:45 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:53:45] : load finished
+[23:53:45] : Success in opening  page
+[23:53:48] : 2/3/2014  23:53:48
+[23:53:48] : Exiting
+------------------------------
+------------------------------
+2/3/2014  23:54:44 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:54:44] : load finished
+[23:54:44] : Success in opening  page
+[23:54:47] : 2/3/2014  23:54:47
+[23:54:47] : Exiting
+------------------------------
+------------------------------
+2/3/2014  23:55:37 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:55:37] : load finished
+[23:55:37] : Success in opening  page
+[23:55:40] : 2/3/2014  23:55:40
+[23:55:40] : Exiting
+------------------------------
+------------------------------
+2/3/2014  23:56:40 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:56:40] : load finished
+[23:56:40] : Success in opening  page
+[23:56:43] : 2/3/2014  23:56:43
+[23:56:43] : Exiting
+------------------------------
+------------------------------
+2/3/2014  23:57:39 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:57:39] : load finished
+[23:57:39] : Success in opening  page
+[23:57:42] : 2/3/2014  23:57:42
+[23:57:42] : Exiting
+------------------------------
+------------------------------
+2/3/2014  23:58:12 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:58:12] : load finished
+[23:58:12] : Success in opening  page
+[23:58:15] : 2/3/2014  23:58:15
+[23:58:15] : Exiting
+------------------------------
+------------------------------
+2/3/2014  23:58:34 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:58:34] : load finished
+[23:58:34] : Success in opening  page
+[23:58:37] : 2/3/2014  23:58:37
+[23:58:37] : Exiting
+------------------------------
+------------------------------
+2/3/2014  23:59:6 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[23:59:6] : load finished
+[23:59:6] : Success in opening  page
+[23:59:9] : 2/3/2014  23:59:9
+[23:59:9] : Exiting
+------------------------------
+------------------------------
+3/3/2014  11:37:20 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[11:37:20] : load finished
+[11:37:20] : Success in opening  page
+[11:37:24] : 3/3/2014  11:37:24
+[11:37:24] : Exiting
+------------------------------
+------------------------------
+3/3/2014  11:37:37 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[11:37:37] : load finished
+[11:37:37] : Success in opening  page
+------------------------------
+------------------------------
+3/3/2014  11:37:37 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[11:37:37] : load finished
+[11:37:37] : Success in opening  page
+[11:37:39] : 3/3/2014  11:37:39
+[11:37:39] : Exiting
+[11:37:40] : 3/3/2014  11:37:40
+[11:37:40] : Exiting
+------------------------------
+------------------------------
+3/3/2014  11:37:51 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[11:37:51] : load finished
+[11:37:51] : Success in opening  page
+------------------------------
+------------------------------
+3/3/2014  11:37:51 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[11:37:51] : load finished
+[11:37:51] : Success in opening  page
+[11:37:54] : 3/3/2014  11:37:54
+[11:37:54] : Exiting
+[11:37:54] : 3/3/2014  11:37:54
+[11:37:54] : Exiting
+------------------------------
+------------------------------
+3/3/2014  11:54:33 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[11:54:33] : load finished
+[11:54:33] : Success in opening  page
+[11:54:37] : 3/3/2014  11:54:37
+[11:54:37] : Exiting
+------------------------------
+------------------------------
+3/3/2014  11:54:49 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[11:54:49] : load finished
+[11:54:49] : Success in opening  page
+------------------------------
+------------------------------
+3/3/2014  11:54:49 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[11:54:49] : load finished
+[11:54:49] : Success in opening  page
+[11:54:52] : 3/3/2014  11:54:52
+[11:54:52] : Exiting
+[11:54:52] : 3/3/2014  11:54:52
+[11:54:52] : Exiting
+------------------------------
+------------------------------
+3/3/2014  11:55:5 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[11:55:5] : load finished
+[11:55:5] : Success in opening  page
+------------------------------
+------------------------------
+3/3/2014  11:55:6 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[11:55:6] : load finished
+[11:55:6] : Success in opening  page
+[11:55:8] : 3/3/2014  11:55:8
+[11:55:8] : Exiting
+[11:55:9] : 3/3/2014  11:55:9
+[11:55:9] : Exiting
+------------------------------
+------------------------------
+3/3/2014  11:57:46 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[11:57:46] : load finished
+[11:57:46] : Success in opening  page
+[11:57:49] : 3/3/2014  11:57:49
+[11:57:49] : Exiting
+------------------------------
+------------------------------
+3/3/2014  11:58:1 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[11:58:1] : load finished
+[11:58:1] : Success in opening  page
+------------------------------
+------------------------------
+3/3/2014  11:58:1 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[11:58:1] : load finished
+[11:58:1] : Success in opening  page
+[11:58:3] : 3/3/2014  11:58:3
+[11:58:3] : Exiting
+[11:58:4] : 3/3/2014  11:58:4
+[11:58:4] : Exiting
+------------------------------
+------------------------------
+3/3/2014  11:58:15 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[11:58:15] : load finished
+[11:58:15] : Success in opening  page
+------------------------------
+------------------------------
+3/3/2014  11:58:15 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[11:58:15] : load finished
+[11:58:15] : Success in opening  page
+[11:58:17] : 3/3/2014  11:58:17
+[11:58:17] : Exiting
+[11:58:18] : 3/3/2014  11:58:18
+[11:58:18] : Exiting
+------------------------------
+------------------------------
+4/3/2014  17:0:33 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:0:33] : load finished
+[17:0:33] : Success in opening  page
+[17:0:35] : 4/3/2014  17:0:35
+[17:0:35] : Exiting
+------------------------------
+------------------------------
+4/3/2014  17:0:48 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:0:48] : load finished
+[17:0:48] : Success in opening  page
+------------------------------
+------------------------------
+4/3/2014  17:0:48 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:0:48] : load finished
+[17:0:48] : Success in opening  page
+[17:0:50] : 4/3/2014  17:0:50
+[17:0:50] : Exiting
+[17:0:50] : 4/3/2014  17:0:50
+[17:0:50] : Exiting
+------------------------------
+------------------------------
+4/3/2014  17:1:2 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:1:2] : load finished
+[17:1:2] : Success in opening  page
+------------------------------
+------------------------------
+4/3/2014  17:1:2 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[17:1:2] : load finished
+[17:1:2] : Success in opening  page
+[17:1:5] : 4/3/2014  17:1:5
+[17:1:5] : Exiting
+[17:1:5] : 4/3/2014  17:1:5
+[17:1:5] : Exiting
+------------------------------
+------------------------------
+4/3/2014  18:33:37 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:33:37] : load finished
+[18:33:37] : Success in opening  page
+[18:33:41] : 4/3/2014  18:33:41
+[18:33:41] : Exiting
+------------------------------
+------------------------------
+4/3/2014  18:40:51 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:40:51] : load finished
+[18:40:51] : Success in opening  page
+[18:40:51] : 4/3/2014  18:40:51
+[18:40:51] : Exiting
+------------------------------
+------------------------------
+4/3/2014  18:41:7 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:41:7] : load finished
+[18:41:7] : Success in opening  page
+[18:41:10] : 4/3/2014  18:41:10
+[18:41:10] : Exiting
+------------------------------
+------------------------------
+4/3/2014  18:49:30 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:49:30] : load finished
+[18:49:30] : Success in opening  page
+[18:49:32] : 4/3/2014  18:49:32
+[18:49:32] : Exiting
+------------------------------
+------------------------------
+4/3/2014  19:8:54 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[19:8:54] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[19:9:1] -> lacey@thirdbaseaustin.com : load finished
+[19:9:1] -> lacey@thirdbaseaustin.com : Success in opening login page
+[19:9:9] -> lacey@thirdbaseaustin.com : load finished
+[19:9:10] -> lacey@thirdbaseaustin.com : load finished
+[19:9:12] -> lacey@thirdbaseaustin.com : Logged in
+[19:9:21] -> lacey@thirdbaseaustin.com : load finished
+[19:9:21] -> lacey@thirdbaseaustin.com : load finished
+[19:9:31] -> lacey@thirdbaseaustin.com : load finished
+[19:9:43] -> lacey@thirdbaseaustin.com : load finished
+------------------------------
+------------------------------
+4/3/2014  19:9:54 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[19:9:54] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[19:9:55] -> lacey@thirdbaseaustin.com : load finished
+[19:9:57] -> lacey@thirdbaseaustin.com : load finished
+[19:9:57] -> lacey@thirdbaseaustin.com : Success in opening login page
+[19:10:1] -> lacey@thirdbaseaustin.com : load finished
+[19:10:2] -> lacey@thirdbaseaustin.com : load finished
+[19:10:3] -> lacey@thirdbaseaustin.com : Logged in
+[19:10:6] -> lacey@thirdbaseaustin.com : Exiting
+[19:10:9] -> lacey@thirdbaseaustin.com : load finished
+[19:10:10] -> lacey@thirdbaseaustin.com : load finished
+[19:10:13] -> lacey@thirdbaseaustin.com : load finished
+[19:10:19] -> lacey@thirdbaseaustin.com : load finished
+[19:10:25] -> lacey@thirdbaseaustin.com : load finished
+[19:10:30] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+4/3/2014  19:11:26 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[19:11:26] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[19:11:28] -> lacey@thirdbaseaustin.com : load finished
+[19:11:28] -> lacey@thirdbaseaustin.com : Success in opening login page
+[19:11:33] -> lacey@thirdbaseaustin.com : load finished
+[19:11:34] -> lacey@thirdbaseaustin.com : load finished
+[19:11:36] -> lacey@thirdbaseaustin.com : Logged in
+[19:11:43] -> lacey@thirdbaseaustin.com : load finished
+[19:11:51] -> lacey@thirdbaseaustin.com : load finished
+[19:11:54] -> lacey@thirdbaseaustin.com : load finished
+[19:12:0] -> lacey@thirdbaseaustin.com : load finished
+[19:12:6] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+4/3/2014  19:12:37 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[19:12:37] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[19:12:39] -> lacey@thirdbaseaustin.com : load finished
+[19:12:39] -> lacey@thirdbaseaustin.com : Success in opening login page
+[19:12:45] -> lacey@thirdbaseaustin.com : load finished
+[19:12:46] -> lacey@thirdbaseaustin.com : load finished
+[19:12:47] -> lacey@thirdbaseaustin.com : Logged in
+[19:12:55] -> lacey@thirdbaseaustin.com : load finished
+[19:12:56] -> lacey@thirdbaseaustin.com : load finished
+------------------------------
+------------------------------
+4/3/2014  19:13:1 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/yelp_analytics_data.js ,	Username: lacey@thirdbaseaustin.com ,Biz ID: ldbmFIjeFLPfGGW4scJiXQ
+[19:13:1] -> lacey@thirdbaseaustin.com : Blacklist loaded (15 elements)
+[19:13:2] -> lacey@thirdbaseaustin.com : load finished
+[19:13:2] -> lacey@thirdbaseaustin.com : Success in opening login page
+[19:13:3] -> lacey@thirdbaseaustin.com : load finished
+[19:13:13] -> lacey@thirdbaseaustin.com : load finished
+[19:13:14] -> lacey@thirdbaseaustin.com : load finished
+[19:13:15] -> lacey@thirdbaseaustin.com : load finished
+[19:13:19] -> lacey@thirdbaseaustin.com : Logged in
+[19:13:30] -> lacey@thirdbaseaustin.com : load finished
+[19:13:31] -> lacey@thirdbaseaustin.com : load finished
+[19:13:47] -> lacey@thirdbaseaustin.com : load finished
+[19:14:5] -> lacey@thirdbaseaustin.com : load finished
+[19:14:23] -> lacey@thirdbaseaustin.com : load finished
+[19:14:40] -> lacey@thirdbaseaustin.com : Exiting
+------------------------------
+------------------------------
+4/3/2014  19:32:19 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[19:32:19] : load finished
+[19:32:19] : Success in opening  page
+[19:32:22] : 4/3/2014  19:32:22
+[19:32:22] : Exiting
+------------------------------
+------------------------------
+4/3/2014  19:32:50 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[19:32:50] : load finished
+[19:32:50] : Success in opening  page
+[19:32:53] : 4/3/2014  19:32:53
+[19:32:53] : Exiting
+------------------------------
+------------------------------
+4/3/2014  19:35:19 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[19:35:19] : load finished
+[19:35:19] : Success in opening  page
+[19:35:22] : 4/3/2014  19:35:22
+[19:35:22] : Exiting
+------------------------------
+------------------------------
+4/3/2014  19:35:55 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[19:35:55] : load finished
+[19:35:55] : Success in opening  page
+[19:35:58] : 4/3/2014  19:35:58
+[19:35:58] : Exiting
+------------------------------
+------------------------------
+4/3/2014  19:36:44 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[19:36:44] : load finished
+[19:36:44] : Success in opening  page
+[19:36:47] : 4/3/2014  19:36:47
+[19:36:47] : Exiting
+------------------------------
+------------------------------
+5/3/2014  13:59:34 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[13:59:34] : load finished
+[13:59:34] : Success in opening  page
+[13:59:37] : 5/3/2014  13:59:37
+[13:59:37] : Exiting
+------------------------------
+------------------------------
+5/3/2014  13:59:49 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[13:59:49] : load finished
+[13:59:49] : Success in opening  page
+------------------------------
+------------------------------
+5/3/2014  13:59:49 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[13:59:49] : load finished
+[13:59:49] : Success in opening  page
+[13:59:52] : 5/3/2014  13:59:52
+[13:59:52] : Exiting
+[13:59:53] : 5/3/2014  13:59:53
+[13:59:53] : Exiting
+------------------------------
+------------------------------
+5/3/2014  14:0:1 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[14:0:1] : load finished
+[14:0:1] : Success in opening  page
+[14:0:3] : 5/3/2014  14:0:3
+[14:0:3] : Exiting
+------------------------------
+------------------------------
+5/3/2014  14:6:5 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[14:6:5] : load finished
+[14:6:5] : Success in opening  page
+[14:6:7] : 5/3/2014  14:6:7
+[14:6:7] : Exiting
+------------------------------
+------------------------------
+5/3/2014  14:9:46 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[14:9:46] : load finished
+[14:9:46] : Success in opening  page
+[14:9:50] : 5/3/2014  14:9:50
+[14:9:50] : Exiting
+------------------------------
+------------------------------
+5/3/2014  18:18:14 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:18:14] : load finished
+[18:18:14] : Success in opening  page
+[18:18:17] : 5/3/2014  18:18:17
+[18:18:17] : Exiting
+------------------------------
+------------------------------
+7/3/2014  18:24:27 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:24:27] : load finished
+[18:24:27] : Success in opening  page
+[18:24:29] : 7/3/2014  18:24:29
+[18:24:29] : Exiting
+------------------------------
+------------------------------
+7/3/2014  18:24:47 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:24:47] : load finished
+[18:24:47] : Success in opening  page
+------------------------------
+------------------------------
+7/3/2014  18:24:47 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:24:47] : load finished
+[18:24:47] : Success in opening  page
+[18:24:49] : 7/3/2014  18:24:49
+[18:24:49] : Exiting
+[18:24:50] : 7/3/2014  18:24:50
+[18:24:50] : Exiting
+------------------------------
+------------------------------
+7/3/2014  18:25:3 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:25:3] : load finished
+[18:25:3] : Success in opening  page
+------------------------------
+------------------------------
+7/3/2014  18:25:4 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[18:25:4] : load finished
+[18:25:4] : Success in opening  page
+[18:25:5] : 7/3/2014  18:25:5
+[18:25:5] : Exiting
+[18:25:7] : 7/3/2014  18:25:7
+[18:25:7] : Exiting
+------------------------------
+------------------------------
+13/3/2014  1:2:18 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:2:18] : load finished
+[1:2:18] : Success in opening  page
+[1:2:21] : 13/3/2014  1:2:21
+[1:2:21] : Exiting
+------------------------------
+------------------------------
+13/3/2014  1:2:37 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:2:37] : load finished
+[1:2:37] : Success in opening  page
+------------------------------
+------------------------------
+13/3/2014  1:2:37 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:2:37] : load finished
+[1:2:37] : Success in opening  page
+[1:2:41] : 13/3/2014  1:2:41
+[1:2:41] : Exiting
+[1:2:41] : 13/3/2014  1:2:41
+[1:2:41] : Exiting
+------------------------------
+------------------------------
+13/3/2014  1:2:52 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:2:52] : load finished
+[1:2:52] : Success in opening  page
+------------------------------
+------------------------------
+13/3/2014  1:2:53 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:2:53] : load finished
+[1:2:53] : Success in opening  page
+[1:2:55] : 13/3/2014  1:2:55
+[1:2:55] : Exiting
+[1:2:56] : 13/3/2014  1:2:56
+[1:2:56] : Exiting
+------------------------------
+------------------------------
+13/3/2014  1:17:33 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:17:33] : load finished
+[1:17:33] : Success in opening  page
+[1:17:37] : 13/3/2014  1:17:37
+[1:17:37] : Exiting
+------------------------------
+------------------------------
+13/3/2014  1:17:52 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:17:52] : load finished
+[1:17:52] : Success in opening  page
+------------------------------
+------------------------------
+13/3/2014  1:17:52 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:17:52] : load finished
+[1:17:52] : Success in opening  page
+[1:17:54] : 13/3/2014  1:17:54
+[1:17:54] : Exiting
+[1:17:55] : 13/3/2014  1:17:55
+[1:17:55] : Exiting
+------------------------------
+------------------------------
+13/3/2014  1:18:7 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:18:7] : load finished
+[1:18:7] : Success in opening  page
+------------------------------
+------------------------------
+13/3/2014  1:18:7 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:18:7] : load finished
+[1:18:7] : Success in opening  page
+------------------------------
+------------------------------
+13/3/2014  1:18:9 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:18:9] : load finished
+[1:18:9] : Success in opening  page
+[1:18:10] : 13/3/2014  1:18:10
+[1:18:10] : Exiting
+[1:18:10] : 13/3/2014  1:18:10
+[1:18:10] : Exiting
+[1:18:12] : 13/3/2014  1:18:12
+[1:18:12] : Exiting
+------------------------------
+------------------------------
+13/3/2014  1:32:19 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:32:19] : load finished
+[1:32:19] : Success in opening  page
+[1:32:21] : 13/3/2014  1:32:21
+[1:32:21] : Exiting
+------------------------------
+------------------------------
+13/3/2014  1:32:33 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:32:33] : load finished
+[1:32:33] : Success in opening  page
+------------------------------
+------------------------------
+13/3/2014  1:32:33 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:32:33] : load finished
+[1:32:33] : Success in opening  page
+[1:32:36] : 13/3/2014  1:32:36
+[1:32:36] : Exiting
+[1:32:37] : 13/3/2014  1:32:37
+[1:32:37] : Exiting
+------------------------------
+------------------------------
+13/3/2014  1:32:49 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:32:49] : load finished
+[1:32:49] : Success in opening  page
+------------------------------
+------------------------------
+13/3/2014  1:32:49 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:32:49] : load finished
+[1:32:49] : Success in opening  page
+[1:32:52] : 13/3/2014  1:32:52
+[1:32:52] : Exiting
+[1:32:53] : 13/3/2014  1:32:53
+[1:32:53] : Exiting
+------------------------------
+------------------------------
+13/3/2014  1:33:14 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:33:14] : load finished
+[1:33:14] : Success in opening  page
+[1:33:17] : 13/3/2014  1:33:17
+[1:33:17] : Exiting
+------------------------------
+------------------------------
+13/3/2014  1:33:29 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:33:29] : load finished
+[1:33:29] : Success in opening  page
+------------------------------
+------------------------------
+13/3/2014  1:33:29 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:33:29] : load finished
+[1:33:29] : Success in opening  page
+[1:33:32] : 13/3/2014  1:33:32
+[1:33:32] : Exiting
+[1:33:32] : 13/3/2014  1:33:32
+[1:33:32] : Exiting
+------------------------------
+------------------------------
+13/3/2014  1:33:46 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:33:46] : load finished
+[1:33:46] : Success in opening  page
+------------------------------
+------------------------------
+13/3/2014  1:33:46 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:33:46] : load finished
+[1:33:46] : Success in opening  page
+[1:33:49] : 13/3/2014  1:33:49
+[1:33:49] : Exiting
+[1:33:49] : 13/3/2014  1:33:49
+[1:33:49] : Exiting
+------------------------------
+------------------------------
+13/3/2014  1:35:29 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:35:29] : load finished
+[1:35:29] : Success in opening  page
+[1:35:32] : 13/3/2014  1:35:32
+[1:35:32] : Exiting
+------------------------------
+------------------------------
+13/3/2014  1:35:44 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:35:44] : load finished
+[1:35:44] : Success in opening  page
+------------------------------
+------------------------------
+13/3/2014  1:35:44 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:35:44] : load finished
+[1:35:44] : Success in opening  page
+[1:35:47] : 13/3/2014  1:35:47
+[1:35:47] : Exiting
+[1:35:48] : 13/3/2014  1:35:48
+[1:35:48] : Exiting
+------------------------------
+------------------------------
+13/3/2014  1:35:59 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:35:59] : load finished
+[1:35:59] : Success in opening  page
+------------------------------
+------------------------------
+13/3/2014  1:35:59 ,	/home/logan/public/QualityMedia/branches/dev1/core/scraper/phantomjs/chart_generator_trial_period.js ,	Username: null
+[1:35:59] : load finished
+[1:35:59] : Success in opening  page
+[1:36:1] : 13/3/2014  1:36:1
+[1:36:1] : Exiting
+[1:36:1] : 13/3/2014  1:36:1
+[1:36:1] : Exiting

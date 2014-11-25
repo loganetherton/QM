@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/scraper/yelp/Adapters
+END
+FileAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/scraper/yelp/Adapters/FileAdapter.php
+END
+AdapterInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/scraper/yelp/Adapters/AdapterInterface.php
+END

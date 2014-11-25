@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/base
+END
+CModelBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/base/CModelBehavior.php
+END
+interfaces.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/base/interfaces.php
+END
+CStatePersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/base/CStatePersister.php
+END
+CModule.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/base/CModule.php
+END
+CApplicationComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/base/CApplicationComponent.php
+END
+CErrorHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/base/CErrorHandler.php
+END
+CErrorEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/base/CErrorEvent.php
+END
+CException.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/base/CException.php
+END
+CHttpException.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/base/CHttpException.php
+END
+CBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/base/CBehavior.php
+END
+CExceptionEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/base/CExceptionEvent.php
+END
+CModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/base/CModel.php
+END
+CComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/base/CComponent.php
+END
+CModelEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/base/CModelEvent.php
+END
+CSecurityManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/base/CSecurityManager.php
+END
+CApplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/base/CApplication.php
+END

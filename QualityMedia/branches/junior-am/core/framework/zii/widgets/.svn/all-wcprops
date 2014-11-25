@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/zii/widgets
+END
+CMenu.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/zii/widgets/CMenu.php
+END
+CListView.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/zii/widgets/CListView.php
+END
+CBreadcrumbs.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/zii/widgets/CBreadcrumbs.php
+END
+CPortlet.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/zii/widgets/CPortlet.php
+END
+CDetailView.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/zii/widgets/CDetailView.php
+END
+CBaseListView.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/zii/widgets/CBaseListView.php
+END

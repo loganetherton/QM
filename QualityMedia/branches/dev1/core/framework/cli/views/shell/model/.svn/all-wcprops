@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/views/shell/model
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/views/shell/model/test.php
+END
+model.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/views/shell/model/model.php
+END
+fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/views/shell/model/fixture.php
+END

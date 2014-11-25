@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/zii/widgets
+END
+CBaseListView.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/zii/widgets/CBaseListView.php
+END
+CMenu.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/zii/widgets/CMenu.php
+END
+CListView.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/zii/widgets/CListView.php
+END
+CBreadcrumbs.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/zii/widgets/CBreadcrumbs.php
+END
+CPortlet.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/zii/widgets/CPortlet.php
+END
+CDetailView.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/zii/widgets/CDetailView.php
+END

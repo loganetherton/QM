@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/web/services
+END
+CWebServiceAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/web/services/CWebServiceAction.php
+END
+CWebService.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/web/services/CWebService.php
+END
+CWsdlGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/web/services/CWsdlGenerator.php
+END

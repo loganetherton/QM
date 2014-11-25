@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/components
+END
+WebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/components/WebUser.php
+END
+GridView.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/components/GridView.php
+END
+UWebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/components/UWebUser.php
+END
+DaemonCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/components/DaemonCommand.php
+END
+BootstrapS3.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/components/BootstrapS3.php
+END
+Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/components/Controller.php
+END
+CustomTbMenu.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/components/CustomTbMenu.php
+END
+TbTotalSumColumnCurrency.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/components/TbTotalSumColumnCurrency.php
+END
+UFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/components/UFormatter.php
+END
+UserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/components/UserIdentity.php
+END
+ActiveRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/components/ActiveRecord.php
+END
+AssetManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/components/AssetManager.php
+END

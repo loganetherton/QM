@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/client/models
+END
+ClientDashboard.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/client/models/ClientDashboard.php
+END
+ChangePasswordForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/client/models/ChangePasswordForm.php
+END
+LoginForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/client/models/LoginForm.php
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/client/models/Client.php
+END

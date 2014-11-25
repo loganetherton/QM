@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/2193/branches/new-review-tabs/base/protected/config
+END
+console.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/config/console.php
+END
+mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/config/mail.php
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/2193/branches/new-review-tabs/base/protected/config/main.php
+END
+live.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/config/live.php
+END
+dev.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/config/dev.php
+END

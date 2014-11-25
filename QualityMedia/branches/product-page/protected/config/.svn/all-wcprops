@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/qualitymedia1/!svn/ver/862/branches/product-page/protected/config
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/862/branches/product-page/protected/config/main.php
+END
+dev.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/config/dev.php
+END
+live.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/config/live.php
+END
+console.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/config/console.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/db/schema/oci
+END
+COciCommandBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/db/schema/oci/COciCommandBuilder.php
+END
+COciTableSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/db/schema/oci/COciTableSchema.php
+END
+COciColumnSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/db/schema/oci/COciColumnSchema.php
+END
+COciSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/db/schema/oci/COciSchema.php
+END

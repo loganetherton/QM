@@ -1,0 +1,18 @@
+K 10
+svn:ignore
+V 28
+base
+log.txt
+snapshotImages
+
+K 13
+svn:mergeinfo
+V 343
+/branches/frontend-look/base/protected:1274-1283
+/branches/junior-am/base/protected:1336-1619
+/branches/multiple-biz-accounts/protected:1144-1223
+/branches/new-review-tabs/base/protected:2164-2196
+/branches/product-page/protected:847-867
+/branches/reviews-refactoring/protected:702-860
+/trunk/base/protected:221-494,671-873,1274-1282,2001-2163
+END

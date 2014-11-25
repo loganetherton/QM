@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/extensions/YiiMailer/PHPMailer
+END
+class.phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/extensions/YiiMailer/PHPMailer/class.phpmailer.php
+END
+class.pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/extensions/YiiMailer/PHPMailer/class.pop3.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/extensions/YiiMailer/PHPMailer/README.md
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/extensions/YiiMailer/PHPMailer/README
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/extensions/YiiMailer/PHPMailer/class.smtp.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/extensions/YiiMailer/PHPMailer/LICENSE
+END

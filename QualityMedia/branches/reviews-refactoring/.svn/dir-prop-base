@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 10
+.htaccess
+
+K 13
+svn:mergeinfo
+V 55
+/branches/dev1/base:703-775,777-859
+/trunk/base:221-494
+END

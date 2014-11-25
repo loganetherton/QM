@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/1612/branches/junior-am/base/protected/modules/am/components
+END
+WebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/1513/branches/junior-am/base/protected/modules/am/components/WebUser.php
+END
+ClientGridView.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/am/components/ClientGridView.php
+END
+AmController.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/qualitymedia1/!svn/ver/1612/branches/junior-am/base/protected/modules/am/components/AmController.php
+END
+ClientDataColumn.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/am/components/ClientDataColumn.php
+END
+ReviewListView.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/am/components/ReviewListView.php
+END
+UserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/am/components/UserIdentity.php
+END

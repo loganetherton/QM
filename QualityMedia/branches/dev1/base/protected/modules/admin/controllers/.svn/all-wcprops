@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/2132/branches/dev1/base/protected/modules/admin/controllers
+END
+EmployeeController.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qualitymedia1/!svn/ver/317/branches/dev1/base/protected/modules/admin/controllers/EmployeeController.php
+END
+AccountManagerAssignmentController.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/qualitymedia1/!svn/ver/542/branches/dev1/base/protected/modules/admin/controllers/AccountManagerAssignmentController.php
+END
+SessionController.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qualitymedia1/!svn/ver/2039/branches/dev1/base/protected/modules/admin/controllers/SessionController.php
+END
+ClientSubscriptionController.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/qualitymedia1/!svn/ver/1107/branches/dev1/base/protected/modules/admin/controllers/ClientSubscriptionController.php
+END
+SystemController.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/qualitymedia1/!svn/ver/1132/branches/dev1/base/protected/modules/admin/controllers/SystemController.php
+END
+SubscriptionController.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/qualitymedia1/!svn/ver/1794/branches/dev1/base/protected/modules/admin/controllers/SubscriptionController.php
+END
+TransactionController.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/qualitymedia1/!svn/ver/79/branches/dev1/base/protected/modules/admin/controllers/TransactionController.php
+END
+SubscriptionStateController.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/qualitymedia1/!svn/ver/85/branches/dev1/base/protected/modules/admin/controllers/SubscriptionStateController.php
+END
+AdminManagementController.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/qualitymedia1/!svn/ver/408/branches/dev1/base/protected/modules/admin/controllers/AdminManagementController.php
+END
+InvoicePdfController.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qualitymedia1/!svn/ver/88/branches/dev1/base/protected/modules/admin/controllers/InvoicePdfController.php
+END
+DashboardController.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qualitymedia1/!svn/ver/269/branches/dev1/base/protected/modules/admin/controllers/DashboardController.php
+END
+AccountManagerController.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/qualitymedia1/!svn/ver/1514/branches/dev1/base/protected/modules/admin/controllers/AccountManagerController.php
+END
+PlanController.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/qualitymedia1/!svn/ver/365/branches/dev1/base/protected/modules/admin/controllers/PlanController.php
+END
+SalesmanAssignmentController.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/qualitymedia1/!svn/ver/408/branches/dev1/base/protected/modules/admin/controllers/SalesmanAssignmentController.php
+END
+InvoiceController.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/qualitymedia1/!svn/ver/88/branches/dev1/base/protected/modules/admin/controllers/InvoiceController.php
+END
+FailedInvoiceController.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/qualitymedia1/!svn/ver/1595/branches/dev1/base/protected/modules/admin/controllers/FailedInvoiceController.php
+END
+TaskController.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/1806/branches/dev1/base/protected/modules/admin/controllers/TaskController.php
+END
+AccountManagerPlanController.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/qualitymedia1/!svn/ver/298/branches/dev1/base/protected/modules/admin/controllers/AccountManagerPlanController.php
+END
+SalesmanController.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qualitymedia1/!svn/ver/408/branches/dev1/base/protected/modules/admin/controllers/SalesmanController.php
+END
+DaemonController.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/qualitymedia1/!svn/ver/1806/branches/dev1/base/protected/modules/admin/controllers/DaemonController.php
+END
+ClientOverviewController.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/qualitymedia1/!svn/ver/1627/branches/dev1/base/protected/modules/admin/controllers/ClientOverviewController.php
+END
+DaemonCombinedLogController.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/qualitymedia1/!svn/ver/1906/branches/dev1/base/protected/modules/admin/controllers/DaemonCombinedLogController.php
+END
+BillingOverviewController.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/qualitymedia1/!svn/ver/1613/branches/dev1/base/protected/modules/admin/controllers/BillingOverviewController.php
+END
+RevenueController.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/qualitymedia1/!svn/ver/424/branches/dev1/base/protected/modules/admin/controllers/RevenueController.php
+END
+AmStatsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qualitymedia1/!svn/ver/2132/branches/dev1/base/protected/modules/admin/controllers/AmStatsController.php
+END
+ClientController.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/qualitymedia1/!svn/ver/2075/branches/dev1/base/protected/modules/admin/controllers/ClientController.php
+END
+SalesmanPlanController.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/qualitymedia1/!svn/ver/296/branches/dev1/base/protected/modules/admin/controllers/SalesmanPlanController.php
+END
+UserController.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/qualitymedia1/!svn/ver/155/branches/dev1/base/protected/modules/admin/controllers/UserController.php
+END

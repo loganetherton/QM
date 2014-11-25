@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/test
+END
+CDbTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/test/CDbTestCase.php
+END
+CDbFixtureManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/test/CDbFixtureManager.php
+END
+CWebTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/test/CWebTestCase.php
+END
+CTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/test/CTestCase.php
+END

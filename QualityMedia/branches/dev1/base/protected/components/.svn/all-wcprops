@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/qualitymedia1/!svn/ver/2248/branches/dev1/base/protected/components
+END
+AmStatsListView.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/2134/branches/dev1/base/protected/components/AmStatsListView.php
+END
+ActiveRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/154/branches/dev1/base/protected/components/ActiveRecord.php
+END
+Pagination.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/2162/branches/dev1/base/protected/components/Pagination.php
+END
+Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/1527/branches/dev1/base/protected/components/Controller.php
+END
+TbTotalSumColumnCurrency.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/570/branches/dev1/base/protected/components/TbTotalSumColumnCurrency.php
+END
+AssetManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/1644/branches/dev1/base/protected/components/AssetManager.php
+END
+CustomTbMenu.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/230/branches/dev1/base/protected/components/CustomTbMenu.php
+END
+WebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/79/branches/dev1/base/protected/components/WebUser.php
+END
+DaemonCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/977/branches/dev1/base/protected/components/DaemonCommand.php
+END
+UserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/60/branches/dev1/base/protected/components/UserIdentity.php
+END
+DaemonLaunchBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/1809/branches/dev1/base/protected/components/DaemonLaunchBehavior.php
+END
+UWebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qualitymedia1/!svn/ver/2041/branches/dev1/base/protected/components/UWebUser.php
+END
+GridView.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qualitymedia1/!svn/ver/723/branches/dev1/base/protected/components/GridView.php
+END
+BootstrapS3.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/100/branches/dev1/base/protected/components/BootstrapS3.php
+END
+ConsoleFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/1809/branches/dev1/base/protected/components/ConsoleFormatter.php
+END
+UFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/1805/branches/dev1/base/protected/components/UFormatter.php
+END

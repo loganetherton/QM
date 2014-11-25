@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/qualitymedia1/!svn/ver/2037/branches/crm/protected/modules/admin/models
+END
+YelpAuthenticationForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/admin/models/YelpAuthenticationForm.php
+END
+PlanForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/admin/models/PlanForm.php
+END
+CreateAccountManagerForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/admin/models/CreateAccountManagerForm.php
+END
+AccountManagerAssignment.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/admin/models/AccountManagerAssignment.php
+END
+CreateAdminForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/admin/models/CreateAdminForm.php
+END
+ClientForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/admin/models/ClientForm.php
+END
+AdminClientSummary.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/admin/models/AdminClientSummary.php
+END
+AdminClient.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/admin/models/AdminClient.php
+END
+SubscriptionForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/admin/models/SubscriptionForm.php
+END
+Revenue.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/admin/models/Revenue.php
+END
+CreateSalesmanForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/admin/models/CreateSalesmanForm.php
+END
+LoginForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/admin/models/LoginForm.php
+END
+SalesmanAssignment.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/admin/models/SalesmanAssignment.php
+END

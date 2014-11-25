@@ -1,0 +1,441 @@
+<?php
+/**
+ * Model for handling contract CRUD
+ *
+ * Note: ActiveRecord already handles createdAt and updatedAt
+ *
+ * @author Logan Etherton <logan@qualitymedia.com>
+ */
+class Contract extends ActiveRecord
+{
+    /**
+     * Contract model attributes
+     *
+     * @var string companyName Company name
+     * @var string contactName Name of the client primary contact
+     * @var string contactTitle Title of the client primary contact
+     * @var string email Client email
+     * @var string businessType Business type from dropdown
+     * @var string contractUrl Link to contract
+     * @var string bestTimeToReach Best time of the day to reach client
+     * @var string phone Client primary phone number
+     * @var string phoneSecondary Client secondary phone number
+     * @var string clientUrl Client website URL
+     * @var string address1 Address line one
+     * @var string address2 Address line two
+     * @var string city City
+     * @var string state State
+     * @var string zip Zip code
+     * @var string country Country
+     * @var string timeZone Client time zone
+     * @var string notesSales Salesman contract notes
+     * @var string notesAm Account manger contract notes
+     * @var string notesCs Customer service contract notes
+     * @var string notesAdmin Admin service contract notes
+     * @var int setupFee Contract setup fee
+     * @var bool moneyBackGuarantee Money back guarantee was offered
+     * @var int paymentType Credit card or check
+     * @var int dealType Contract deal type
+     * @var int accountStatus Account status
+     * @var string contractDate Contract start date/billing date (DATE value in DB)
+     * @var string trialMaturityDate (DATE value in DB)
+     * @var string welcomeCallTime (DATETIME in DB)
+     * @var int welcomeCallStatus Welcome call status
+     * @var string cardholderName Name on credit card
+     * @var string creditCardType Type of credit card
+     * @var string ccNumber Credit card number
+     * @var string ccExpiration Credit card expiration date
+     * @var string cvv Credit card CVV number
+     * @var string billingAddress1 Billing address 1
+     * @var string billingAddress2 Billing address 2
+     * @var string billingCity Billing city
+     * @var string billingState Billing state
+     * @var string billingZip Billing zip
+     * @var string billingCountry Billing country
+     * @var bool trialServiceYelp Yelp trial service
+     * @var bool trialserviceTwitter Twitter trial service
+     * @var bool trialserviceGooglePlus Google+ trial service
+     * @var bool trialServiceFacebook Facebook trial service
+     * @var bool trialServiceTripAdvisor Trip Advisor trial service
+     * @var bool trialServiceFoursquare Foursquare trial service
+     * @var bool trialServiceEmail Email campaign trial service
+     *
+     * The below items are located in the Contract Social Network model
+     * 
+     * @var int serviceYelp Yelp service fee
+     * @var int serviceTwitter Twitter service fee
+     * @var int serviceGooglePlus Google+ service fee
+     * @var int serviceFacebook Facebook service fee
+     * @var int serviceTripAdvisor Trip Advisor service fee
+     * @var int serviceFoursquare Foursquare service fee
+     * @var int serviceEmail Email campaign service fee
+     * @var int serviceSocialStar Social Star service fee
+     */
+    
+    // Default payment type is credit card
+    public $paymentType = 'creditCard';
+    public $contractDateRange;
+
+    // Credit card types
+    const CCTYPE_VISA       = 0;
+    const CCTYPE_MASTERCARD = 1;
+    const CCTYPE_AMEX       = 2;
+    const CCTYPE_DISCOVER   = 3;
+
+    /**
+     * Instantiate the model
+     *
+     * @param string $className "Contract"
+     * @return Contract
+     */
+    public static function model($className = __CLASS__)
+    {
+        return parent::model($className);
+    }
+    
+    /**
+     * Table name tied to this model
+     * 
+     * @return string 'contracts'
+     */
+    public function tableName()
+    {
+        return 'contracts';
+    }
+
+    /**
+     * Declares the validation rules for saving contracts to the database
+     *
+     * createdAt and updatedAt are defined in ActiveRecord
+     *
+     * @todo Define rules
+     */
+    public function rules()
+    {
+        return array(
+            // Required fields for every contract
+            array('companyName, contactName, contactTitle, email, businessType, contractUrl,
+                  bestTimeToReach, phone, clientUrl, address1, city, state, zip, country,
+                  timeZone, setupFee, paymentType, contractDate, billingAddress1, billingCity,
+                  billingState, billingZip, billingCountry', 'required',
+                  'message' => '{attribute} is required'),
+            // Numerical fields
+            array('setupFee', 'numerical'),
+            array('zip, billingZip, ccNumber, cvv, ccLast4Digits, dealType, accountStatus, creditCardType', 'numerical',
+                  'integerOnly' => true),
+            // Make integers are positive
+            array('setupFee, zip, billingZip, dealType, accountStatus, creditCardType',
+                  'compare', 'operator' => '>=', 'compareValue' => 0),
+            // Boolean fields
+            array('moneyBackGuarantee, welcomeCallStatus, trialServiceYelp, trialServiceTwitter,
+                  trialServiceGooglePlus, trialServiceFacebook, trialServiceTripAdvisor, trialServiceFoursquare,
+                  trialServiceEmail', 'boolean'),
+            array('email', 'email'),
+            // Default 0 fields
+            array('moneyBackGuarantee, dealType, accountStatus, welcomeCallStatus, creditCardType, approved', 'default', 'value' => 0),
+            // Default setup fee is 200, per AM team
+            array('setupFee', 'default', 'value' => 200),
+            // Strip tags fields
+            array('companyName, contactName, contactTitle, businessType, bestTimeToReach, phone,
+                  phoneSecondary, address1, address2, city, state, zip, country, timeZone, notesSales,
+                  notesAm, notesCs, notesAdmin, cardholderName, billingAddress1, billingAddress2, billingCity,
+                  billingState, billingZip, billingCountry', 'filter', 'filter' => 'strip_tags'),
+            // Trim fields (can this be combined with the other, as in 'filter' => 'strip_tags, trim')
+            array('companyName, contactName, contactTitle, businessType, bestTimeToReach, phone,
+                  phoneSecondary, address1, address2, city, state, zip, country, timeZone, notesSales,
+                  notesAm, notesCs, notesAdmin, cardholderName, billingAddress1, billingAddress2, billingCity,
+                  billingState, billingZip, billingCountry', 'filter', 'filter' => 'trim'),
+            // Length
+            array('setupFee, businessType, bestTimeToReach, city, state, country, billingCity, billingState,
+                  billingCountry', 'length', 'max' => 255),
+            array('companyName, contactName, contactTitle, cardholderName, email, address1, address2, billingAddress1,
+                  billingAddress2', 'length', 'max' => 511),
+            // URL
+            array('contractUrl, clientUrl', 'url'),
+            // Date for contracts and trial maturity
+            array('contractDate, trialMaturityDate', 'date', 'format'=>'yyyy-mm-dd'),
+            // Date for welcome call time
+            //array('welcomeCallTime', 'date', 'format'=>'mm/dd/yyyy HH:mm:ss', 'allowEmpty' => true,
+            //      'message' => 'Make sure to select both a date and a time value'),
+            array('welcomeCallTime', 'safe'),
+            // Date for CC expiration
+            array('ccExpiration', 'date', 'format'=>'mm/yyyy', 'message' => 'Use this format for CVV: mm/yyyy'),
+            // Conditionally require existence if using credit card
+            array('cardholderName, creditCardType, ccNumber, ccExpiration, cvv',
+                  'application.components.validators.EConditionalValidator',
+                  'conditionalRules' => array('paymentType', 'compare', 'compareValue' => 'creditCard'),
+                  'rule' => array('required')),
+            // Validate different types of credit cards
+            array('ccNumber', 'application.components.validators.EConditionalValidator',
+                  'conditionalRules' => array('creditCardType', 'compare', 'compareValue' => self::CCTYPE_VISA),
+                  'rule' => array('match', 'pattern' => '/^4[0-9]{12}(?:[0-9]{3})?$/')),
+            array('ccNumber', 'application.components.validators.EConditionalValidator',
+                'conditionalRules' => array('creditCardType', 'compare', 'compareValue' => self::CCTYPE_MASTERCARD),
+                'rule' => array('match', 'pattern' => '/^5[1-5][0-9]{14}$/')),
+            array('ccNumber', 'application.components.validators.EConditionalValidator',
+                'conditionalRules' => array('creditCardType', 'compare', 'compareValue' => self::CCTYPE_AMEX),
+                'rule' => array('match', 'pattern' => '/^3[47][0-9]{13}$/')),
+            array('ccNumber', 'application.components.validators.EConditionalValidator',
+                'conditionalRules' => array('creditCardType', 'compare', 'compareValue' => self::CCTYPE_DISCOVER),
+                'rule' => array('match', 'pattern' => '/^6(?:011|5[0-9]{2})[0-9]{12}$/')),
+            // Only these fields are safe on search
+            array('companyName, contractDateRange', 'safe', 'on' => 'search'),
+        );
+    }
+    
+    /**
+     * Declares necessary relationships with other models
+     *
+     * @todo Verify that all we need a relationship to is the ContractSocialNetwork model
+     */
+    public function relations()
+    {
+        return array(
+            'contractSocialNetwork' => array(self::HAS_MANY, 'ContractSocialNetwork', 'id'),
+            'accountManager' => array(self::BELONGS_TO, 'AccountManager', 'accountManagerId'),
+            'salesman' => array(self::BELONGS_TO, 'Salesman', 'salesmanId'),
+            'admin' => array(self::BELONGS_TO, 'Admin', 'adminId'),
+        );
+    }
+
+    /**
+     * Declares attribute labels.
+     *
+     * @todo Define attribute labels
+     */
+    public function attributeLabels()
+    {
+        return array(
+            'companyName'        => 'Company',
+            'timeZone'           => 'Timezone',
+            'contactName'        => 'Main Contact Person',
+            'businessType'       => 'Business Type',
+            'email'              => 'Email Address',
+            'contractUrl'        => 'Contract Link',
+            'phone'              => 'Phone Number',
+            'bestTimeToReach'    => 'Best Time to Contact',
+            'notesAm'            => 'AM Notes',
+            'setupFee'           => 'Setup Fee',
+            'moneyBackGuarantee' => '30 Day Money-Back Guarantee',
+            'accountStatus'      => 'Current Account Status',
+            'dealType'           => 'Deal Type',
+            'contractDate'       => 'Contract Date',
+            'welcomeCallTime'    => 'Welcome Call Time',
+            'trialMaturityDate'  => 'Trial Maturity Date',
+            'welcomeCallStatus'  => 'Welcome Call Status',
+            'cardholderName'     => 'Cardholder Name',
+            'billingAddress1'    => 'Billing Address 1',
+            'billingAddress2'    => 'Billing Address 2',
+            'billingCity'        => 'Billing City',
+            'billingState'       => 'Billing State',
+            'billingZip'         => 'Billing Zip',
+            'billingCountry'     => 'Billing Country',
+            'creditCardType'     => 'Credit Card Type',
+            'ccNumber'           => 'Credit Card Number',
+            'cvv'                => 'CVV',
+            'ccExpiration'       => 'Credit Card Expiration',
+            'contactTitle'       => 'Title',
+            'phoneSecondary'     => 'Secondary Phone',
+            'clientUrl'          => 'Client Website',
+            'address1'           => 'Address 1',
+            'address2'           => 'Address 2',
+            'city'               => 'City',
+            'state'              => 'State',
+            'zip'                => 'Zip',
+            'country'            => 'Country',
+        );
+    }
+    
+    /**
+     * Search method for returning requested data
+     *
+     * @access public
+     * @return CActiveDataProvider
+     */
+    public function search()
+    {
+        $criteria = new CDbCriteria;
+
+        $criteria->with = array(
+            'accountManager',
+            'admin',
+            'salesman',
+        );
+
+        $roleConditions = array();
+        if (!empty($this->accountManagerId)) {
+            $roleConditions[] = 't.accountManagerId = ' . (int) $this->accountManagerId;
+        }
+        if (!empty($this->salesmanId)) {
+            $roleConditions[] = 't.salesmanId = ' . (int) $this->salesmanId;
+        }
+        if (!empty($this->adminId)) {
+            $roleConditions[] = 't.adminId = ' .(int) $this->adminId;
+        }
+
+        if (!empty($roleConditions)) {
+            $criteria->addCondition(implode(' OR ', $roleConditions));
+        }
+
+        $criteria->compare('t.companyName', $this->companyName, true);
+
+        if (!empty($this->contractDateRange)) {
+            list ($start, $end) = explode(' - ', $this->contractDateRange);
+            $start = date('Y-m-d', strtotime($start));
+            $end = date('Y-m-d', strtotime($end));
+            $criteria->addBetweenCondition('t.contractDate', $start, $end);
+        }
+
+        return new CActiveDataProvider($this, array(
+            'criteria' => $criteria,
+            'sort' => array(
+            ),
+        ));
+    }
+    
+    /**
+     * Only return the accessible contracts
+     *
+     * @todo Limit search based on user and access level
+     */
+    public function beforeFind()
+    {
+        return parent::beforeFind();
+    }
+    
+    /**
+     * Define the user ID based on the current user auth
+     *
+     * @todo All of it
+     */
+    protected function beforeValidate()
+    {
+        $this->contractDate = date('Y-m-d', strtotime($this->contractDate));
+        $this->ccNumber = preg_replace('/[^0-9]/s', '', $this->ccNumber);
+
+        if (strtotime($this->trialMaturityDate) > 0) {
+            $this->trialMaturityDate = date('Y-m-d', strtotime($this->trialMaturityDate));
+        }
+
+        return parent::beforeValidate();
+    }
+    
+    /**
+     * Handle contract history, save the appropriate records in the contracts_social_networks model
+     *
+     * @todo Handle contract history, contracts_social_networks records
+     */
+    public function beforeSave()
+    {
+        if (!empty($this->ccNumber)) {
+            $this->ccLast4Digits = substr($this->ccNumber, -4, 4);
+            $this->ccNumber = $this->encrypt($this->ccNumber);
+            $this->cvv = $this->encrypt($this->cvv);
+        }
+
+        if (empty($this->welcomeCallTime) || !strtotime($this->welcomeCallTime)) {
+            $this->welcomeCallTime = '0000-00-00 00:00:00';
+        } else {
+            $this->welcomeCallTime = date('m/d/Y H:i', strtotime($this->welcomeCallTime));
+        }
+        if (empty($this->trialMaturityDate) || !strtotime($this->trialMaturityDate)) {
+            $this->trialMaturityDate = '0000-00-00';
+        }
+
+        return parent::beforeSave();
+    }
+    
+    /**
+     * Handle contract history when a contract is deleted
+     *
+     * @todo Handle contract history functions
+     */
+    public function beforeDelete()
+    {
+        return parent::beforeDelete();
+    }
+
+    /**
+     * Before saving edits to an existing contract, alert the appropriate individuals to changes based on RBAC
+     *
+     * @todo Define after save
+     */
+    public function afterSave()
+    {
+        return parent::afterSave();
+    }
+
+    /**
+     * Custom AES-compliant 256 bit encryption function
+     *
+     * {@link http://php.net/manual/es/book.mcrypt.php}
+     *
+     * @access public
+     * @param string $decrypted
+     * @param string $salt
+     * @return bool|string
+     */
+    public function encrypt($decrypted, $salt = '!kQm*fF3pXe1Kbm%9')
+    {
+        $password = Yii::app()->getModule('crm')->ccEncryptionKey;
+
+        // Build a 256-bit $key which is a SHA256 hash of $salt and $password.
+        $key = hash('SHA256', $salt . $password, true);
+
+        // Build $iv and $iv_base64.  We use a block size of 128 bits (AES compliant) and CBC mode.
+        // (Note: ECB mode is inadequate as IV is not used.)
+        srand();
+        $iv = mcrypt_create_iv(mcrypt_get_iv_size(MCRYPT_RIJNDAEL_128, MCRYPT_MODE_CBC), MCRYPT_RAND);
+
+        if (strlen($iv_base64 = rtrim(base64_encode($iv), '=')) != 22) {
+            return false;
+        }
+
+        // Encrypt $decrypted and an MD5 of $decrypted using $key.
+        // MD5 is fine to use here because it's just to verify successful decryption.
+        $encrypted = base64_encode(mcrypt_encrypt(MCRYPT_RIJNDAEL_128, $key, $decrypted . md5($decrypted), MCRYPT_MODE_CBC, $iv));
+
+        return $iv_base64 . $encrypted;
+    }
+
+    /**
+     * Custom AES-compliant 256 bit decryption function
+     *
+     * {@link http://php.net/manual/es/book.mcrypt.php}
+     *
+     * @access public
+     * @param string $encrypted
+     * @param string $salt
+     * @return bool|string
+     */
+    public function decrypt($encrypted, $salt='!kQm*fF3pXe1Kbm%9')
+    {
+        $password = Yii::app()->getModule('crm')->ccEncryptionKey;
+
+        // Build a 256-bit $key which is a SHA256 hash of $salt and $password.
+        $key = hash('SHA256', $salt . $password, true);
+
+        // Retrieve $iv which is the first 22 characters plus ==, base64_decoded.
+        $iv = base64_decode(substr($encrypted, 0, 22) . '==');
+
+        // Remove $iv from $encrypted.
+        $encrypted = substr($encrypted, 22);
+
+        // Decrypt the data.  rtrim won't corrupt the data because the last 32 characters are the md5 hash;
+        // thus any \0 character has to be padding.
+        $decrypted = rtrim(mcrypt_decrypt(MCRYPT_RIJNDAEL_128, $key, base64_decode($encrypted), MCRYPT_MODE_CBC, $iv), "\0\4");
+
+        // Retrieve $hash which is the last 32 characters of $decrypted.
+        $hash = substr($decrypted, -32);
+
+        // Remove the last 32 characters from $decrypted.
+        $decrypted = substr($decrypted, 0, -32);
+
+        // Integrity check.  If this fails, either the data is corrupted, or the password/salt was incorrect.
+        if (md5($decrypted) != $hash) {
+            return false;
+        }
+
+        return $decrypted;
+    }
+}

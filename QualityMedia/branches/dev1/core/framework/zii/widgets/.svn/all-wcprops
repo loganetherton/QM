@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/zii/widgets
+END
+CBreadcrumbs.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/zii/widgets/CBreadcrumbs.php
+END
+CPortlet.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/zii/widgets/CPortlet.php
+END
+CDetailView.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/zii/widgets/CDetailView.php
+END
+CBaseListView.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/zii/widgets/CBaseListView.php
+END
+CMenu.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/zii/widgets/CMenu.php
+END
+CListView.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/zii/widgets/CListView.php
+END

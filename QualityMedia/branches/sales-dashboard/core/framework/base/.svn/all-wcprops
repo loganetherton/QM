@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/base
+END
+CModelBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/base/CModelBehavior.php
+END
+interfaces.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/base/interfaces.php
+END
+CStatePersister.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/base/CStatePersister.php
+END
+CModule.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/base/CModule.php
+END
+CApplicationComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/base/CApplicationComponent.php
+END
+CErrorHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/base/CErrorHandler.php
+END
+CErrorEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/base/CErrorEvent.php
+END
+CException.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/base/CException.php
+END
+CHttpException.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/base/CHttpException.php
+END
+CBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/base/CBehavior.php
+END
+CExceptionEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/base/CExceptionEvent.php
+END
+CModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/base/CModel.php
+END
+CComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/base/CComponent.php
+END
+CModelEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/base/CModelEvent.php
+END
+CSecurityManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/base/CSecurityManager.php
+END
+CApplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/base/CApplication.php
+END

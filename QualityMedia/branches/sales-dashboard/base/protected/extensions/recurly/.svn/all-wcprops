@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/extensions/recurly
+END
+RecurlyApi.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/extensions/recurly/RecurlyApi.php
+END
+PushNotificationHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/extensions/recurly/PushNotificationHandler.php
+END
+RecurlyWidget.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/base/protected/extensions/recurly/RecurlyWidget.php
+END

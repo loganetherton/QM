@@ -1,0 +1,155 @@
+CONTEXT QualityMedia
+
+PATTERN "Quality Media API"
+
+CONCEPT Review  "an opinion about a product or service" ""
+
+CONCEPT Post "a text on the Internet"
+
+CONCEPT Rating "an integer from 0 (a bad review) to 100 (a good review)"
+CONCEPT OnlineReviewSite "a website, e.g. Twitter, Yelp" ""
+
+CONCEPT User "an account on the QualityMedia website"
+CONCEPT CustomerServiceAgentUser "a User who is a social media expert"
+CONCEPT ClientUser "a User who is an external business owner"
+
+CONCEPT AdminUser "a User part of the QM organization"
+
+CONCEPT ClientBranch "a sub-unit within of an organization"
+CONCEPT Invoice "a document asking for a payment"
+CONCEPT AuthData "credentials to a website"
+CONCEPT SearchParameters "generic parameters for a scrapper to know what to search for"
+CONCEPT YelpSearchParameters "parameters for the Yelp scraper"
+CONCEPT TwitterSearchParameters "parameters for the Twitter scraper"
+CONCEPT URLSearchParameters "a generic scraper which verifies a specific URL, without any other customizeable parameters"
+CONCEPT BillingPlan "a plan on the QualityMedia website"
+CONCEPT UsageMetrics "measure the usage of the site"
+CONCEPT BillingCycle "a recurring time interval"
+CONCEPT Date "a calendar date"
+
+-- SPEC ClientUser ISA User
+-- SPEC CustomerServiceAgentUser ISA User
+-- SPEC AdminUser ISA User
+
+isa :: CustomerServiceAgentUser -> User [INJ]
+isa :: AdminUser  -> User [INJ]
+isa :: ClientUser -> User [INJ]
+POPULATION isa [ClientUser * User]
+CONTAINS [("mario", "mario")]
+
+isa :: Review -> Post [INJ]
+
+GEN YelpAuthData    ISA AuthData 
+GEN YelpAPIAuthData ISA AuthData 
+GEN TwitterAuthData ISA AuthData
+
+registeredBy :: AuthData -> User
+  PRAGMA "registered by"
+
+availableTo :: AuthData * User [TOT]
+  PRAGMA "available to"
+
+worksWith :: CustomerServiceAgentUser * ClientUser
+  PRAGMA "" "works with"
+  MEANING "An account manager works for a company"
+
+RULE registeredBy |- availableTo
+  -- MEANING "An authentication data is always available to the user who registered it."
+
+RULE registeredBy;isa~;worksWith;isa |- availableTo
+  -- MEANING "An agent has access to accounts defined by the company he or she works for"
+
+logsInto :: AuthData -> OnlineReviewSite
+  PRAGMA "logs into"
+  MEANING "Any authentication data must log in to a review site."
+
+isAbout :: Rating -> Review
+  PRAGMA "is about"
+  MEANING "Every rating is about some review."
+
+isReplyTo :: Post * Post [UNI]
+  PRAGMA "is a reply to"
+
+isCreatedBy :: Post * User [UNI]
+  PRAGMA "is created by"
+
+publishedAt :: Post -> Date
+  PRAGMA "was published on"
+  MEANING "Every review was published on some date"
+POPULATION publishedAt 
+  CONTAINS [("It was quite nice.", "01-01-2013")]
+
+issuedTo :: Invoice -> ClientUser
+  PRAGMA "issued to"
+
+issuedEvery :: Invoice -> BillingCycle
+  PRAGMA "issued every"
+
+registeredSince :: User -> Date
+  PRAGMA "registered since"
+POPULATION registeredSince
+  CONTAINS [("mario", "01-02-2013")]
+
+billsFor :: Invoice -> BillingPlan
+  PRAGMA "bills for"
+
+allows :: BillingPlan -> UsageMetrics
+  PRAGMA "allows"
+
+belongsTo :: ClientBranch -> ClientUser [SUR]
+  PRAGMA "belongs to"
+  MEANING "Each client branch belongs to some user, and client users have at least 1 branch."
+-- POPULATION belongsTo
+  -- CONTAINS [("mario's pizza turin", "luigi")]
+
+
+handledBy :: Review * CustomerServiceAgentUser [UNI] -- A review may not be handled by multiple account managers
+  PRAGMA "" "handled by"
+  MEANING "A review is handled (responded to) by an account manager. Reviews initially are not handled by anyone."
+  PURPOSE RELATION handledBy [Review * CustomerServiceAgentUser] IN ENGLISH REF "Purpose handledBy"
+  {+
+    Every review is handled by one account manager.
+  -}
+
+contain :: SearchParameters * AuthData [UNI]
+  PRAGMA "contain"
+  MEANING "Search parameters contain 0 or 1 authentication data."
+
+relevantTo :: SearchParameters -> ClientBranch
+  PRAGMA "relevant to"
+  MEANING "Any search parameter is relevant to some client branch."
+POPULATION relevantTo 
+  CONTAINS [("yelp_search=mario's pizza;yelp_place=turin", "mario's pizza turin")]
+
+definedBy :: SearchParameters -> User
+  PRAGMA "defined by"
+POPULATION definedBy
+  CONTAINS [("yelp_search=mario's pizza;yelp_place=turin", "mario")]
+
+matches :: Review -> SearchParameters
+  PRAGMA "" "matches"
+POPULATION matches
+  CONTAINS [("It was quite nice.", "yelp_search=mario's pizza;yelp_place=turin")]
+
+-- A user can see all reviews, but can filter them by company (or companies they work for)
+
+-- RULE reviewRefersToCompanyIfItContainsItsTerms: refersTo = contains;defines~
+-- PHRASE "A review refers to a company iff it contains the keywords the company defines"
+-- PURPOSE RULE reviewRefersToCompanyIfItContainsItsTerms IN ENGLISH REF ""
+--   {+ Test -}
+
+-- RULE accountManagerHandlesReviews: handledBy |- refersTo;worksWith~
+-- PHRASE "Account managers can only handle reviews of companies they work for"
+-- PURPOSE RULE accountManagerHandlesReviews IN ENGLISH REF "Purpose accountManagerHandlesReviews"
+--   {+
+--     We show to account managers only those reviews for companies they work for.
+--   -}
+
+-- RULE accountManagerHandlesReviews: contains;refersTo |- respondsTo~;ownedBy;worksWith 
+-- PHRASE "Account managers can respond to reviews containing keywords associated with companies they work for"
+
+-- RULE loginRespondsToReviewsOnItsSite: logsInto;publishedOn~ |- respondsTo
+-- PHRASE "A login responds to a review on the site it logs into"
+
+ENDPATTERN
+ENDCONTEXT

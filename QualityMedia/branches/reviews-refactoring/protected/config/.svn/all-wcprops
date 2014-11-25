@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/qualitymedia1/!svn/ver/801/branches/reviews-refactoring/protected/config
+END
+dev.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qualitymedia1/!svn/ver/776/branches/reviews-refactoring/protected/config/dev.php
+END
+live.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/702/branches/reviews-refactoring/protected/config/live.php
+END
+console.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/776/branches/reviews-refactoring/protected/config/console.php
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/801/branches/reviews-refactoring/protected/config/main.php
+END

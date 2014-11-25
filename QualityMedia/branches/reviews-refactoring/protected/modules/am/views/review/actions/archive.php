@@ -1,0 +1,1 @@
+<input type="submit" name="Review[action][archive]" class="btn btn-warning btn-large btn-block" value="Archive & Do Nothing" />

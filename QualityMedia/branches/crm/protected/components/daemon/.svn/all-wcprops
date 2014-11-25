@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/components/daemon
+END
+DaemonRunner.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/components/daemon/DaemonRunner.php
+END
+DaemonOverseer.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/components/daemon/DaemonOverseer.php
+END
+DaemonReference.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/components/daemon/DaemonReference.php
+END
+Daemon.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/components/daemon/Daemon.php
+END

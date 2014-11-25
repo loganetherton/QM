@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/am/components
+END
+ClientDataColumn.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/am/components/ClientDataColumn.php
+END
+ReviewListView.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/am/components/ReviewListView.php
+END
+UserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/am/components/UserIdentity.php
+END
+WebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/am/components/WebUser.php
+END
+ClientGridView.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/am/components/ClientGridView.php
+END
+AmActivityListView.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/am/components/AmActivityListView.php
+END
+AmController.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/am/components/AmController.php
+END
+EmailReportColumn.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/qualitymedia1/!svn/ver/1913/branches/crm/protected/modules/am/components/EmailReportColumn.php
+END

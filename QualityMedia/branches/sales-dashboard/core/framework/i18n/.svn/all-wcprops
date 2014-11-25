@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/i18n
+END
+CChoiceFormat.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/i18n/CChoiceFormat.php
+END
+CMessageSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/i18n/CMessageSource.php
+END
+CGettextMessageSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/i18n/CGettextMessageSource.php
+END
+CDbMessageSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/i18n/CDbMessageSource.php
+END
+CNumberFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/i18n/CNumberFormatter.php
+END
+CPhpMessageSource.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/i18n/CPhpMessageSource.php
+END
+CLocale.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/i18n/CLocale.php
+END
+CDateFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/i18n/CDateFormatter.php
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/qualitymedia1/!svn/ver/1525/branches/junior-am/base/protected/components
+END
+WebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/components/WebUser.php
+END
+GridView.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/components/GridView.php
+END
+UWebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/components/UWebUser.php
+END
+DaemonCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/components/DaemonCommand.php
+END
+BootstrapS3.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/components/BootstrapS3.php
+END
+Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/1525/branches/junior-am/base/protected/components/Controller.php
+END
+CustomTbMenu.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/components/CustomTbMenu.php
+END
+TbTotalSumColumnCurrency.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/components/TbTotalSumColumnCurrency.php
+END
+UFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/components/UFormatter.php
+END
+UserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/components/UserIdentity.php
+END
+ActiveRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/components/ActiveRecord.php
+END
+AssetManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/components/AssetManager.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/qualitymedia1/!svn/ver/1546/branches/junior-am/base/protected/modules/admin/views/accountManager
+END
+_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/qualitymedia1/!svn/ver/1528/branches/junior-am/base/protected/modules/admin/views/accountManager/_form.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/qualitymedia1/!svn/ver/1513/branches/junior-am/base/protected/modules/admin/views/accountManager/update.php
+END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/qualitymedia1/!svn/ver/1513/branches/junior-am/base/protected/modules/admin/views/accountManager/create.php
+END
+_form_create.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/qualitymedia1/!svn/ver/1528/branches/junior-am/base/protected/modules/admin/views/accountManager/_form_create.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/qualitymedia1/!svn/ver/1546/branches/junior-am/base/protected/modules/admin/views/accountManager/index.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qualitymedia1/!svn/ver/1546/branches/junior-am/base/protected/modules/admin/views/accountManager/view.php
+END

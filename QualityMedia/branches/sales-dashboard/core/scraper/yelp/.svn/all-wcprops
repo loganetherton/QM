@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/scraper/yelp
+END
+HttpQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/scraper/yelp/HttpQuery.php
+END
+SearchParameters.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/scraper/yelp/SearchParameters.php
+END
+Yelp.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/scraper/yelp/Yelp.php
+END
+send.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/scraper/yelp/send.php
+END
+ips.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/scraper/yelp/ips.php
+END
+Review.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/scraper/yelp/Review.php
+END
+ganon.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/scraper/yelp/ganon.php
+END
+receive.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/scraper/yelp/receive.php
+END
+run.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/scraper/yelp/run.php
+END

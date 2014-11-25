@@ -1,0 +1,56 @@
+2014/02/03 13:40:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ico/favicon.png".' in /home/logan/public/QualityMedia/branches/dev1/core/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/logan/public/QualityMedia/branches/dev1/core/framework/web/CWebApplication.php(141): CWebApplication->runController('ico/favicon.png')
+#1 /home/logan/public/QualityMedia/branches/dev1/core/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/logan/public/QualityMedia/branches/crm/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/QualityMedia/branches/crm/ico/favicon.png
+---
+2014/02/04 15:04:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "contract/show".' in /home/logan/public/QualityMedia/branches/dev1/core/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/logan/public/QualityMedia/branches/dev1/core/framework/web/CWebApplication.php(141): CWebApplication->runController('contract/show')
+#1 /home/logan/public/QualityMedia/branches/dev1/core/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/logan/public/QualityMedia/branches/crm/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/QualityMedia/branches/crm/contract/show
+---
+2014/02/04 15:04:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "contract/favicon.png".' in /home/logan/public/QualityMedia/branches/dev1/core/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/logan/public/QualityMedia/branches/dev1/core/framework/web/CWebApplication.php(141): CWebApplication->runController('contract/favico...')
+#1 /home/logan/public/QualityMedia/branches/dev1/core/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/logan/public/QualityMedia/branches/crm/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/QualityMedia/branches/crm/contract/favicon.png
+---
+2014/02/04 15:04:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "contract/create".' in /home/logan/public/QualityMedia/branches/dev1/core/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/logan/public/QualityMedia/branches/dev1/core/framework/web/CWebApplication.php(141): CWebApplication->runController('contract/create')
+#1 /home/logan/public/QualityMedia/branches/dev1/core/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/logan/public/QualityMedia/branches/crm/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/QualityMedia/branches/crm/contract/create
+---
+2014/02/04 19:40:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "contract/create".' in /home/logan/public/QualityMedia/branches/dev1/core/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/logan/public/QualityMedia/branches/dev1/core/framework/web/CWebApplication.php(141): CWebApplication->runController('contract/create')
+#1 /home/logan/public/QualityMedia/branches/dev1/core/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/logan/public/QualityMedia/branches/crm/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/QualityMedia/branches/crm/contract/create
+---
+2014/02/04 19:40:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "contract/favicon.png".' in /home/logan/public/QualityMedia/branches/dev1/core/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/logan/public/QualityMedia/branches/dev1/core/framework/web/CWebApplication.php(141): CWebApplication->runController('contract/favico...')
+#1 /home/logan/public/QualityMedia/branches/dev1/core/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/logan/public/QualityMedia/branches/crm/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/QualityMedia/branches/crm/contract/favicon.png
+---
+2014/02/04 20:14:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ico/favicon.png".' in /home/logan/public/QualityMedia/branches/dev1/core/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/logan/public/QualityMedia/branches/dev1/core/framework/web/CWebApplication.php(141): CWebApplication->runController('ico/favicon.png')
+#1 /home/logan/public/QualityMedia/branches/dev1/core/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/logan/public/QualityMedia/branches/crm/index.php(16): CApplication->run()
+#3 {main}
+REQUEST_URI=/QualityMedia/branches/crm/ico/favicon.png
+---

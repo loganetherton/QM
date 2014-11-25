@@ -1,0 +1,12 @@
+
+--This line, and those below, will be ignored--
+
+M    dev1/base/index.php
+M    dev1/base/protected/config/main.php
+M    dev1/base/protected/modules/am/views/emailReport/saved.php
+M    dev1/base/protected/modules/am/models/EmailReport.php
+M    dev1/base/protected/modules/am/models/EmailReportFakeData.php
+M    dev1/base/protected/modules/am/controllers/EmailReportFakeDataController.php
+M    dev1/base/protected/modules/am/controllers/EmailReportController.php
+A    dev1/base/protected/migrations/m140224_074849_alter_emailreports_table_add_upload.php
+M    dev1/core/scraper/phantomjs/libs/config.ini

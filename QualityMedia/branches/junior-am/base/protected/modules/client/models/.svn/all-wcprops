@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/client/models
+END
+ChangePasswordForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/client/models/ChangePasswordForm.php
+END
+LoginForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/client/models/LoginForm.php
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/client/models/Client.php
+END
+ClientDashboard.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/client/models/ClientDashboard.php
+END

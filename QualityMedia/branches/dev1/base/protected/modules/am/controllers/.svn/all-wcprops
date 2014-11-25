@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qualitymedia1/!svn/ver/2285/branches/dev1/base/protected/modules/am/controllers
+END
+PhotosController.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/qualitymedia1/!svn/ver/1246/branches/dev1/base/protected/modules/am/controllers/PhotosController.php
+END
+NotesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/qualitymedia1/!svn/ver/1939/branches/dev1/base/protected/modules/am/controllers/NotesController.php
+END
+SettingsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/467/branches/dev1/base/protected/modules/am/controllers/SettingsController.php
+END
+JuniorAmActivityController.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/qualitymedia1/!svn/ver/2196/branches/dev1/base/protected/modules/am/controllers/JuniorAmActivityController.php
+END
+ManageController.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/qualitymedia1/!svn/ver/1194/branches/dev1/base/protected/modules/am/controllers/ManageController.php
+END
+MessageAnswerController.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/qualitymedia1/!svn/ver/1767/branches/dev1/base/protected/modules/am/controllers/MessageAnswerController.php
+END
+MessageController.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/1621/branches/dev1/base/protected/modules/am/controllers/MessageController.php
+END
+ClientsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/2285/branches/dev1/base/protected/modules/am/controllers/ClientsController.php
+END
+ActivityController.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/qualitymedia1/!svn/ver/1194/branches/dev1/base/protected/modules/am/controllers/ActivityController.php
+END
+EmailReportFakeDataController.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/qualitymedia1/!svn/ver/1877/branches/dev1/base/protected/modules/am/controllers/EmailReportFakeDataController.php
+END
+EmailReportController.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qualitymedia1/!svn/ver/2288/branches/dev1/base/protected/modules/am/controllers/EmailReportController.php
+END
+SocialNetworksController.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/qualitymedia1/!svn/ver/1278/branches/dev1/base/protected/modules/am/controllers/SocialNetworksController.php
+END
+DashboardController.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/qualitymedia1/!svn/ver/1108/branches/dev1/base/protected/modules/am/controllers/DashboardController.php
+END
+ReviewAnswerController.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/qualitymedia1/!svn/ver/2196/branches/dev1/base/protected/modules/am/controllers/ReviewAnswerController.php
+END
+SessionController.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/2039/branches/dev1/base/protected/modules/am/controllers/SessionController.php
+END
+ReviewController.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/qualitymedia1/!svn/ver/2251/branches/dev1/base/protected/modules/am/controllers/ReviewController.php
+END

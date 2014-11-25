@@ -1,0 +1,6 @@
+
+
+.signwrap .signbox .business-boxed {float:right;width:480px; }
+.signwrap .signbox .business-form .dl .inp .txt {float:left;width:275px;padding:10px 8px;background:#f2f2f2;position:relative; behavior:url(js/PIE.htc);-moz-border-radius:5px;-webkit-border-radius:5px;-ms-border-radius:5px;-o-border-radius:5px;border-radius:5px;  -pie-png-fix: true;-webkit-box-shadow: #6b7479 3px 4px 5px;-moz-box-shadow: #6b7479 3px 4px 5px;box-shadow: #6b7479 3px 4px 5px;}
+.btn-getstarted {margin:0; width:290px;height:39px;font:normal 19px "MontserratRegular";color:#fff;background:url(../images/btn-getstarted.jpg) repeat-x top;border:1px solid #ff3302;cursor:pointer;position:relative; -pie-png-fix:true; behavior:url(js/PIE.htc); -moz-border-radius:8px;-webkit-border-radius:8px;-ms-border-radius:8px;-o-border-radius:8px;border-radius:8px; -webkit-box-shadow: #690001 0px 7px 0px;-moz-box-shadow: #690001 0px 7px 0px;box-shadow: #690001 0px 7px 0px;}
+

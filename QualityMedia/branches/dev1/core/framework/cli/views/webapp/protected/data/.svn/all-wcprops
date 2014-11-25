@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/views/webapp/protected/data
+END
+testdrive.db
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/views/webapp/protected/data/testdrive.db
+END
+schema.sqlite.sql
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/views/webapp/protected/data/schema.sqlite.sql
+END
+schema.mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/views/webapp/protected/data/schema.mysql.sql
+END

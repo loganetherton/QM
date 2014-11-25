@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/qualitymedia1/!svn/ver/459/branches/dev1/CRM/protected/config
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/qualitymedia1/!svn/ver/459/branches/dev1/CRM/protected/config/main.php
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/qualitymedia1/!svn/ver/459/branches/dev1/CRM/protected/config/test.php
+END
+cron.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/qualitymedia1/!svn/ver/459/branches/dev1/CRM/protected/config/cron.php
+END
+console.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qualitymedia1/!svn/ver/459/branches/dev1/CRM/protected/config/console.php
+END

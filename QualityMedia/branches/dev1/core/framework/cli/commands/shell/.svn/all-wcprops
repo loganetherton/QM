@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/commands/shell
+END
+CrudCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/commands/shell/CrudCommand.php
+END
+ModelCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/commands/shell/ModelCommand.php
+END
+ControllerCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/commands/shell/ControllerCommand.php
+END
+FormCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/commands/shell/FormCommand.php
+END
+ModuleCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/commands/shell/ModuleCommand.php
+END
+HelpCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/commands/shell/HelpCommand.php
+END

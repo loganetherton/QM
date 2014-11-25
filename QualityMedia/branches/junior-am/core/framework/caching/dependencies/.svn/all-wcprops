@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/caching/dependencies
+END
+CChainedCacheDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/caching/dependencies/CChainedCacheDependency.php
+END
+CExpressionDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/caching/dependencies/CExpressionDependency.php
+END
+CCacheDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/caching/dependencies/CCacheDependency.php
+END
+CFileCacheDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/caching/dependencies/CFileCacheDependency.php
+END
+CGlobalStateCacheDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/caching/dependencies/CGlobalStateCacheDependency.php
+END
+CDirectoryCacheDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/caching/dependencies/CDirectoryCacheDependency.php
+END
+CDbCacheDependency.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/framework/caching/dependencies/CDbCacheDependency.php
+END

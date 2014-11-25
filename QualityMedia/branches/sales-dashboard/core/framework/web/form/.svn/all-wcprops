@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/web/form
+END
+CForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/web/form/CForm.php
+END
+CFormStringElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/web/form/CFormStringElement.php
+END
+CFormButtonElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/web/form/CFormButtonElement.php
+END
+CFormElementCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/web/form/CFormElementCollection.php
+END
+CFormElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/web/form/CFormElement.php
+END
+CFormInputElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/web/form/CFormInputElement.php
+END

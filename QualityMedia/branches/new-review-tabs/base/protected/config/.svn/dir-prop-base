@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 10
+local.php
+
+K 13
+svn:mergeinfo
+V 272
+/branches/admin-subscription-addons/base/protected/config:1207-1208
+/branches/dev1/base/protected/config:61-67,69-73,75,77-102,104,106-111,113,117-126,128,130,132-135,137-180,182-189,191-208,210-219,221-1810,1816-1817,1824,1862-1865,1879-1889,1896-1899,1923-2148,2152-2153
+END

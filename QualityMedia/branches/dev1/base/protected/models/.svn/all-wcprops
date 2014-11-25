@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/qualitymedia1/!svn/ver/2279/branches/dev1/base/protected/models
+END
+YelpAnalytics.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/1194/branches/dev1/base/protected/models/YelpAnalytics.php
+END
+Review.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/2252/branches/dev1/base/protected/models/Review.php
+END
+SystemNotification.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/1146/branches/dev1/base/protected/models/SystemNotification.php
+END
+DaemonLogEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/1836/branches/dev1/base/protected/models/DaemonLogEvent.php
+END
+AmActivity.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/2197/branches/dev1/base/protected/models/AmActivity.php
+END
+Subscription.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qualitymedia1/!svn/ver/1789/branches/dev1/base/protected/models/Subscription.php
+END
+YelpInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qualitymedia1/!svn/ver/1194/branches/dev1/base/protected/models/YelpInfo.php
+END
+Transaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qualitymedia1/!svn/ver/570/branches/dev1/base/protected/models/Transaction.php
+END
+AccountManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/1845/branches/dev1/base/protected/models/AccountManager.php
+END
+DaemonLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/1839/branches/dev1/base/protected/models/DaemonLog.php
+END
+ReviewUpdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qualitymedia1/!svn/ver/861/branches/dev1/base/protected/models/ReviewUpdate.php
+END
+YelpPhoto.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qualitymedia1/!svn/ver/1194/branches/dev1/base/protected/models/YelpPhoto.php
+END
+YelpAnalyticsStorage.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/2264/branches/dev1/base/protected/models/YelpAnalyticsStorage.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/qualitymedia1/!svn/ver/2065/branches/dev1/base/protected/models/Message.php
+END
+ProductsForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qualitymedia1/!svn/ver/863/branches/dev1/base/protected/models/ProductsForm.php
+END
+ProfileQueue.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qualitymedia1/!svn/ver/1888/branches/dev1/base/protected/models/ProfileQueue.php
+END
+WorkerActiveTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qualitymedia1/!svn/ver/2276/branches/dev1/base/protected/models/WorkerActiveTask.php
+END
+Plan.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/qualitymedia1/!svn/ver/643/branches/dev1/base/protected/models/Plan.php
+END
+BillingInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qualitymedia1/!svn/ver/2103/branches/dev1/base/protected/models/BillingInfo.php
+END
+Profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/qualitymedia1/!svn/ver/1284/branches/dev1/base/protected/models/Profile.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/qualitymedia1/!svn/ver/1787/branches/dev1/base/protected/models/User.php
+END
+WorkerActiveTaskHistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qualitymedia1/!svn/ver/1966/branches/dev1/base/protected/models/WorkerActiveTaskHistory.php
+END
+Invoice.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/324/branches/dev1/base/protected/models/Invoice.php
+END
+Salesman.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/qualitymedia1/!svn/ver/541/branches/dev1/base/protected/models/Salesman.php
+END
+YelpBusiness.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qualitymedia1/!svn/ver/2279/branches/dev1/base/protected/models/YelpBusiness.php
+END
+Queue.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qualitymedia1/!svn/ver/1901/branches/dev1/base/protected/models/Queue.php
+END
+Tweet.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qualitymedia1/!svn/ver/1211/branches/dev1/base/protected/models/Tweet.php
+END
+AmStats.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/qualitymedia1/!svn/ver/2161/branches/dev1/base/protected/models/AmStats.php
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/qualitymedia1/!svn/ver/2193/branches/new-review-tabs/base/protected/modules/am/views/layouts/tabs
+END
+message.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/modules/am/views/layouts/tabs/message.php
+END
+review.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/modules/am/views/layouts/tabs/review.php
+END
+client.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/modules/am/views/layouts/tabs/client.php
+END
+messageJr.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/modules/am/views/layouts/tabs/messageJr.php
+END
+emailReportFakeData.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/modules/am/views/layouts/tabs/emailReportFakeData.php
+END
+reviewJr.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/qualitymedia1/!svn/ver/2193/branches/new-review-tabs/base/protected/modules/am/views/layouts/tabs/reviewJr.php
+END
+emailReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/modules/am/views/layouts/tabs/emailReport.php
+END
+amStats.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/modules/am/views/layouts/tabs/amStats.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/modules/am/views/layouts/tabs/settings.php
+END
+clientJr.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/qualitymedia1/!svn/ver/2164/branches/new-review-tabs/base/protected/modules/am/views/layouts/tabs/clientJr.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/1840/branches/dev1/base/protected/modules/admin/views/daemon
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/qualitymedia1/!svn/ver/1806/branches/dev1/base/protected/modules/admin/views/daemon/index.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/1822/branches/dev1/base/protected/modules/admin/views/daemon/view.php
+END
+_daemon.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/1840/branches/dev1/base/protected/modules/admin/views/daemon/_daemon.php
+END

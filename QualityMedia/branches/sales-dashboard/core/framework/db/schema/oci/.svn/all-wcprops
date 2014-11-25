@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/db/schema/oci
+END
+COciCommandBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/db/schema/oci/COciCommandBuilder.php
+END
+COciTableSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/db/schema/oci/COciTableSchema.php
+END
+COciColumnSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/db/schema/oci/COciColumnSchema.php
+END
+COciSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/db/schema/oci/COciSchema.php
+END

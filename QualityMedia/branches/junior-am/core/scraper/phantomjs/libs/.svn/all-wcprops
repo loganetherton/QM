@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/phantomjs/libs
+END
+read_info.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/phantomjs/libs/read_info.js
+END
+config.ini
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/phantomjs/libs/config.ini
+END
+read_callbacks.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/phantomjs/libs/read_callbacks.js
+END
+exp_utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/phantomjs/libs/exp_utils.js
+END
+read_reviews.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/phantomjs/libs/read_reviews.js
+END
+utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/phantomjs/libs/utils.js
+END
+read_analytics.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/phantomjs/libs/read_analytics.js
+END
+read_photo.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/core/scraper/phantomjs/libs/read_photo.js
+END

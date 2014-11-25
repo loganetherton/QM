@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qualitymedia1/!svn/ver/1513/branches/junior-am/base/protected/modules/admin/models
+END
+Revenue.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/admin/models/Revenue.php
+END
+CreateSalesmanForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/admin/models/CreateSalesmanForm.php
+END
+LoginForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/admin/models/LoginForm.php
+END
+SalesmanAssignment.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/admin/models/SalesmanAssignment.php
+END
+YelpAuthenticationForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/admin/models/YelpAuthenticationForm.php
+END
+PlanForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/admin/models/PlanForm.php
+END
+CreateAccountManagerForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/qualitymedia1/!svn/ver/1513/branches/junior-am/base/protected/modules/admin/models/CreateAccountManagerForm.php
+END
+AccountManagerAssignment.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/admin/models/AccountManagerAssignment.php
+END
+CreateAdminForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/admin/models/CreateAdminForm.php
+END
+ClientForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/admin/models/ClientForm.php
+END
+AdminClientSummary.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/admin/models/AdminClientSummary.php
+END
+AdminClient.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/admin/models/AdminClient.php
+END
+Admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/admin/models/Admin.php
+END
+SubscriptionForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/qualitymedia1/!svn/ver/1335/branches/junior-am/base/protected/modules/admin/models/SubscriptionForm.php
+END

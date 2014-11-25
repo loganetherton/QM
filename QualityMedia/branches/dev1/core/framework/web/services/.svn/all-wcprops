@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/services
+END
+CWebServiceAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/services/CWebServiceAction.php
+END
+CWebService.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/services/CWebService.php
+END
+CWsdlGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/web/services/CWsdlGenerator.php
+END

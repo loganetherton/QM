@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qualitymedia1/!svn/ver/862/branches/product-page/protected/modules/am/controllers
+END
+SettingsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/modules/am/controllers/SettingsController.php
+END
+ClientsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/modules/am/controllers/ClientsController.php
+END
+ReviewAnswerController.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/qualitymedia1/!svn/ver/862/branches/product-page/protected/modules/am/controllers/ReviewAnswerController.php
+END
+ReviewController.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/qualitymedia1/!svn/ver/862/branches/product-page/protected/modules/am/controllers/ReviewController.php
+END
+SessionController.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/modules/am/controllers/SessionController.php
+END
+MessageAnswerController.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/qualitymedia1/!svn/ver/862/branches/product-page/protected/modules/am/controllers/MessageAnswerController.php
+END
+MessageController.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/qualitymedia1/!svn/ver/862/branches/product-page/protected/modules/am/controllers/MessageController.php
+END
+DashboardController.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/modules/am/controllers/DashboardController.php
+END
+ManageController.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/modules/am/controllers/ManageController.php
+END
+NotesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/modules/am/controllers/NotesController.php
+END
+ActivityController.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/modules/am/controllers/ActivityController.php
+END
+PhotosController.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/qualitymedia1/!svn/ver/847/branches/product-page/protected/modules/am/controllers/PhotosController.php
+END

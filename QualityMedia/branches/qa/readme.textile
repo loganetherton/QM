@@ -1,0 +1,1 @@
+Quality assurance branch. Merge with development branches; test before deployment

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/web/widgets/pagers
+END
+CBasePager.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/web/widgets/pagers/CBasePager.php
+END
+CListPager.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/web/widgets/pagers/CListPager.php
+END
+CLinkPager.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/web/widgets/pagers/CLinkPager.php
+END
+pager.css
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/qualitymedia1/!svn/ver/1550/branches/sales-dashboard/core/framework/web/widgets/pagers/pager.css
+END

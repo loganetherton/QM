@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/views/webapp/protected/tests/fixtures
+END
+git-gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/views/webapp/protected/tests/fixtures/git-gitkeep
+END
+hg-hgkeep
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/qualitymedia1/!svn/ver/24/branches/dev1/core/framework/cli/views/webapp/protected/tests/fixtures/hg-hgkeep
+END

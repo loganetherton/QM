@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 17
+.htaccess
+css
+js
+
+K 13
+svn:mergeinfo
+V 222
+/branches/frontend-look/base:1274-1283
+/branches/junior-am/base:1336-1589
+/branches/multiple-biz-accounts:1144-1223
+/branches/product-page:847-867
+/branches/reviews-refactoring:702-860
+/trunk/base:221-494,671-873,1274-1282
+END
